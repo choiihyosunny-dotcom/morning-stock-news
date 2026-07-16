@@ -11,7 +11,11 @@ const KEYWORD_STOPWORDS = new Set([
 ]);
 
 function extractKeywords(title, max = 3) {
-  const cleaned = title.replace(/\[[^\]]*\]/g, "").replace(/["'“”‘’…·]/g, "");
+  const cleaned = title
+    .replace(/\[[^\]]*\]/g, " ")
+    .replace(/["'“”‘’]/g, "")
+    .replace(/[…·↓↑]/g, " ")
+    .replace(/\.{2,}/g, " ");
   const tokens = cleaned.split(/[\s,\-–—:()]+/).filter(Boolean);
   const seen = new Set();
   const picked = [];
