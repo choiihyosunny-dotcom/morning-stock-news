@@ -1,5 +1,5 @@
 const WATCHLIST_KEY = "morning-stock-news:watchlist";
-const CORS_PROXY = "https://api.allorigins.win/raw?url=";
+const READER_PROXY = "https://r.jina.ai/";
 
 const SUGGESTIONS = [
   "삼성전자", "SK하이닉스", "LG에너지솔루션", "삼성바이오로직스", "현대차",
@@ -95,30 +95,30 @@ function renderChips(watchlist) {
   });
 }
 
-function parseRssXml(xmlText) {
-  const doc = new DOMParser().parseFromString(xmlText, "text/xml");
-  const items = Array.from(doc.querySelectorAll("item")).slice(0, 5);
-  return items.map((item) => {
-    const title = item.querySelector("title")?.textContent || "";
-    const link = item.querySelector("link")?.textContent || "";
-    const pubDateRaw = item.querySelector("pubDate")?.textContent || "";
-    const source = item.querySelector("source")?.textContent || "Google 뉴스";
+function parseReaderMarkdown(text, limit = 5) {
+  const re = /### \[([^\]]+)\]\((https:\/\/news\.google\.com\/rss\/articles\/[^\)]+)\)[\s\S]*?\n\n([A-Za-z]{3}, \d{1,2} [A-Za-z]{3} \d{4}[^\n]*)/g;
+  const items = [];
+  let m;
+  while ((m = re.exec(text)) && items.length < limit) {
+    const [, rawTitle, link, pubDateRaw] = m;
+    const parts = rawTitle.split(" - ");
+    const source = parts.length > 1 ? parts.pop().trim() : "Google 뉴스";
+    const title = parts.join(" - ").trim();
     let pubDate = "";
-    if (pubDateRaw) {
-      const d = new Date(pubDateRaw);
-      if (!isNaN(d)) pubDate = `${d.getMonth() + 1}.${d.getDate()}`;
-    }
-    return { title: title.replace(/\s+-\s+[^-]+$/, "").trim(), link, source, pubDate };
-  });
+    const d = new Date(pubDateRaw);
+    if (!isNaN(d)) pubDate = `${d.getMonth() + 1}.${d.getDate()}`;
+    items.push({ title, link, source, pubDate });
+  }
+  return items;
 }
 
 async function fetchStockNews(name) {
   const query = encodeURIComponent(`${name} 주가`);
   const rssUrl = `https://news.google.com/rss/search?q=${query}&hl=ko&gl=KR&ceid=KR:ko`;
-  const res = await fetch(CORS_PROXY + encodeURIComponent(rssUrl));
+  const res = await fetch(READER_PROXY + rssUrl);
   if (!res.ok) throw new Error("news fetch failed");
   const text = await res.text();
-  return parseRssXml(text);
+  return parseReaderMarkdown(text);
 }
 
 async function renderWatchlistNews(watchlist) {
