@@ -29,3 +29,8 @@ jobs:
           git add data/market.json data/news.json data/movers.json
           git diff --cached --quiet && echo "no changes" || git commit -m "chore: daily market data update"
           git push
+
+      - name: Send push notification
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: node scripts/notify.mjs
