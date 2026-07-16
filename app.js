@@ -112,13 +112,19 @@ function parseReaderMarkdown(text, limit = 5) {
   return items;
 }
 
-async function fetchStockNews(name) {
+async function fetchStockNews(name, attempt = 1) {
   const query = encodeURIComponent(`${name} 주가`);
   const rssUrl = `https://news.google.com/rss/search?q=${query}&hl=ko&gl=KR&ceid=KR:ko`;
-  const res = await fetch(READER_PROXY + rssUrl);
-  if (!res.ok) throw new Error("news fetch failed");
-  const text = await res.text();
-  return parseReaderMarkdown(text);
+  try {
+    const res = await fetch(READER_PROXY + rssUrl);
+    if (!res.ok) throw new Error("news fetch failed");
+    const text = await res.text();
+    return parseReaderMarkdown(text);
+  } catch (err) {
+    if (attempt >= 3) throw err;
+    await new Promise((r) => setTimeout(r, 800 * attempt));
+    return fetchStockNews(name, attempt + 1);
+  }
 }
 
 async function renderWatchlistNews(watchlist) {
