@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-07-16T07:04:50.338Z",
+  "updatedAt": "2026-07-16T07:29:32.799Z",
   "items": [
-    {
-      "title": "코스피, 한은 금리 인상 속 7%대 급락…코스닥 4%대↓",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90MmVFdnZva2ZWWDIwUjU0a184TzNKYUlnWGRYTmdDdHRBblNEOWNtWFo0MXZiWXo1MkZ6STh3aG9yZEIxblVyWkVTQjRTTXN4RFFrejdvd0JSVlnSAWBBVV95cUxOWmk1Q1A5SDM1T2stNTVSSGpoZTlOaGlFZjhuTlNHQ2tTODlTREdYSUVMTGlaZW0wZXY1a1U3bElrbGhQNE1wc0ZQTm1UWVRXSURXNlQ2eGZiUUEzN2hheUM?oc=5",
-      "source": "연합뉴스",
-      "pubDate": "7.16",
-      "keywords": [
-        "코스피",
-        "7%대",
-        "코스닥"
-      ]
-    },
     {
       "title": "코스피, 6.37% 하락해 다시 7천선 아래로…코스닥도 4.53%↓",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54QTlqRWkzeUstclZNLWE4QVVUdklaRGxqelhrQVRSUVRESEJpS0ZOcjBZLWtUcU9Oc1BSUm82STM2dlBCWXN5bGZDLXpyVVB5QkFGVW9TaTc1V1N1aV83d1VFSjVKQUk?oc=5",
@@ -21,6 +10,28 @@
         "6.37%",
         "4.53%",
         "코스닥도"
+      ]
+    },
+    {
+      "title": "코스피, 6.4% 급락해 6,800대 마감…하루 만에 ‘7천피’ 반납",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZVjhhMWc2NGJwX3FFekZ6Mjc5MFQ2ZEo4S3l1TGRzYmItUVdOYmtkdmtuQWJNRUY0YXpMRWJ2RVRnUXRQYVQyZ1RKWGM2XzBwUGU2OGdxakJoTjQ?oc=5",
+      "source": "KBS 뉴스",
+      "pubDate": "7.16",
+      "keywords": [
+        "6.4%",
+        "800대",
+        "코스피"
+      ]
+    },
+    {
+      "title": "코스피 급락에 매도 사이드카 발동",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yMUcxYWM0R24xUVBtM2dGeExJdFRUU2V0cUNQRVdFNHlLUEtVa0V6TjFZNmY1MnhYcHp0RE84NmZLZnFSbmFYQWpnSXdHVnJ0WWRJZlRDcExQWXkxMFV2etIBYEFVX3lxTE1yMUcxYWM0R24xUVBtM2dGeExJdFRUU2V0cUNQRVdFNHlLUEtVa0V6TjFZNmY1MnhYcHp0RE84NmZLZnFSbmFYQWpnSXdHVnJ0WWRJZlRDcExQWXkxMFV2eg?oc=5",
+      "source": "연합뉴스",
+      "pubDate": "7.16",
+      "keywords": [
+        "사이드카",
+        "코스피",
+        "급락에"
       ]
     },
     {
@@ -35,6 +46,17 @@
       ]
     },
     {
+      "title": "알테오젠, 코스피 이전상장 추진 미룬다…30% 무상증자 결정",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FQkpSTDRkU0J5QUhCOGdKR1h3SjZNbHJCZVRlRG1ubUpUMURtZmVQeDlGMlI3QnA2TDhUWGxRdHh6UU9PM3daa3hhU3kxOVk3aUVrUEw0SzExZjBCRExuaDEwTzRBZExRQmd4eElsc1U?oc=5",
+      "source": "연합인포맥스",
+      "pubDate": "7.16",
+      "keywords": [
+        "알테오젠",
+        "이전상장",
+        "무상증자"
+      ]
+    },
+    {
       "title": "[속보]코스피, 6% 급등에 매수사이드카 발동",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83aUtMX3JYYWN2V21UOWdsYnUyaWhrd3lJQ3VBT0ZaUjZpS3ZCUzBYMll6WlUzWldLYkhyX3c3elh3Z3BDMlpPV2g4Y01xUkJmS01PQ1ZubkdkQdIBX0FVX3lxTE9ZQ2lzMUJmamd5X19UZ2hMVlctcXA0bDNVdFJySTAwR0tTdlU4bnFIYmxTaWZBSEU3SXZTRjNBaEVnUnBmX1ZTUU1GNVpnU3VfdEE4X2UtWGVlQjV0SzZR?oc=5",
       "source": "경향신문",
@@ -43,17 +65,6 @@
         "매수사이드카",
         "코스피",
         "급등에"
-      ]
-    },
-    {
-      "title": "반도체 약세에 증시 출렁…코스피·코스닥 잇달아 매도사이드카",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mT0x1Rkx0VXpmY25qVF9xMUZMbWYtaHA0VEtuRHZ6RFRncDdyakxudkNzcWFEWTg0U25UOVJ5Q1N6ZlFUcXZVVkRBNDNqb2lKOEJvVlp2UnRGU3c?oc=5",
-      "source": "KBS 뉴스",
-      "pubDate": "7.16",
-      "keywords": [
-        "매도사이드카",
-        "반도체",
-        "약세에"
       ]
     },
     {
@@ -68,24 +79,13 @@
       ]
     },
     {
-      "title": "기준금리 2.75%로 인상...코스피 6천·코스닥 7백선",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YV2VCaGoxaVdKYnRBNW54dnVDR19CRTlweEh3ZlhMazE5RzhKM2JGazJGcGlPT0FaaXhjRFEzNkdILVRvMHcxeHBiUi1weHdDT1E4czFJM2U0LWtOY3c?oc=5",
+      "title": "속보 6.4% 급락한 코스피 6,820 마감...다시 '7천피' 아래로",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pZXFwUWdxUkF6amFqNmQyblh5M2drXzNBQzNlek1wMzNOR2k2M3cyTG9Lb19aUTZCTGZkOVdELTJUY0xzcU9XMGNJcm9CQ3JtaUNMQWlrUlg5QnBVV3NoQm9NYUx0YWx1YWtiNlN2MEtvWEF6OFE?oc=5",
       "source": "YTN",
       "pubDate": "7.16",
       "keywords": [
-        "2.75%로",
-        "기준금리",
-        "코스피"
-      ]
-    },
-    {
-      "title": "코스피 6.37% 급락…하루 만에 7000선 다시 붕괴",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sV1FOMVhXMDA5UFB4T0E3Q3FJazd4UUpSaG9BclNlN3Fja0xRZ1czUkJsck40czk4clF0dzdNTEhUcjE5bFhtVkFISGhhLVk?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "7.16",
-      "keywords": [
-        "6.37%",
-        "7000선",
+        "6.4%",
+        "급락한",
         "코스피"
       ]
     }
