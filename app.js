@@ -8,6 +8,41 @@ const SUGGESTIONS = [
   "HD현대중공업", "두산에너빌리티", "SK이노베이션", "크래프톤", "하이브"
 ];
 
+const KEYWORD_STOPWORDS = new Set([
+  "속보", "단독", "종합", "업데이트", "오늘", "내일", "전망", "관련", "이슈", "분석", "현황",
+  "이번", "지난", "최근", "한편", "이후", "이전", "위해", "통해", "대한", "대해", "것",
+  "때문", "보다", "부터", "까지", "에서", "으로", "에게", "한테", "이라며", "라며",
+  "이라고", "라고", "한다", "했다", "된다", "됐다", "이다", "였다", "있다", "없다",
+  "한다면", "하는", "했던", "하며", "하고", "해서", "같은", "위한", "따라", "새로운",
+]);
+
+function extractKeywords(title, max = 3) {
+  const cleaned = title.replace(/\[[^\]]*\]/g, "").replace(/["'“”‘’…·]/g, "");
+  const tokens = cleaned.split(/[\s,\-–—:()]+/).filter(Boolean);
+  const seen = new Set();
+  const picked = [];
+  for (const raw of tokens) {
+    const t = raw.replace(/^[^가-힣A-Za-z0-9]+|[^가-힣A-Za-z0-9%]+$/g, "");
+    if (t.length < 2 || KEYWORD_STOPWORDS.has(t) || seen.has(t)) continue;
+    seen.add(t);
+    picked.push(t);
+  }
+  return picked.sort((a, b) => b.length - a.length).slice(0, max);
+}
+
+function newsItemHtml(item) {
+  const keywords = item.keywords && item.keywords.length ? item.keywords : extractKeywords(item.title);
+  const tagsHtml = keywords.length
+    ? `<span class="keyword-tags">${keywords.map((k) => `<span class="keyword-tag">#${k}</span>`).join("")}</span>`
+    : "";
+  return `
+    <li>
+      <a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a>
+      <span class="news-meta">${item.source || ""}${item.pubDate ? " · " + item.pubDate : ""}</span>
+      ${tagsHtml}
+    </li>`;
+}
+
 function loadWatchlist() {
   try {
     const raw = localStorage.getItem(WATCHLIST_KEY);
@@ -57,12 +92,25 @@ function renderMarketNews(news) {
     list.innerHTML = `<li class="empty-state">뉴스를 불러오지 못했습니다.</li>`;
     return;
   }
-  list.innerHTML = news
+  list.innerHTML = news.map(newsItemHtml).join("");
+}
+
+function renderMovers(movers) {
+  const list = document.getElementById("moversList");
+  if (!movers || !movers.length) {
+    list.innerHTML = `<li class="empty-state">급등주 데이터를 불러오지 못했습니다.</li>`;
+    return;
+  }
+  list.innerHTML = movers
     .map(
-      (item) => `
-      <li>
-        <a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a>
-        <span class="news-meta">${item.source || ""}${item.pubDate ? " · " + item.pubDate : ""}</span>
+      (m) => `
+      <li class="mover-item">
+        <a href="https://finance.naver.com/item/main.naver?code=${m.code}" target="_blank" rel="noopener noreferrer">
+          <span class="mover-name">${m.name}</span>
+          <span class="mover-market">${m.market}</span>
+        </a>
+        <span class="mover-price">${m.price.toLocaleString("ko-KR")}원</span>
+        <span class="mover-change up">▲ ${m.changePercent.toFixed(2)}%</span>
       </li>`
     )
     .join("");
@@ -107,7 +155,7 @@ function parseReaderMarkdown(text, limit = 5) {
     let pubDate = "";
     const d = new Date(pubDateRaw);
     if (!isNaN(d)) pubDate = `${d.getMonth() + 1}.${d.getDate()}`;
-    items.push({ title, link, source, pubDate });
+    items.push({ title, link, source, pubDate, keywords: extractKeywords(title) });
   }
   return items;
 }
@@ -149,15 +197,7 @@ async function renderWatchlistNews(watchlist) {
     try {
       const items = await fetchStockNews(name);
       block.innerHTML = items.length
-        ? items
-            .map(
-              (item) => `
-              <li>
-                <a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a>
-                <span class="news-meta">${item.source}${item.pubDate ? " · " + item.pubDate : ""}</span>
-              </li>`
-            )
-            .join("")
+        ? items.map(newsItemHtml).join("")
         : `<li class="empty-state">관련 뉴스를 찾지 못했습니다.</li>`;
     } catch {
       block.innerHTML = `<li class="error-state">뉴스를 불러오지 못했습니다. 잠시 후 새로고침 해보세요.</li>`;
@@ -215,6 +255,13 @@ async function init() {
     renderMarketNews(news.items);
   } catch {
     document.getElementById("marketNews").innerHTML = `<li class="empty-state">뉴스를 불러오지 못했습니다.</li>`;
+  }
+
+  try {
+    const movers = await loadData("data/movers.json");
+    renderMovers(movers.items);
+  } catch {
+    document.getElementById("moversList").innerHTML = `<li class="empty-state">급등주 데이터를 불러오지 못했습니다.</li>`;
   }
 }
 
