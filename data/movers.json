@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-07-19T07:17:34.525Z",
+  "updatedAt": "2026-07-20T08:28:51.557Z",
   "items": [
     {
       "market": "코스피",
       "code": "044380",
       "name": "주연테크",
-      "price": 1040,
+      "price": 1352,
       "changePercent": 30
     },
     {
-      "market": "코스닥",
-      "code": "008290",
-      "name": "원풍물산",
-      "price": 338,
-      "changePercent": 30
+      "market": "코스피",
+      "code": "002140",
+      "name": "고려산업",
+      "price": 2375,
+      "changePercent": 29.99
     },
     {
       "market": "코스닥",
-      "code": "069920",
-      "name": "엑시온그룹",
-      "price": 949,
-      "changePercent": 30
+      "code": "208640",
+      "name": "썸에이지",
+      "price": 945,
+      "changePercent": 29.99
     },
     {
-      "market": "코스닥",
-      "code": "072770",
-      "name": "멤레이비티",
-      "price": 1053,
-      "changePercent": 30
+      "market": "코스피",
+      "code": "465770",
+      "name": "STX그린로지스",
+      "price": 4140,
+      "changePercent": 29.98
     },
     {
       "market": "코스닥",
       "code": "066910",
       "name": "손오공",
-      "price": 2285,
+      "price": 2970,
       "changePercent": 29.98
     },
     {
       "market": "코스닥",
-      "code": "023790",
-      "name": "동일스틸럭스",
-      "price": 1583,
-      "changePercent": 29.97
-    },
-    {
-      "market": "코스피",
-      "code": "011090",
-      "name": "에넥스",
-      "price": 2755,
-      "changePercent": 29.95
-    },
-    {
-      "market": "코스피",
-      "code": "002070",
-      "name": "비비안",
-      "price": 13800,
+      "code": "079940",
+      "name": "가비아",
+      "price": 44050,
       "changePercent": 29.94
+    },
+    {
+      "market": "코스닥",
+      "code": "069920",
+      "name": "엑시온그룹",
+      "price": 1233,
+      "changePercent": 29.93
+    },
+    {
+      "market": "코스닥",
+      "code": "079950",
+      "name": "인베니아",
+      "price": 1055,
+      "changePercent": 29.93
     }
   ]
 }
