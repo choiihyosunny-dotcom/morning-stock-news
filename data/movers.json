@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-07-20T08:28:51.557Z",
+  "updatedAt": "2026-07-21T07:42:03.254Z",
   "items": [
     {
-      "market": "코스피",
-      "code": "044380",
-      "name": "주연테크",
-      "price": 1352,
+      "market": "코스닥",
+      "code": "066590",
+      "name": "스모트로닉",
+      "price": 3185,
       "changePercent": 30
     },
     {
-      "market": "코스피",
-      "code": "002140",
-      "name": "고려산업",
-      "price": 2375,
+      "market": "코스닥",
+      "code": "270660",
+      "name": "에브리봇",
+      "price": 12610,
+      "changePercent": 30
+    },
+    {
+      "market": "코스닥",
+      "code": "439960",
+      "name": "코스모로보틱스",
+      "price": 13520,
+      "changePercent": 30
+    },
+    {
+      "market": "코스닥",
+      "code": "354200",
+      "name": "엔젠바이오",
+      "price": 1825,
       "changePercent": 29.99
     },
     {
       "market": "코스닥",
-      "code": "208640",
-      "name": "썸에이지",
-      "price": 945,
-      "changePercent": 29.99
+      "code": "050090",
+      "name": "비케이홀딩스",
+      "price": 373,
+      "changePercent": 29.97
     },
     {
       "market": "코스피",
-      "code": "465770",
-      "name": "STX그린로지스",
-      "price": 4140,
-      "changePercent": 29.98
+      "code": "015260",
+      "name": "에이엔피",
+      "price": 509,
+      "changePercent": 29.85
     },
     {
-      "market": "코스닥",
-      "code": "066910",
-      "name": "손오공",
-      "price": 2970,
-      "changePercent": 29.98
+      "market": "코스피",
+      "code": "002630",
+      "name": "오리엔트바이오",
+      "price": 1060,
+      "changePercent": 17.52
     },
     {
-      "market": "코스닥",
-      "code": "079940",
-      "name": "가비아",
-      "price": 44050,
-      "changePercent": 29.94
-    },
-    {
-      "market": "코스닥",
-      "code": "069920",
-      "name": "엑시온그룹",
-      "price": 1233,
-      "changePercent": 29.93
-    },
-    {
-      "market": "코스닥",
-      "code": "079950",
-      "name": "인베니아",
-      "price": 1055,
-      "changePercent": 29.93
+      "market": "코스피",
+      "code": "217590",
+      "name": "티엠씨",
+      "price": 13300,
+      "changePercent": 14.75
     }
   ]
 }
