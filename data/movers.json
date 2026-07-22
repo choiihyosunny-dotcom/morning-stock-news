@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-07-21T07:42:03.254Z",
+  "updatedAt": "2026-07-22T07:42:21.877Z",
   "items": [
     {
       "market": "코스닥",
-      "code": "066590",
-      "name": "스모트로닉",
-      "price": 3185,
-      "changePercent": 30
-    },
-    {
-      "market": "코스닥",
-      "code": "270660",
-      "name": "에브리봇",
-      "price": 12610,
-      "changePercent": 30
+      "code": "140430",
+      "name": "카티스",
+      "price": 2125,
+      "changePercent": 29.97
     },
     {
       "market": "코스닥",
       "code": "439960",
       "name": "코스모로보틱스",
-      "price": 13520,
-      "changePercent": 30
+      "price": 17570,
+      "changePercent": 29.96
     },
     {
       "market": "코스닥",
-      "code": "354200",
-      "name": "엔젠바이오",
-      "price": 1825,
-      "changePercent": 29.99
+      "code": "078590",
+      "name": "휴림에이텍",
+      "price": 2590,
+      "changePercent": 29.95
     },
     {
       "market": "코스닥",
-      "code": "050090",
-      "name": "비케이홀딩스",
-      "price": 373,
-      "changePercent": 29.97
+      "code": "484810",
+      "name": "티엑스알로보틱스",
+      "price": 12540,
+      "changePercent": 29.95
+    },
+    {
+      "market": "코스닥",
+      "code": "073190",
+      "name": "듀오백",
+      "price": 894,
+      "changePercent": 29.94
     },
     {
       "market": "코스피",
-      "code": "015260",
-      "name": "에이엔피",
-      "price": 509,
-      "changePercent": 29.85
+      "code": "465770",
+      "name": "STX그린로지스",
+      "price": 4955,
+      "changePercent": 24.19
     },
     {
       "market": "코스피",
-      "code": "002630",
-      "name": "오리엔트바이오",
-      "price": 1060,
-      "changePercent": 17.52
+      "code": "000500",
+      "name": "가온전선",
+      "price": 209500,
+      "changePercent": 15.68
     },
     {
       "market": "코스피",
-      "code": "217590",
-      "name": "티엠씨",
-      "price": 13300,
-      "changePercent": 14.75
+      "code": "006360",
+      "name": "GS건설",
+      "price": 29100,
+      "changePercent": 13.67
     }
   ]
 }
