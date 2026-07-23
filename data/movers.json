@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-07-22T07:42:21.877Z",
+  "updatedAt": "2026-07-23T07:44:12.763Z",
   "items": [
     {
-      "market": "코스닥",
-      "code": "140430",
-      "name": "카티스",
-      "price": 2125,
-      "changePercent": 29.97
+      "market": "코스피",
+      "code": "010060",
+      "name": "OCI홀딩스",
+      "price": 247000,
+      "changePercent": 30
+    },
+    {
+      "market": "코스피",
+      "code": "475150",
+      "name": "SK이터닉스",
+      "price": 80600,
+      "changePercent": 30
     },
     {
       "market": "코스닥",
-      "code": "439960",
-      "name": "코스모로보틱스",
-      "price": 17570,
+      "code": "039980",
+      "name": "폴라리스AI",
+      "price": 5180,
+      "changePercent": 29.99
+    },
+    {
+      "market": "코스닥",
+      "code": "076610",
+      "name": "해성옵틱스",
+      "price": 1279,
+      "changePercent": 29.98
+    },
+    {
+      "market": "코스닥",
+      "code": "084180",
+      "name": "수성웹툰",
+      "price": 633,
+      "changePercent": 29.98
+    },
+    {
+      "market": "코스닥",
+      "code": "119850",
+      "name": "지엔씨에너지",
+      "price": 45550,
       "changePercent": 29.96
     },
     {
       "market": "코스닥",
-      "code": "078590",
-      "name": "휴림에이텍",
-      "price": 2590,
-      "changePercent": 29.95
-    },
-    {
-      "market": "코스닥",
-      "code": "484810",
-      "name": "티엑스알로보틱스",
-      "price": 12540,
-      "changePercent": 29.95
-    },
-    {
-      "market": "코스닥",
-      "code": "073190",
-      "name": "듀오백",
-      "price": 894,
-      "changePercent": 29.94
+      "code": "018700",
+      "name": "졸스",
+      "price": 1528,
+      "changePercent": 29.93
     },
     {
       "market": "코스피",
-      "code": "465770",
-      "name": "STX그린로지스",
-      "price": 4955,
-      "changePercent": 24.19
-    },
-    {
-      "market": "코스피",
-      "code": "000500",
-      "name": "가온전선",
-      "price": 209500,
-      "changePercent": 15.68
-    },
-    {
-      "market": "코스피",
-      "code": "006360",
-      "name": "GS건설",
-      "price": 29100,
-      "changePercent": 13.67
+      "code": "004415",
+      "name": "서울식품우",
+      "price": 5090,
+      "changePercent": 29.85
     }
   ]
 }
