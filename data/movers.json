@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-07-23T07:44:12.763Z",
+  "updatedAt": "2026-07-24T07:41:19.914Z",
   "items": [
     {
-      "market": "코스피",
-      "code": "010060",
-      "name": "OCI홀딩스",
-      "price": 247000,
+      "market": "코스닥",
+      "code": "131760",
+      "name": "파인텍",
+      "price": 2340,
       "changePercent": 30
     },
     {
       "market": "코스피",
-      "code": "475150",
-      "name": "SK이터닉스",
-      "price": 80600,
-      "changePercent": 30
+      "code": "002787",
+      "name": "진흥기업2우B",
+      "price": 3795,
+      "changePercent": 29.97
     },
     {
       "market": "코스닥",
-      "code": "039980",
-      "name": "폴라리스AI",
-      "price": 5180,
-      "changePercent": 29.99
-    },
-    {
-      "market": "코스닥",
-      "code": "076610",
-      "name": "해성옵틱스",
-      "price": 1279,
-      "changePercent": 29.98
-    },
-    {
-      "market": "코스닥",
-      "code": "084180",
-      "name": "수성웹툰",
-      "price": 633,
-      "changePercent": 29.98
-    },
-    {
-      "market": "코스닥",
-      "code": "119850",
-      "name": "지엔씨에너지",
-      "price": 45550,
+      "code": "226330",
+      "name": "신테카바이오",
+      "price": 1835,
       "changePercent": 29.96
     },
     {
       "market": "코스닥",
-      "code": "018700",
-      "name": "졸스",
-      "price": 1528,
+      "code": "032685",
+      "name": "소프트센우",
+      "price": 9030,
       "changePercent": 29.93
+    },
+    {
+      "market": "코스닥",
+      "code": "044340",
+      "name": "위닉스",
+      "price": 4905,
+      "changePercent": 29.93
+    },
+    {
+      "market": "코스닥",
+      "code": "069920",
+      "name": "엑시온그룹",
+      "price": 1207,
+      "changePercent": 29.92
+    },
+    {
+      "market": "코스피",
+      "code": "011155",
+      "name": "CJ씨푸드1우",
+      "price": 6780,
+      "changePercent": 29.89
     },
     {
       "market": "코스피",
       "code": "004415",
       "name": "서울식품우",
-      "price": 5090,
-      "changePercent": 29.85
+      "price": 6600,
+      "changePercent": 29.67
     }
   ]
 }
