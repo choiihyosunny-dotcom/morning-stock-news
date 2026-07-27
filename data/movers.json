@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-07-26T07:45:59.060Z",
+  "updatedAt": "2026-07-27T10:55:16.335Z",
   "items": [
     {
       "market": "코스닥",
-      "code": "131760",
-      "name": "파인텍",
-      "price": 2340,
+      "code": "052460",
+      "name": "아이크래프트",
+      "price": 4420,
       "changePercent": 30
     },
     {
-      "market": "코스피",
-      "code": "002787",
-      "name": "진흥기업2우B",
-      "price": 3795,
-      "changePercent": 29.97
+      "market": "코스닥",
+      "code": "208640",
+      "name": "썸에이지",
+      "price": 1157,
+      "changePercent": 30
     },
     {
       "market": "코스닥",
-      "code": "226330",
-      "name": "신테카바이오",
-      "price": 1835,
+      "code": "417860",
+      "name": "오브젠",
+      "price": 7930,
+      "changePercent": 30
+    },
+    {
+      "market": "코스닥",
+      "code": "199430",
+      "name": "케이엔알시스템",
+      "price": 14270,
       "changePercent": 29.96
     },
     {
       "market": "코스닥",
-      "code": "032685",
-      "name": "소프트센우",
-      "price": 9030,
-      "changePercent": 29.93
-    },
-    {
-      "market": "코스닥",
-      "code": "044340",
-      "name": "위닉스",
-      "price": 4905,
-      "changePercent": 29.93
-    },
-    {
-      "market": "코스닥",
-      "code": "069920",
-      "name": "엑시온그룹",
-      "price": 1207,
-      "changePercent": 29.92
+      "code": "299660",
+      "name": "셀리드",
+      "price": 1367,
+      "changePercent": 29.94
     },
     {
       "market": "코스피",
-      "code": "011155",
-      "name": "CJ씨푸드1우",
-      "price": 6780,
-      "changePercent": 29.89
+      "code": "025560",
+      "name": "미래산업",
+      "price": 10210,
+      "changePercent": 22.28
     },
     {
       "market": "코스피",
-      "code": "004415",
-      "name": "서울식품우",
-      "price": 6600,
-      "changePercent": 29.67
+      "code": "700035",
+      "name": "하나 인버스 2X K방산TOP10 ETN",
+      "price": 10600,
+      "changePercent": 17.58
+    },
+    {
+      "market": "코스피",
+      "code": "580069",
+      "name": "KB S&P 인버스 2X WTI원유 선물 ETN B",
+      "price": 2995,
+      "changePercent": 17.22
     }
   ]
 }
