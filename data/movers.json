@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-07-27T10:55:16.335Z",
+  "updatedAt": "2026-07-28T07:47:45.885Z",
   "items": [
     {
       "market": "코스닥",
-      "code": "052460",
-      "name": "아이크래프트",
-      "price": 4420,
+      "code": "092600",
+      "name": "앤씨앤",
+      "price": 2730,
       "changePercent": 30
     },
     {
       "market": "코스닥",
-      "code": "208640",
-      "name": "썸에이지",
-      "price": 1157,
+      "code": "208710",
+      "name": "포톤",
+      "price": 2340,
       "changePercent": 30
-    },
-    {
-      "market": "코스닥",
-      "code": "417860",
-      "name": "오브젠",
-      "price": 7930,
-      "changePercent": 30
-    },
-    {
-      "market": "코스닥",
-      "code": "199430",
-      "name": "케이엔알시스템",
-      "price": 14270,
-      "changePercent": 29.96
     },
     {
       "market": "코스닥",
       "code": "299660",
       "name": "셀리드",
-      "price": 1367,
+      "price": 1777,
+      "changePercent": 29.99
+    },
+    {
+      "market": "코스피",
+      "code": "002787",
+      "name": "진흥기업2우B",
+      "price": 3945,
+      "changePercent": 29.98
+    },
+    {
+      "market": "코스닥",
+      "code": "199730",
+      "name": "바이오인프라",
+      "price": 2645,
+      "changePercent": 29.98
+    },
+    {
+      "market": "코스닥",
+      "code": "247660",
+      "name": "나노씨엠에스",
+      "price": 3925,
+      "changePercent": 29.97
+    },
+    {
+      "market": "코스피",
+      "code": "002785",
+      "name": "진흥기업우B",
+      "price": 1862,
       "changePercent": 29.94
     },
     {
       "market": "코스피",
-      "code": "025560",
-      "name": "미래산업",
-      "price": 10210,
-      "changePercent": 22.28
-    },
-    {
-      "market": "코스피",
-      "code": "700035",
-      "name": "하나 인버스 2X K방산TOP10 ETN",
-      "price": 10600,
-      "changePercent": 17.58
-    },
-    {
-      "market": "코스피",
-      "code": "580069",
-      "name": "KB S&P 인버스 2X WTI원유 선물 ETN B",
-      "price": 2995,
-      "changePercent": 17.22
+      "code": "011155",
+      "name": "CJ씨푸드1우",
+      "price": 6920,
+      "changePercent": 29.83
     }
   ]
 }
