@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-07-29T08:02:00.877Z",
+  "updatedAt": "2026-07-30T07:41:28.610Z",
   "items": [
     {
-      "market": "코스닥",
-      "code": "455900",
-      "name": "엔젤로보틱스",
-      "price": 20650,
-      "changePercent": 29.87
-    },
-    {
-      "market": "코스닥",
-      "code": "008290",
-      "name": "원풍물산",
-      "price": 422,
-      "changePercent": 29.85
-    },
-    {
-      "market": "코스닥",
-      "code": "900300",
-      "name": "오가닉티코스메틱",
-      "price": 2025,
-      "changePercent": 29.72
-    },
-    {
-      "market": "코스닥",
-      "code": "484810",
-      "name": "티엑스알로보틱스",
-      "price": 13870,
-      "changePercent": 24.62
+      "market": "코스피",
+      "code": "002990",
+      "name": "금호건설",
+      "price": 9490,
+      "changePercent": 30
     },
     {
       "market": "코스피",
-      "code": "760027",
-      "name": "키움 인버스 2X 전력 TOP5 ETN",
-      "price": 11095,
-      "changePercent": 23.41
+      "code": "002995",
+      "name": "금호건설우",
+      "price": 18460,
+      "changePercent": 30
     },
     {
       "market": "코스닥",
-      "code": "009620",
-      "name": "삼보산업",
-      "price": 987,
-      "changePercent": 22.15
+      "code": "225430",
+      "name": "케이엠제약",
+      "price": 1755,
+      "changePercent": 30
+    },
+    {
+      "market": "코스닥",
+      "code": "079650",
+      "name": "서산",
+      "price": 4205,
+      "changePercent": 29.98
+    },
+    {
+      "market": "코스닥",
+      "code": "255440",
+      "name": "야스",
+      "price": 4965,
+      "changePercent": 29.97
+    },
+    {
+      "market": "코스닥",
+      "code": "475400",
+      "name": "씨메스로보틱스",
+      "price": 18440,
+      "changePercent": 29.95
     },
     {
       "market": "코스피",
-      "code": "700035",
-      "name": "하나 인버스 2X K방산TOP10 ETN",
-      "price": 13585,
-      "changePercent": 20.49
+      "code": "004870",
+      "name": "티웨이홀딩스",
+      "price": 960,
+      "changePercent": 29.91
     },
     {
       "market": "코스피",
-      "code": "760024",
-      "name": "키움 인버스 2X K방산 TOP5 ETN",
-      "price": 11930,
-      "changePercent": 18.59
+      "code": "011155",
+      "name": "CJ씨푸드1우",
+      "price": 6520,
+      "changePercent": 29.88
     }
   ]
 }
