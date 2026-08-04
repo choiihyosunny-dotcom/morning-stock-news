@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-08-03T10:56:01.129Z",
+  "updatedAt": "2026-08-04T07:48:05.290Z",
   "items": [
     {
-      "market": "코스피",
-      "code": "004870",
-      "name": "티웨이홀딩스",
-      "price": 1248,
+      "market": "코스닥",
+      "code": "122350",
+      "name": "삼기",
+      "price": 1664,
       "changePercent": 30
     },
     {
       "market": "코스닥",
-      "code": "315640",
-      "name": "딥노이드",
-      "price": 1599,
+      "code": "148780",
+      "name": "비큐AI",
+      "price": 2990,
       "changePercent": 30
     },
     {
       "market": "코스닥",
-      "code": "200350",
-      "name": "아티스트스튜디오",
-      "price": 2310,
-      "changePercent": 29.99
+      "code": "469750",
+      "name": "아이비젼웍스",
+      "price": 949,
+      "changePercent": 30
     },
     {
       "market": "코스닥",
-      "code": "226340",
-      "name": "본느",
-      "price": 2180,
-      "changePercent": 29.99
-    },
-    {
-      "market": "코스피",
-      "code": "002070",
-      "name": "비비안",
-      "price": 6590,
-      "changePercent": 29.98
-    },
-    {
-      "market": "코스닥",
-      "code": "030530",
-      "name": "원익홀딩스",
-      "price": 19860,
+      "code": "304100",
+      "name": "솔트룩스",
+      "price": 17000,
       "changePercent": 29.97
     },
     {
       "market": "코스닥",
-      "code": "087010",
-      "name": "펩트론",
-      "price": 166100,
-      "changePercent": 29.97
+      "code": "419050",
+      "name": "삼기에너지솔루션즈",
+      "price": 1449,
+      "changePercent": 29.96
     },
     {
       "market": "코스피",
-      "code": "012170",
-      "name": "아센디오",
-      "price": 842,
-      "changePercent": 29.94
+      "code": "001770",
+      "name": "SHD",
+      "price": 6830,
+      "changePercent": 29.85
+    },
+    {
+      "market": "코스피",
+      "code": "550092",
+      "name": "N2 월간 레버리지 방위산업 Top5 ETN",
+      "price": 133260,
+      "changePercent": 26.24
+    },
+    {
+      "market": "코스피",
+      "code": "700034",
+      "name": "하나 레버리지 K방산TOP10 ETN",
+      "price": 12500,
+      "changePercent": 20.37
     }
   ]
 }
