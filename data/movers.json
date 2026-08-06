@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-08-05T07:49:15.965Z",
+  "updatedAt": "2026-08-06T07:49:11.821Z",
   "items": [
     {
-      "market": "코스닥",
-      "code": "179900",
-      "name": "유티아이",
-      "price": 2665,
+      "market": "코스피",
+      "code": "011330",
+      "name": "유니켐",
+      "price": 4550,
       "changePercent": 30
     },
     {
       "market": "코스닥",
-      "code": "215790",
-      "name": "이노인스트루먼트",
-      "price": 988,
-      "changePercent": 30
+      "code": "148780",
+      "name": "비큐AI",
+      "price": 5050,
+      "changePercent": 29.99
+    },
+    {
+      "market": "코스닥",
+      "code": "239340",
+      "name": "이스트에이드",
+      "price": 928,
+      "changePercent": 29.97
+    },
+    {
+      "market": "코스닥",
+      "code": "226340",
+      "name": "본느",
+      "price": 4775,
+      "changePercent": 29.93
     },
     {
       "market": "코스닥",
       "code": "348080",
       "name": "큐라티스",
-      "price": 2990,
-      "changePercent": 30
+      "price": 3885,
+      "changePercent": 29.93
+    },
+    {
+      "market": "코스피",
+      "code": "001290",
+      "name": "상상인증권",
+      "price": 926,
+      "changePercent": 29.87
+    },
+    {
+      "market": "코스피",
+      "code": "210980",
+      "name": "SK디앤디",
+      "price": 5940,
+      "changePercent": 29.84
     },
     {
       "market": "코스닥",
-      "code": "024840",
-      "name": "KBI메탈",
-      "price": 4985,
-      "changePercent": 29.99
-    },
-    {
-      "market": "코스닥",
-      "code": "372170",
-      "name": "윤성에프앤씨",
-      "price": 20500,
-      "changePercent": 29.99
-    },
-    {
-      "market": "코스피",
-      "code": "017900",
-      "name": "광전자",
-      "price": 7060,
-      "changePercent": 21.31
-    },
-    {
-      "market": "코스피",
-      "code": "336260",
-      "name": "두산퓨얼셀",
-      "price": 34600,
-      "changePercent": 20.98
-    },
-    {
-      "market": "코스피",
-      "code": "033250",
-      "name": "체시스",
-      "price": 4700,
-      "changePercent": 20.36
+      "code": "900100",
+      "name": "파이온엑스",
+      "price": 2550,
+      "changePercent": 29.77
     }
   ]
 }
