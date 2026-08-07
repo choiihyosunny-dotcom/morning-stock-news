@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-08-07T05:00:54.235Z",
+  "updatedAt": "2026-08-07T23:49:06.859Z",
   "items": [
+    {
+      "market": "코스닥",
+      "code": "025900",
+      "name": "동화기업",
+      "price": 8060,
+      "changePercent": 30
+    },
     {
       "market": "코스닥",
       "code": "162300",
@@ -24,6 +31,13 @@
     },
     {
       "market": "코스피",
+      "code": "003010",
+      "name": "혜인",
+      "price": 5910,
+      "changePercent": 29.89
+    },
+    {
+      "market": "코스피",
       "code": "011330",
       "name": "유니켐",
       "price": 5910,
@@ -42,20 +56,6 @@
       "name": "케이피엠테크",
       "price": 5590,
       "changePercent": 29.85
-    },
-    {
-      "market": "코스닥",
-      "code": "226340",
-      "name": "본느",
-      "price": 6200,
-      "changePercent": 29.84
-    },
-    {
-      "market": "코스피",
-      "code": "003010",
-      "name": "혜인",
-      "price": 5870,
-      "changePercent": 29.01
     }
   ]
 }
