@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-08-06T07:49:11.821Z",
+  "updatedAt": "2026-08-07T05:00:54.235Z",
   "items": [
     {
-      "market": "코스피",
-      "code": "011330",
-      "name": "유니켐",
-      "price": 4550,
-      "changePercent": 30
+      "market": "코스닥",
+      "code": "162300",
+      "name": "신스틸",
+      "price": 1852,
+      "changePercent": 29.96
     },
     {
       "market": "코스닥",
-      "code": "148780",
-      "name": "비큐AI",
-      "price": 5050,
-      "changePercent": 29.99
-    },
-    {
-      "market": "코스닥",
-      "code": "239340",
-      "name": "이스트에이드",
-      "price": 928,
-      "changePercent": 29.97
-    },
-    {
-      "market": "코스닥",
-      "code": "226340",
-      "name": "본느",
-      "price": 4775,
-      "changePercent": 29.93
-    },
-    {
-      "market": "코스닥",
-      "code": "348080",
-      "name": "큐라티스",
-      "price": 3885,
+      "code": "900340",
+      "name": "윙입푸드",
+      "price": 1554,
       "changePercent": 29.93
     },
     {
       "market": "코스피",
       "code": "001290",
       "name": "상상인증권",
-      "price": 926,
-      "changePercent": 29.87
+      "price": 1203,
+      "changePercent": 29.91
     },
     {
       "market": "코스피",
-      "code": "210980",
-      "name": "SK디앤디",
-      "price": 5940,
-      "changePercent": 29.84
+      "code": "011330",
+      "name": "유니켐",
+      "price": 5910,
+      "changePercent": 29.89
     },
     {
       "market": "코스닥",
-      "code": "900100",
-      "name": "파이온엑스",
-      "price": 2550,
-      "changePercent": 29.77
+      "code": "062970",
+      "name": "한국첨단소재",
+      "price": 3020,
+      "changePercent": 29.89
+    },
+    {
+      "market": "코스닥",
+      "code": "042040",
+      "name": "케이피엠테크",
+      "price": 5590,
+      "changePercent": 29.85
+    },
+    {
+      "market": "코스닥",
+      "code": "226340",
+      "name": "본느",
+      "price": 6200,
+      "changePercent": 29.84
+    },
+    {
+      "market": "코스피",
+      "code": "003010",
+      "name": "혜인",
+      "price": 5870,
+      "changePercent": 29.01
     }
   ]
 }
