@@ -1,15 +1,69 @@
 {
-  "updatedAt": "2026-08-07T23:49:06.859Z",
+  "updatedAt": "2026-08-08T23:03:19.051Z",
   "items": [
     {
-      "title": "상승 출발 코스피, 중동 긴장 고조에 결국 하락 마감",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hNWVxNW1CS0w4RU92SG02TnJEdGYwM1hPVTJCSF9jYUM4cUdUanAwMnpWMnlVV1NhVXA3emM1UUhpbFhtdG5saGxNWFdmWFhBMmowc2ZmS1EyMUpFX1hyRzMyV3g1cVE?oc=5",
-      "source": "연합뉴스TV",
-      "pubDate": "8.7",
+      "title": "\"환율 하락도 코스닥 유리...이번 주도 코스닥 상승 전망\"",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93aFRRMmgwRG9IaXZIUDJfc3I5bTFrT2U1SDE2c21kd09pWjZQV05QSVpqeWNXQlVCSndYSzZYOXpKWHkzVTQwNTg4dEtteHI1UFNGaVdacnpIMzNGS0E?oc=5",
+      "source": "YTN",
+      "pubDate": "8.8",
       "keywords": [
-        "코스피",
-        "고조에",
-        "상승"
+        "하락도",
+        "코스닥",
+        "환율"
+      ]
+    },
+    {
+      "title": "개인 투자자, 올해 국내 주식시장 순매수 200조원 넘었다",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wMmw2MVVicTRNbVdPLW13LVBtWU5zY3c3YVlvS3pKMXRrVTZVT3RPRGtxbk1VY0RLOEowUFJVb2hWQkNWZVRHTk5GYlc4RlU?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "8.8",
+      "keywords": [
+        "200조원",
+        "주식시장",
+        "투자자"
+      ]
+    },
+    {
+      "title": "개인은 9조 팔았는데… 코스닥 ‘숨은 우량주’ 사모은 美 펀드",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON21xMkQzMVlrM21GckJ2cW0yUWFPYmcxVXd0UUdxaUhyXzZEbjh1RGppd0F6ZDJKelNidUpQYXRNS0xXeDR1S3BUZllnZ2d2RDdxcVpicm5Rb1k3dVFFcVRicGRHV0hzX004WENFYUY3UExJVG1FejhVR3kwcjBTTDI5akVUcVdhMDFFSzVn?oc=5",
+      "source": "조선일보",
+      "pubDate": "8.8",
+      "keywords": [
+        "팔았는데",
+        "개인은",
+        "코스닥"
+      ]
+    },
+    {
+      "title": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzNUNwYzBqOFJxM1E2NEQybGpGSHJrcGNHUjhJWmhOdXQ5WkVOdDFMa24xdGhvTk5BYlEyWHhkREF0OHd1XzJyYm9SVkhPamNUTTZHVUNGa19PcHRtY2c?oc=5",
+      "source": "매일경제 마켓",
+      "pubDate": "8.8",
+      "keywords": [
+        "매일경제",
+        "마켓"
+      ]
+    },
+    {
+      "title": "‘정부의 서학개미 증시복귀 작전 실패?’…로이터 “코스피 신뢰 빠르게 악화”",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2U0pzUkNuekFNeUZGNEhYbWRfUm5QVzNoYWFrOGZHMTl3SXdFbzVMdWpVTm0wQ3U2dVR3WG1sMTgzZE1SWFI0NFg2T05nT3o5?oc=5",
+      "source": "문화일보",
+      "pubDate": "8.8",
+      "keywords": [
+        "서학개미",
+        "증시복귀",
+        "정부의"
+      ]
+    },
+    {
+      "title": "“역시 미국이 답”…코스피 폭락에 서학개미 ‘대탈출’ [머니+]",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sdnF3NUVMRzJ6MnlFNThLMG54eno2OUFfeHZaaFZfVjJIVjBhZ2RLNmd3UFZ3RkdzVjhTUGlEeUxQTThpNmpOSnczY0xpWGJPV3FRQmlpSTZDSnc?oc=5",
+      "source": "에너지경제신문",
+      "pubDate": "8.8",
+      "keywords": [
+        "서학개미",
+        "미국이",
+        "코스피"
       ]
     },
     {
@@ -24,69 +78,14 @@
       ]
     },
     {
-      "title": "이번에는 중동 여파?···코스피 0.6%·코스닥 0.36% 하락으로 장 마감",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBuRV95RWQ2SFZuajRMVGgxT1hraWNSeGtQTlg3czc4MTBfdnlKd0l0YTJyY0N0T0pTVmlvX29TUmNDTjdhUk1wclZYblI?oc=5",
-      "source": "대구MBC",
-      "pubDate": "8.7",
+      "title": "[마켓인사이트] 韓증시, 역대급 변동성은 다소 완화…반등계기 찾나",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wakJHVEtVaG13VERYaEdWQ0FiR2s3NF9SMFNwTGNWc0lMMk93RV9Ya1FsTl81clo3NE9UTDRLa1BNX0NGN3NQUTc2Z3VIdUlzSG5fWmxmbmdlOXPSAWBBVV95cUxOUW1vel9xblk3NWJ0bWxJUGNIN092Y1FTcXRzaGdQLXh1d1JIN1BraWl3cXhVSXVIdzYtNXloS1pHZi1PX2RoYVlYa1dwQzlNMEt0RU4tY2F4cDlrNEgtMjQ?oc=5",
+      "source": "연합뉴스",
+      "pubDate": "8.8",
       "keywords": [
-        "0.36%",
-        "이번에는",
-        "0.6%"
-      ]
-    },
-    {
-      "title": "1% 상승 출발했던 코스피 장중 하락전환‥코스닥도 6일 만에 하락",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uWE9HWFFjNDNUdlc0SXZZZHFGekNYamRLYXlRb0RfLXVaYVlSNDd6RzJDemlpUlB4d2xyQTg4QjlKb2hzd0lRZUF2VnhiT2VIdGhFZTNNeXpvNTRrVVo2cUxLZ3F5b3RNOVF1RDdYenZUYzll?oc=5",
-      "source": "MBC 뉴스",
-      "pubDate": "8.7",
-      "keywords": [
-        "하락전환‥코스닥도",
-        "출발했던",
-        "코스피"
-      ]
-    },
-    {
-      "title": "코스피 6258선 마감…SK하이닉스 4.88% 내려",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BVmw2MVVWNS1HRkpwanl4X2dHNXBHSVhBc29PSzhwblcyem5WM0x1b1Q0NDRRZ2pVN2RZZkpTN29sSVowVVQ5R1Y0bzJwUQ?oc=5",
-      "source": "전자신문",
-      "pubDate": "8.7",
-      "keywords": [
-        "SK하이닉스",
-        "6258선",
-        "4.88%"
-      ]
-    },
-    {
-      "title": "[증시-마감] 엇갈린 대형주에 코스피 반락…코스닥도 800선 밑돌아",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53am5QMkNmMDRLS0UzTDEzeGZBSS1KVDJuQ2tVZ05BV211NVNBQUEwMk1YbWdpZzVRZHRNTThKd1dWaDNmRE9qSHREMUVablJOX1BUZVQzckpicWY2cDZMQkJBeXEtZUdnVzhJU3lBTS0?oc=5",
-      "source": "연합인포맥스",
-      "pubDate": "8.7",
-      "keywords": [
-        "대형주에",
-        "코스닥도",
-        "800선"
-      ]
-    },
-    {
-      "title": "코스피 이틀째 하락 마감...코스닥, 엿새 만에 하락",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yRnhGUWtHWkpKZW9LdnhVSmRLLWJvaEVGWnI3T2VNYXhpd3M4VDdKU0ktdEJvdjNaTmRRcUcyT1JnMGdVa2pPaHl6eVBlTllKckV3SzlRM2tpWkt3V3dBQVI0cThuTmZTRGdrV09QYk1BamxuVVE?oc=5",
-      "source": "YTN",
-      "pubDate": "8.7",
-      "keywords": [
-        "코스피",
-        "이틀째",
-        "코스닥"
-      ]
-    },
-    {
-      "title": "코스피 33% 급락했는데…피치가 내놓은 '뜻밖의 경고' 뭐길래",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yWjY0S090eUljT0pwRVRYd2FWNS1hdlBGVkMtUDBfX3VWc05scjVVSUJqa0NvSGdGTHhGUElPSzB4N1Y4UmR5MXUyVEZyVHhPU2V6RmppVWlUQQ?oc=5",
-      "source": "한국경제",
-      "pubDate": "8.6",
-      "keywords": [
-        "급락했는데",
-        "코스피",
-        "33%"
+        "변동성은",
+        "반등계기",
+        "역대급"
       ]
     }
   ]
