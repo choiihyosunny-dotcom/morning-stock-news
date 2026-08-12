@@ -1,4 +1,61 @@
 {
-  "updatedAt": "2026-08-10T23:53:18.142Z",
-  "items": []
+  "updatedAt": "2026-08-12T00:06:54.391Z",
+  "items": [
+    {
+      "market": "코스피",
+      "code": "570092",
+      "name": "한투 인버스2X유로스탁스50 ETN(H) B",
+      "price": 9975,
+      "changePercent": 59.98
+    },
+    {
+      "market": "코스닥",
+      "code": "002680",
+      "name": "한탑",
+      "price": 2795,
+      "changePercent": 30
+    },
+    {
+      "market": "코스닥",
+      "code": "225190",
+      "name": "LK삼양",
+      "price": 1371,
+      "changePercent": 29.95
+    },
+    {
+      "market": "코스피",
+      "code": "001210",
+      "name": "금호전기",
+      "price": 5300,
+      "changePercent": 29.9
+    },
+    {
+      "market": "코스닥",
+      "code": "105550",
+      "name": "엣지파운드리",
+      "price": 2485,
+      "changePercent": 25.19
+    },
+    {
+      "market": "코스피",
+      "code": "002990",
+      "name": "금호건설",
+      "price": 14050,
+      "changePercent": 22.28
+    },
+    {
+      "market": "코스닥",
+      "code": "344860",
+      "name": "이노진",
+      "price": 1563,
+      "changePercent": 20.32
+    },
+    {
+      "market": "코스피",
+      "code": "003070",
+      "name": "코오롱글로벌",
+      "price": 10930,
+      "changePercent": 18.16
+    }
+  ]
 }
