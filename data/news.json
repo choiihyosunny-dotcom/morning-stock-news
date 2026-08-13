@@ -1,92 +1,88 @@
 {
-  "updatedAt": "2026-08-12T00:06:54.391Z",
+  "updatedAt": "2026-08-13T00:07:06.630Z",
   "items": [
     {
-      "title": "[마켓 프리뷰] 코스피·코스닥 모두 '강보합'…中 도체 이어 로봇 출격",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3LVlNaFhnMVlfQ3hweEg4Z2o1d1NKQXlFMTlNcF9PZ2tIbGl2bjZXWWt5akRiNm1EVjRyUVRrSklfOTRTeDY1aXc1VHNKTFU?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "8.11",
+      "title": "삼전·닉스 급등에 코스피 ‘매수 사이드카’…반도체 투자 심리 호전",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94dzlGcEZxNVBCM0FxQ2F6Z0s0NDZ3Yi01a3lteGd0YXkxenJITFFkYlROd2RBb00wRG9RUHVrR25fblF5cFlMRS1oYloycEpxQnFCS3VZQThtQ2dtaHFMY2g3R0hOR0U?oc=5",
+      "source": "한겨레",
+      "pubDate": "8.12",
       "keywords": [
-        "코스피",
-        "코스닥",
-        "강보합"
-      ]
-    },
-    {
-      "title": "[마켓뷰] 탄력 둔화한 코스피, 눈치장세 이어지나",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44d0ZGTXdrUUZkRDkyV196ZVNNY3NfVGJuallzaGhEX1kzVUM4ZElyTjZHYk9sY3NTc0xpaUFYVkE4WlFSdGd3cVdOdXEwQlZJclpNNXY5ZGRMdzjSAWBBVV95cUxOVFBDZWpLY1Q3VE9sRUZteEttdTkya0EyRDBGc1p2UXJjSWh2M0hNdTBuaWlYakh6d2QwdmZ3a01TdHJDcEtGVkU1WXQwMUIyV1Y1akh0cVQyVWF0WTA1TmQ?oc=5",
-      "source": "연합뉴스",
-      "pubDate": "8.11",
-      "keywords": [
-        "눈치장세",
-        "이어지나",
-        "둔화한"
-      ]
-    },
-    {
-      "title": "'롤러코스피'에 변액보험 두달새 20조 증발…신계약도 위축",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nS1lxRXplaFUyLU9ES0pSTkJMd0szUTNTYm1veGphOW9kd0JnN2tlNm9TSVdDMG9JbmxTTGJNXzhBU0FycDMzaTV5cHJzT2k2RGRKS1FsRE42U2VYZGxIaDcwWnBidDlZMDY5MThjR1k?oc=5",
-      "source": "news.einfomax.co.kr",
-      "pubDate": "8.11",
-      "keywords": [
-        "롤러코스피에",
-        "변액보험",
-        "신계약도"
-      ]
-    },
-    {
-      "title": "24시간 국내 주식 거래…수급 빨아들이는 역외 파생판",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE53ODZkdnV3a3NEOWMyVjZDZGtVU0YtWkQ5MGc4OXl6Yzk1d2k1dFdsYzdhazJDalozVDVCbVBCanNFWjZKd1ZxZmN2dXBSS2ZEc2ZuOG5TRUM4YnF3NndJd0g2VWM5OFItUG5TVWw2WnZKUQ?oc=5",
-      "source": "KB Think",
-      "pubDate": "8.11",
-      "keywords": [
-        "빨아들이는",
-        "24시간",
-        "파생판"
-      ]
-    },
-    {
-      "title": "중동 불안에도 수출 호실적…코스피 6,300선 회복",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yYTlWUy1wSU9GRFBxQURDOWFZdkg5QnY0YjhBYXFtRzVFelUzNVFwUnI5Z2pIWWFjd0Yyc3ZURmtLeXBwZXFmdEc4eWxvS2M5NndZbkxDM3d1REVmVzA5N3V5Y1YxcVE?oc=5",
-      "source": "연합뉴스TV",
-      "pubDate": "8.11",
-      "keywords": [
-        "불안에도",
-        "300선",
-        "호실적"
-      ]
-    },
-    {
-      "title": "반도체·화장품 수출 훈풍에… 코스피·코스닥 동반 상승 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pcWhTQ3UxdDRES1lOTC16U0JZVXlUVWloTmNYZE5tM1h5TnRRNHR6ZWpkbUtHU3BIYmkxNlVJMEx0S2NqY0M0ZUE4Q3hieEdXMVZCYzJucjB6UURYVjN2M1l5WHFqS3Rr0gFuQVVfeXFMTXExd0tUR0JOSnRzUEZrTkVoTEcyTFlNc3F5U1EzTnhETXZscmlGSldXbTJBdlpZMzZHbk9XQXFMV0JuMzdXUFFjMEZsTUVocWxaNTVselBtSTNBY250NnZnZXQ4UlYwZEx4d3hSWkE?oc=5",
-      "source": "머니투데이",
-      "pubDate": "8.11",
-      "keywords": [
-        "머니투데이",
-        "반도체",
-        "화장품"
-      ]
-    },
-    {
-      "title": "코스피·코스닥, 이틀 연속 상승 마감…반도체 수출 모멘텀에 삼전 4%대 ‘훨훨’ [코주부]",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81REJQVmtYUnZOWkFpc3FsUnk5N0RMZGtnMXBzaTZqZ3ZnbHdQVGg1eFNGWmtJa3hnOGs3ZVUxcUJ4a0VEaEk1RTNYNkg5T0k3UmfSAVNBVV95cUxPV0w5Rnp0Y2FYbzNrbEJyRFFsWUdpVXBNaW9tLVlBSUNwUTN0QkRWZ0tmUkZkeldqbHdkLXVuczBiY2hBVXBhZGFUdmpyX0lnSGl4Zw?oc=5",
-      "source": "서울경제",
-      "pubDate": "8.11",
-      "keywords": [
-        "모멘텀에",
-        "코스피",
-        "코스닥"
-      ]
-    },
-    {
-      "title": "속보 코스피, 반등해 6,300대 안착...코스닥도 강보합",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1OWpVUWNSTFdXWXhhRVF2QVpXeWpZbElPYXRIamdoSFBMdDVsb1V5RXBUVTNfandyakJrRnhsU2tKemN0U1BEcnRtdVJ1NWFzN2tpc2UycElqT3BGdmc?oc=5",
-      "source": "YTN",
-      "pubDate": "8.11",
-      "keywords": [
-        "300대",
-        "코스닥도",
+        "사이드카",
+        "급등에",
         "코스피"
+      ]
+    },
+    {
+      "title": "코스피, 3.68% 상승 마감…코스닥은 강보합",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5USUVKWWVZLXR6YmgwRkJfZi1LN0gzZEJvSExOaU1najZ3bUJpcmRZY2NLdkJrdnB4VG10cHUtZmpVNGc0SUdVWnFZZUoxeGVsckhxOWZFb2ZycUo0TEcxYmxLdzdZUms?oc=5",
+      "source": "연합뉴스TV",
+      "pubDate": "8.12",
+      "keywords": [
+        "3.68%",
+        "코스닥은",
+        "코스피"
+      ]
+    },
+    {
+      "title": "[코스피·코스닥 전 거래일(12일) 주요공시]",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OT1Q5enJhN2lfVGtxTkVHZ0FDZ28wczR1ZHVSNHNYQkdSYVRJWExZOEY1LWZTMFZ4b2NhU0YtNzRiZzctRXlyak5pWThFQ1VvMG5pakp0N3FQOTDSAWBBVV95cUxQTHJpcVNoenY0a0NuNE43c05wWGFOZEt6WHJ5WW1ZQW5OSDdTMU1IMm90R05PRF91dGowNjdjUUZ2dHR1SmkycVY2VzlFYmdnemluYUFjbXgtbk5mRTZYWEU?oc=5",
+      "source": "연합뉴스",
+      "pubDate": "8.12",
+      "keywords": []
+    },
+    {
+      "title": "“코스닥 인버스 잔뜩 샀는데 어째”…코스닥 19% 급등..레버리지 규제가 판 바꿔",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBseFRYZXZUVEpsV3JQQkp1N0ZZME85eV9Sc3JlNktHZVRWb0xSWVcyUEhBY2NHWEduT21jSjNQV0cwdV9YOHNBTGgxN2VFUzNk?oc=5",
+      "source": "문화일보",
+      "pubDate": "8.12",
+      "keywords": [
+        "레버리지",
+        "코스닥",
+        "인버스"
+      ]
+    },
+    {
+      "title": "속보 코스피 3.7% 상승 6,500선 탈환...코스닥 0.1% 상승",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvdGFNN01ncEN3YUJxUTdVS0NYTnVYcXByLWhPTFVfZVhzYTh6ckJoMURmWEdndFo3Q2pnWXBqQnhnUWV2blcwRWI5TTZZaXdiNTNFT1d0UGl6YndkRmc?oc=5",
+      "source": "YTN",
+      "pubDate": "8.12",
+      "keywords": [
+        "3.7%",
+        "500선",
+        "0.1%"
+      ]
+    },
+    {
+      "title": "코스닥 ‘우량기업’도 상폐 위기?…증시 예탁금은 6개월만에 최저치 [한강로 경제브리핑]",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50UlE5S0VSSzYwRmdVYll5c2dZemVjTHV4TG5USjVHaVJVbGRIZ0U1bHR5NXFNYTE5TkNtdFYzZFpwVjZCYUktZnJoci1vX3c?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "8.12",
+      "keywords": [
+        "우량기업도",
+        "6개월만에",
+        "예탁금은"
+      ]
+    },
+    {
+      "title": "삼전닉스 6.5조 담고 코스닥 하락에 241억…개미 자금 '세 갈래'",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hUmtFeGZ0alpvcVVzbFFRUEtFcUExM3RJZld2UUxpenRiVWFiVld4S3BpaTRrOFd5ZVRvXzllSThMeE9adm04QjU4SUVTR3ROOHlaUVVEdGp1d0k5M0xhdGl1bEJkdW10?oc=5",
+      "source": "ebn.co.kr",
+      "pubDate": "8.12",
+      "keywords": [
+        "삼전닉스",
+        "6.5조",
+        "241억"
+      ]
+    },
+    {
+      "title": "[마켓 프리뷰] 반도체 '불기둥'에 코스피 급등…코스닥도 '강보합'",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tUmhNajBxRnVSWnlPS1NOS1Uta1p3dkE5V19wWHB5X3ZNMHdIdHFJak41a2JqZnBfTEVSdW92SkNQS0lhQWFHLTZYUnN2aWFnT1lr0gFYQVVfeXFMUGJWQW5OdE9hMGJ4UThtRkxTWTR6LVZRQXRzWlZRS3JaXzNybUI1T0syQWZTSk1pN2liMnpGVU50QTk1YlNVT0pTeWhWSmhxRG1EbjNUMnVjeQ?oc=5",
+      "source": "SBS Biz",
+      "pubDate": "8.12",
+      "keywords": [
+        "불기둥에",
+        "코스닥도",
+        "반도체"
       ]
     }
   ]
