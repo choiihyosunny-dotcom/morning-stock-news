@@ -1,11 +1,25 @@
 {
-  "updatedAt": "2026-08-14T00:08:18.975Z",
+  "updatedAt": "2026-08-14T22:53:46.075Z",
   "items": [
     {
       "market": "코스닥",
       "code": "084180",
       "name": "수성웹툰",
       "price": 672,
+      "changePercent": 29.98
+    },
+    {
+      "market": "코스닥",
+      "code": "179900",
+      "name": "유티아이",
+      "price": 2775,
+      "changePercent": 29.98
+    },
+    {
+      "market": "코스닥",
+      "code": "459550",
+      "name": "알트",
+      "price": 2575,
       "changePercent": 29.98
     },
     {
@@ -16,46 +30,32 @@
       "changePercent": 29.95
     },
     {
-      "market": "코스피",
-      "code": "092200",
-      "name": "디아이씨",
-      "price": 6730,
-      "changePercent": 28.19
+      "market": "코스닥",
+      "code": "107600",
+      "name": "새빗켐",
+      "price": 19180,
+      "changePercent": 29.95
     },
     {
       "market": "코스닥",
-      "code": "445680",
-      "name": "큐리옥스바이오시스템즈",
-      "price": 48100,
-      "changePercent": 23.49
-    },
-    {
-      "market": "코스닥",
-      "code": "237880",
-      "name": "클리오",
-      "price": 14110,
-      "changePercent": 22.7
-    },
-    {
-      "market": "코스닥",
-      "code": "023790",
-      "name": "동일스틸럭스",
-      "price": 1690,
-      "changePercent": 21.67
-    },
-    {
-      "market": "코스닥",
-      "code": "033340",
-      "name": "좋은사람들",
-      "price": 350,
-      "changePercent": 21.53
+      "code": "049630",
+      "name": "재영솔루텍",
+      "price": 9030,
+      "changePercent": 29.93
     },
     {
       "market": "코스피",
-      "code": "001210",
-      "name": "금호전기",
-      "price": 7900,
-      "changePercent": 14.66
+      "code": "003010",
+      "name": "혜인",
+      "price": 9690,
+      "changePercent": 29.89
+    },
+    {
+      "market": "코스피",
+      "code": "011155",
+      "name": "CJ씨푸드1우",
+      "price": 8040,
+      "changePercent": 29.89
     }
   ]
 }
