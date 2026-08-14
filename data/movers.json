@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-08-13T00:07:06.630Z",
+  "updatedAt": "2026-08-14T00:08:18.975Z",
   "items": [
     {
       "market": "코스닥",
-      "code": "487400",
-      "name": "케이앤에스아이앤씨",
-      "price": 20800,
-      "changePercent": 89.09
+      "code": "084180",
+      "name": "수성웹툰",
+      "price": 672,
+      "changePercent": 29.98
+    },
+    {
+      "market": "코스피",
+      "code": "001770",
+      "name": "SHD",
+      "price": 9720,
+      "changePercent": 29.95
+    },
+    {
+      "market": "코스피",
+      "code": "092200",
+      "name": "디아이씨",
+      "price": 6730,
+      "changePercent": 28.19
+    },
+    {
+      "market": "코스닥",
+      "code": "445680",
+      "name": "큐리옥스바이오시스템즈",
+      "price": 48100,
+      "changePercent": 23.49
+    },
+    {
+      "market": "코스닥",
+      "code": "237880",
+      "name": "클리오",
+      "price": 14110,
+      "changePercent": 22.7
+    },
+    {
+      "market": "코스닥",
+      "code": "023790",
+      "name": "동일스틸럭스",
+      "price": 1690,
+      "changePercent": 21.67
+    },
+    {
+      "market": "코스닥",
+      "code": "033340",
+      "name": "좋은사람들",
+      "price": 350,
+      "changePercent": 21.53
     },
     {
       "market": "코스피",
       "code": "001210",
       "name": "금호전기",
-      "price": 6890,
-      "changePercent": 30
-    },
-    {
-      "market": "코스닥",
-      "code": "035290",
-      "name": "골드앤에스",
-      "price": 2230,
-      "changePercent": 29.95
-    },
-    {
-      "market": "코스닥",
-      "code": "002680",
-      "name": "한탑",
-      "price": 3630,
-      "changePercent": 29.87
-    },
-    {
-      "market": "코스닥",
-      "code": "105550",
-      "name": "엣지파운드리",
-      "price": 3120,
-      "changePercent": 20.93
-    },
-    {
-      "market": "코스피",
-      "code": "308170",
-      "name": "씨티알모빌리티",
-      "price": 4370,
-      "changePercent": 17.47
-    },
-    {
-      "market": "코스닥",
-      "code": "288620",
-      "name": "에스프리즘",
-      "price": 5150,
-      "changePercent": 16.38
-    },
-    {
-      "market": "코스피",
-      "code": "760013",
-      "name": "키움 레버리지 반도체TOP10 ETN",
-      "price": 78470,
-      "changePercent": 13.91
+      "price": 7900,
+      "changePercent": 14.66
     }
   ]
 }
