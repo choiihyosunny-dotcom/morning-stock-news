@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-08-17T22:17:58.423Z",
+  "updatedAt": "2026-08-18T22:16:59.662Z",
   "items": [
     {
       "market": "코스닥",
-      "code": "084180",
-      "name": "수성웹툰",
-      "price": 672,
+      "code": "950260",
+      "name": "인제니아테라퓨틱스(Reg.S)",
+      "price": 17990,
+      "changePercent": 49.92
+    },
+    {
+      "market": "코스닥",
+      "code": "033340",
+      "name": "좋은사람들",
+      "price": 429,
+      "changePercent": 30
+    },
+    {
+      "market": "코스닥",
+      "code": "047770",
+      "name": "코데즈컴바인",
+      "price": 3510,
+      "changePercent": 30
+    },
+    {
+      "market": "코스피",
+      "code": "000040",
+      "name": "KR모터스",
+      "price": 1587,
       "changePercent": 29.98
     },
     {
       "market": "코스닥",
-      "code": "179900",
-      "name": "유티아이",
-      "price": 2775,
+      "code": "069920",
+      "name": "엑시온그룹",
+      "price": 1045,
       "changePercent": 29.98
     },
     {
       "market": "코스닥",
-      "code": "459550",
-      "name": "알트",
-      "price": 2575,
+      "code": "351870",
+      "name": "차이커뮤니케이션",
+      "price": 2350,
       "changePercent": 29.98
     },
     {
       "market": "코스피",
       "code": "001770",
       "name": "SHD",
-      "price": 9720,
-      "changePercent": 29.95
-    },
-    {
-      "market": "코스닥",
-      "code": "107600",
-      "name": "새빗켐",
-      "price": 19180,
-      "changePercent": 29.95
-    },
-    {
-      "market": "코스닥",
-      "code": "049630",
-      "name": "재영솔루텍",
-      "price": 9030,
-      "changePercent": 29.93
+      "price": 12630,
+      "changePercent": 29.94
     },
     {
       "market": "코스피",
-      "code": "003010",
-      "name": "혜인",
-      "price": 9690,
-      "changePercent": 29.89
-    },
-    {
-      "market": "코스피",
-      "code": "011155",
-      "name": "CJ씨푸드1우",
-      "price": 8040,
-      "changePercent": 29.89
+      "code": "006660",
+      "name": "삼성공조",
+      "price": 15110,
+      "changePercent": 29.92
     }
   ]
 }
