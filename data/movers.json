@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-08-18T22:16:59.662Z",
+  "updatedAt": "2026-08-19T22:18:51.814Z",
   "items": [
     {
-      "market": "코스닥",
-      "code": "950260",
-      "name": "인제니아테라퓨틱스(Reg.S)",
-      "price": 17990,
-      "changePercent": 49.92
-    },
-    {
-      "market": "코스닥",
-      "code": "033340",
-      "name": "좋은사람들",
-      "price": 429,
-      "changePercent": 30
-    },
-    {
-      "market": "코스닥",
-      "code": "047770",
-      "name": "코데즈컴바인",
-      "price": 3510,
-      "changePercent": 30
-    },
-    {
       "market": "코스피",
-      "code": "000040",
-      "name": "KR모터스",
-      "price": 1587,
-      "changePercent": 29.98
+      "code": "015260",
+      "name": "에이엔피",
+      "price": 312,
+      "changePercent": 30
     },
     {
       "market": "코스닥",
-      "code": "069920",
-      "name": "엑시온그룹",
-      "price": 1045,
-      "changePercent": 29.98
+      "code": "090150",
+      "name": "아이윈",
+      "price": 6760,
+      "changePercent": 30
     },
     {
       "market": "코스닥",
-      "code": "351870",
-      "name": "차이커뮤니케이션",
-      "price": 2350,
-      "changePercent": 29.98
+      "code": "064550",
+      "name": "바이오니아",
+      "price": 9190,
+      "changePercent": 29.99
+    },
+    {
+      "market": "코스닥",
+      "code": "206560",
+      "name": "덱스터",
+      "price": 1046,
+      "changePercent": 29.94
+    },
+    {
+      "market": "코스닥",
+      "code": "457370",
+      "name": "한켐",
+      "price": 10200,
+      "changePercent": 29.94
     },
     {
       "market": "코스피",
       "code": "001770",
       "name": "SHD",
-      "price": 12630,
-      "changePercent": 29.94
+      "price": 16410,
+      "changePercent": 29.93
     },
     {
       "market": "코스피",
-      "code": "006660",
-      "name": "삼성공조",
-      "price": 15110,
-      "changePercent": 29.92
+      "code": "014990",
+      "name": "인디에프",
+      "price": 3110,
+      "changePercent": 29.85
+    },
+    {
+      "market": "코스닥",
+      "code": "033340",
+      "name": "좋은사람들",
+      "price": 557,
+      "changePercent": 29.84
     }
   ]
 }
