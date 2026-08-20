@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-08-19T22:18:51.814Z",
+  "updatedAt": "2026-08-20T22:20:59.561Z",
   "items": [
     {
-      "market": "코스피",
-      "code": "015260",
-      "name": "에이엔피",
-      "price": 312,
+      "market": "코스닥",
+      "code": "950260",
+      "name": "인제니아테라퓨틱스(Reg.S)",
+      "price": 18330,
       "changePercent": 30
     },
     {
       "market": "코스닥",
-      "code": "090150",
-      "name": "아이윈",
-      "price": 6760,
-      "changePercent": 30
+      "code": "227950",
+      "name": "엔투텍",
+      "price": 1925,
+      "changePercent": 29.98
     },
     {
       "market": "코스닥",
-      "code": "064550",
-      "name": "바이오니아",
-      "price": 9190,
-      "changePercent": 29.99
-    },
-    {
-      "market": "코스닥",
-      "code": "206560",
-      "name": "덱스터",
-      "price": 1046,
-      "changePercent": 29.94
-    },
-    {
-      "market": "코스닥",
-      "code": "457370",
-      "name": "한켐",
-      "price": 10200,
-      "changePercent": 29.94
+      "code": "950200",
+      "name": "소마젠",
+      "price": 3750,
+      "changePercent": 29.98
     },
     {
       "market": "코스피",
-      "code": "001770",
-      "name": "SHD",
-      "price": 16410,
-      "changePercent": 29.93
+      "code": "001210",
+      "name": "금호전기",
+      "price": 7460,
+      "changePercent": 29.97
     },
     {
       "market": "코스피",
-      "code": "014990",
-      "name": "인디에프",
-      "price": 3110,
-      "changePercent": 29.85
+      "code": "001515",
+      "name": "SK증권우",
+      "price": 5260,
+      "changePercent": 29.88
     },
     {
       "market": "코스닥",
-      "code": "033340",
-      "name": "좋은사람들",
-      "price": 557,
-      "changePercent": 29.84
+      "code": "950220",
+      "name": "네오이뮨텍",
+      "price": 2195,
+      "changePercent": 29.88
+    },
+    {
+      "market": "코스닥",
+      "code": "049470",
+      "name": "비트플래닛",
+      "price": 2020,
+      "changePercent": 29.82
+    },
+    {
+      "market": "코스피",
+      "code": "001510",
+      "name": "SK증권",
+      "price": 2810,
+      "changePercent": 29.79
     }
   ]
 }
