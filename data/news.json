@@ -1,55 +1,26 @@
 {
-  "updatedAt": "2026-08-24T22:20:04.429Z",
+  "updatedAt": "2026-08-25T22:20:35.536Z",
   "items": [
     {
-      "title": "코스피, 3.12% 내린 6,696.96 마감…코스닥은 1.42%↑",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ScTEtS3dRSFUwMTBHUktrdFJpclB0WnFKNGppSHBGaEF6QUFNbl9SYjZEUURxelQ2VGhVc0NkQ1pJUFJWWkUtaTlXRjBCV2RqaHliV3dOZFk4SWtZam41YkxNT2FQaGM?oc=5",
-      "source": "연합뉴스TV",
-      "pubDate": "8.24",
+      "title": "\"영원히 오를 줄\" 퇴직금 넣었다가...\"미친 주식시장\" 외신 주목한 코스피 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NQ1B6ZGVoNDMzS3VjMFgyV2JJUlBaZHhWcWRESjFPcmlqQUhFR05XZXIxR0s3VHpDZF9JVTFNekV3NW5zeVNVaUFDanFiOEQ4WkZHaFVUXzRtLU5HYThFLUtURzhPOU9u0gFuQVVfeXFMTkZKVXhIc1hhWV9IeVBSYXhZeUlGeGJ5eU5ndGtEOFJQN0V0ek5wN2QwNFZTS29sMEhIVnkxSDZWdDVabklDZFNjUThEdjlGOExaZ253bThIY0tycVpwdGl5aHRnbWxIUEdGa0xrc3c?oc=5",
+      "source": "머니투데이",
+      "pubDate": "8.25",
       "keywords": [
-        "696.96",
-        "3.12%",
-        "1.42%"
+        "머니투데이",
+        "넣었다가",
+        "주식시장"
       ]
     },
     {
-      "title": "[코스피·코스닥 전 거래일(24일) 주요공시]",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xY09FT3ZXYXNGcGxob1U2Q2tUS295SlBZVExKVHRoLUlCci1hcjlwbnNDdjhRekpGTDRZRTA2UTNPRzhORXM1bFVZbEdQNTdIQ3RLWUpnUlRiWUXSAWBBVV95cUxNZGYzUllnNHc0SEY0aFN0TnI2OWQ0bE5Ram5STVI3cEZEU3lRcTVWUlQyMjdlc3BwUV9SZXhlNjFRcmlOSkNNd2JkVUM0azBGSk82b1c4OWxFS1lfYl8zc3U?oc=5",
-      "source": "연합뉴스",
-      "pubDate": "8.24",
-      "keywords": []
-    },
-    {
-      "title": "코스닥·화장품·금 ‘날았다’…8월 ETF 수익률 상위권",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MR2NsQlh4Zjc1UHN6cTNXNmlCczRMdDNTT09iZnJ3YmhIQURGMEFielpJZ2lwWUNNMlFjTlVMTUdYQXZmb3pHdmk1V0t2eWVWbTR1NThJZ1Jadw?oc=5",
-      "source": "한국경제",
-      "pubDate": "8.24",
+      "title": "[표] 코스피 지수선물·옵션 시세표(25일)-1",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrZVBrbXItZkJyRzlwZU5MRnpDQUt0VTI1WnpySDRXOXdMcGxmTkpQQjhicXhzTDRjUVA1S3dERWFLZE5IdDR0d2V5UkxBWTdpQlE?oc=5",
+      "source": "매일경제 마켓",
+      "pubDate": "8.25",
       "keywords": [
-        "코스닥",
-        "화장품",
-        "날았다"
-      ]
-    },
-    {
-      "title": "[증시-마감] 코스피, 삼전닉스 급락에 6,600선 후퇴…외인 3조원대 순매도",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRVVd2S3J3ME1mSFdNV04zVGFkM05NdGRPWEZDUEFWQk1qMXV5MGowMzdZTG5CWmZaZE1xdHk3eTNYai1kSEZ0LUYzZGdwdGJoaDZJN1kwSElFY0t3dVM0cURqS1pVa1MwZktkdlRnTnY?oc=5",
-      "source": "연합인포맥스",
-      "pubDate": "8.24",
-      "keywords": [
-        "삼전닉스",
-        "600선",
-        "3조원대"
-      ]
-    },
-    {
-      "title": "속보 코스피, 하락 마감...삼성전자, 8% 넘게 급락",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tckFPMU14RDRfejlTbUd1dGNya0RHOTFDejFfcVhCS0luRVRyZUlKZ1pWd3Q3WHJYUnFSWUlpQ2F1VllKQ1plVDVscFJBT0owckQ1Q1FXS084WWZ4bXc?oc=5",
-      "source": "YTN",
-      "pubDate": "8.24",
-      "keywords": [
-        "삼성전자",
+        "지수선물",
         "코스피",
-        "하락"
+        "시세표"
       ]
     },
     {
@@ -64,25 +35,54 @@
       ]
     },
     {
-      "title": "코스피 3% 하락 마감, 삼성전자 한때 9% 넘게 떨어져···코스닥은 1.42% 상승",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YSC15bFVGeDNLclllQVRFUVMzc1BjM2k1d0hXRkpEdk02VDlQUWgtRzZJTFEtbzNMWWtxS29tUlBtR2hHVHJDOU50TWg?oc=5",
-      "source": "대구MBC",
-      "pubDate": "8.24",
+      "title": "“손절도 못하고 미치겠어요”…코스피 7천, 이번 주 3대 변수가 가른다 [잇슈 머니]",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vUGk0T2dKR1I1ZC1NZUVEVXJTR3NMVXM5dHZFd3kyTHVlQXdxRkI4YVFhbEFBS3F0TFFkZ2hEUXNMQTdMekFZZVpGeF9uY2xDc0tmMGVtMWJwMkdsVl83UjFOOTI5dw?oc=5",
+      "source": "KBS 뉴스",
+      "pubDate": "8.25",
       "keywords": [
-        "1.42%",
-        "삼성전자",
-        "코스닥은"
+        "미치겠어요",
+        "손절도",
+        "못하고"
       ]
     },
     {
-      "title": "코스피 3.12% 급락에도 강원 코스닥주 강세…메쥬 8.88% 상승",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tT1dib2ctanR1bEp5SFdjeF9ja2VZeUlNWi1FXzc3N2poWER0WldxT1FKYTZKQkZRVmRpWUo0VjQ5UkM0ckdzelIwTWNhZlU?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "8.24",
+      "title": "4% 급락 딛고 반등…코스피 6,700선 회복",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLR2VodThTTWI3LVZ2T21rTzhpSkpZOXhFa1NKS3RUY0tUWUk0Z0xuRnRXbl9NSkIyQ050b0lrNkRmc1Z6N3BadGs5el94NXN0bkE2TDBRWFRvaTZwc1BBOFNBeU8zdHc?oc=5",
+      "source": "연합뉴스TV",
+      "pubDate": "8.25",
       "keywords": [
-        "3.12%",
-        "8.88%",
-        "급락에도"
+        "700선",
+        "코스피",
+        "4%"
+      ]
+    },
+    {
+      "title": "[코스피·코스닥 전 거래일(25일) 주요공시]",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40aU9ESjhSX2FreWFRTkRtQ0FKY0dsUnJHZFk1TkRTWUJCUjBmOHVaNFRweWRCUlliczZoay03VThNeXlkX21xY0NSazdkbUpRNTFobU5WRlhmbHPSAWBBVV95cUxOQTYwdFhaRGlxQkFKWVpCbmh6QncyUnlkTkNDV2k5NlRlcXAya1V3TmpiaGhNbWVMNG9aOTNBQm5hejhEeDlMSVZTLWFweWdpMG1TX3FkczdsRzV1Y0RrWWY?oc=5",
+      "source": "연합뉴스",
+      "pubDate": "8.25",
+      "keywords": []
+    },
+    {
+      "title": "6,700 회복한 코스피···코스닥도 상승 마감",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEelFlSl90Z1JFaWx1SnRFa1pxSkF3WjNLOHp1dUVHRHV5eWRmWTRFMWtBdnpIQWV5Vl9iVmwxTE4weEhtODB0WE5Ld0Y?oc=5",
+      "source": "대구MBC",
+      "pubDate": "8.25",
+      "keywords": [
+        "코스닥도",
+        "700",
+        "회복한"
+      ]
+    },
+    {
+      "title": "하락 출발한 코스피, 0.68% 올라 6,742.73에 마감…코스닥도 1.70%↑",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LVVBMRW5oQzJucEJqZ0x5UEZyeHFDUVJKNmNfbVpqVy1rbFVQT0hyYUlkcVV3QWdTSTAyTmM4bmZGMTNhMXQ2T2JBc2tUdkgxQWhrSEYzWEp4b3FlMTA5QzlWMzBmZHNMYk5jZFdiVELSAXRBVV95cUxPeU1tQUJHRFB0YzV3YmpVQWNaWXlIODFqdUI5R1FkOFc2dmc3Ukt6OEludmlZQi1jWWh1bVZQVnhRQUk1NE45d1dWY0ZlOEMwbW1RNUk4RzkzcnV1R0pPNXRNdU13dDBCU3NLdXlLTTd3Zk9RbQ?oc=5",
+      "source": "연합인포맥스",
+      "pubDate": "8.25",
+      "keywords": [
+        "742.73에",
+        "0.68%",
+        "1.70%"
       ]
     }
   ]

@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-08-24T22:20:04.429Z",
+  "updatedAt": "2026-08-25T22:20:35.536Z",
   "items": [
     {
       "market": "코스닥",
-      "code": "035290",
-      "name": "골드앤에스",
-      "price": 2470,
+      "code": "049470",
+      "name": "비트플래닛",
+      "price": 2795,
+      "changePercent": 30
+    },
+    {
+      "market": "코스닥",
+      "code": "900270",
+      "name": "헝셩그룹",
+      "price": 2730,
       "changePercent": 30
     },
     {
       "market": "코스피",
-      "code": "019175",
-      "name": "신풍제약우",
-      "price": 15870,
-      "changePercent": 29.98
-    },
-    {
-      "market": "코스닥",
-      "code": "299660",
-      "name": "셀리드",
-      "price": 2285,
-      "changePercent": 29.98
-    },
-    {
-      "market": "코스피",
-      "code": "128940",
-      "name": "한미약품",
-      "price": 540000,
+      "code": "008250",
+      "name": "이건산업",
+      "price": 3470,
       "changePercent": 29.96
     },
     {
-      "market": "코스닥",
-      "code": "289080",
-      "name": "SV인베스트먼트",
-      "price": 2625,
-      "changePercent": 29.95
+      "market": "코스피",
+      "code": "214330",
+      "name": "금호에이치티",
+      "price": 8550,
+      "changePercent": 29.94
     },
     {
       "market": "코스닥",
-      "code": "351320",
-      "name": "넥사다이내믹스",
-      "price": 1575,
-      "changePercent": 29.95
+      "code": "351870",
+      "name": "차이커뮤니케이션",
+      "price": 2715,
+      "changePercent": 29.9
+    },
+    {
+      "market": "코스닥",
+      "code": "215600",
+      "name": "신라젠",
+      "price": 2960,
+      "changePercent": 29.82
+    },
+    {
+      "market": "코스닥",
+      "code": "134580",
+      "name": "탑코미디어",
+      "price": 3440,
+      "changePercent": 23.52
     },
     {
       "market": "코스피",
-      "code": "019170",
-      "name": "신풍제약",
-      "price": 10550,
-      "changePercent": 29.93
-    },
-    {
-      "market": "코스닥",
-      "code": "008290",
-      "name": "원풍물산",
-      "price": 695,
-      "changePercent": 29.91
+      "code": "003350",
+      "name": "한국화장품제조",
+      "price": 14410,
+      "changePercent": 22.95
     }
   ]
 }
