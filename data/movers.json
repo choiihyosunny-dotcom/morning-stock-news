@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-08-25T22:20:35.536Z",
+  "updatedAt": "2026-08-27T02:48:30.423Z",
   "items": [
     {
       "market": "코스닥",
-      "code": "049470",
-      "name": "비트플래닛",
-      "price": 2795,
-      "changePercent": 30
+      "code": "121850",
+      "name": "코이즈",
+      "price": 557,
+      "changePercent": 29.84
     },
     {
       "market": "코스닥",
-      "code": "900270",
-      "name": "헝셩그룹",
-      "price": 2730,
-      "changePercent": 30
+      "code": "084110",
+      "name": "휴온스글로벌",
+      "price": 30900,
+      "changePercent": 29.83
+    },
+    {
+      "market": "코스닥",
+      "code": "478560",
+      "name": "블랙야크아이앤씨",
+      "price": 3475,
+      "changePercent": 29.18
+    },
+    {
+      "market": "코스닥",
+      "code": "331920",
+      "name": "셀레믹스",
+      "price": 10590,
+      "changePercent": 26.37
+    },
+    {
+      "market": "코스닥",
+      "code": "043200",
+      "name": "파루",
+      "price": 1290,
+      "changePercent": 25.98
     },
     {
       "market": "코스피",
-      "code": "008250",
-      "name": "이건산업",
-      "price": 3470,
-      "changePercent": 29.96
+      "code": "009190",
+      "name": "대양금속",
+      "price": 1620,
+      "changePercent": 15.55
     },
     {
       "market": "코스피",
-      "code": "214330",
-      "name": "금호에이치티",
-      "price": 8550,
-      "changePercent": 29.94
-    },
-    {
-      "market": "코스닥",
-      "code": "351870",
-      "name": "차이커뮤니케이션",
-      "price": 2715,
-      "changePercent": 29.9
-    },
-    {
-      "market": "코스닥",
-      "code": "215600",
-      "name": "신라젠",
-      "price": 2960,
-      "changePercent": 29.82
-    },
-    {
-      "market": "코스닥",
-      "code": "134580",
-      "name": "탑코미디어",
-      "price": 3440,
-      "changePercent": 23.52
+      "code": "760026",
+      "name": "키움 레버리지 전력 TOP5 ETN",
+      "price": 19185,
+      "changePercent": 14.67
     },
     {
       "market": "코스피",
-      "code": "003350",
-      "name": "한국화장품제조",
-      "price": 14410,
-      "changePercent": 22.95
+      "code": "192650",
+      "name": "드림텍",
+      "price": 5980,
+      "changePercent": 13.9
     }
   ]
 }
