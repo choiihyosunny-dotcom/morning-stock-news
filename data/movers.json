@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-08-27T02:48:30.423Z",
+  "updatedAt": "2026-08-28T05:54:33.283Z",
   "items": [
+    {
+      "market": "코스피",
+      "code": "001770",
+      "name": "SHD",
+      "price": 12350,
+      "changePercent": 30
+    },
+    {
+      "market": "코스닥",
+      "code": "288980",
+      "name": "모아데이타",
+      "price": 312,
+      "changePercent": 30
+    },
     {
       "market": "코스닥",
       "code": "121850",
       "name": "코이즈",
-      "price": 557,
-      "changePercent": 29.84
+      "price": 724,
+      "changePercent": 29.98
     },
     {
       "market": "코스닥",
-      "code": "084110",
-      "name": "휴온스글로벌",
-      "price": 30900,
-      "changePercent": 29.83
+      "code": "312610",
+      "name": "에이에프더블류",
+      "price": 386,
+      "changePercent": 29.97
     },
     {
       "market": "코스닥",
-      "code": "478560",
-      "name": "블랙야크아이앤씨",
-      "price": 3475,
-      "changePercent": 29.18
+      "code": "210120",
+      "name": "캔버스엔",
+      "price": 1472,
+      "changePercent": 29.92
     },
     {
       "market": "코스닥",
-      "code": "331920",
-      "name": "셀레믹스",
-      "price": 10590,
-      "changePercent": 26.37
-    },
-    {
-      "market": "코스닥",
-      "code": "043200",
-      "name": "파루",
-      "price": 1290,
-      "changePercent": 25.98
+      "code": "443670",
+      "name": "에스피소프트",
+      "price": 3780,
+      "changePercent": 29.9
     },
     {
       "market": "코스피",
-      "code": "009190",
-      "name": "대양금속",
-      "price": 1620,
-      "changePercent": 15.55
+      "code": "001210",
+      "name": "금호전기",
+      "price": 9940,
+      "changePercent": 20.92
     },
     {
       "market": "코스피",
-      "code": "760026",
-      "name": "키움 레버리지 전력 TOP5 ETN",
-      "price": 19185,
-      "changePercent": 14.67
-    },
-    {
-      "market": "코스피",
-      "code": "192650",
-      "name": "드림텍",
-      "price": 5980,
-      "changePercent": 13.9
+      "code": "010640",
+      "name": "진양폴리",
+      "price": 2210,
+      "changePercent": 15.53
     }
   ]
 }
