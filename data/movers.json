@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T05:54:33.283Z",
+  "updatedAt": "2026-08-29T03:27:12.810Z",
   "items": [
     {
       "market": "코스피",
@@ -30,6 +30,13 @@
       "changePercent": 29.97
     },
     {
+      "market": "코스피",
+      "code": "001210",
+      "name": "금호전기",
+      "price": 10680,
+      "changePercent": 29.93
+    },
+    {
       "market": "코스닥",
       "code": "210120",
       "name": "캔버스엔",
@@ -45,17 +52,10 @@
     },
     {
       "market": "코스피",
-      "code": "001210",
-      "name": "금호전기",
-      "price": 9940,
-      "changePercent": 20.92
-    },
-    {
-      "market": "코스피",
       "code": "010640",
       "name": "진양폴리",
-      "price": 2210,
-      "changePercent": 15.53
+      "price": 2190,
+      "changePercent": 14.48
     }
   ]
 }
