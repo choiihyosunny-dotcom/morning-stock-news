@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-08-29T23:50:20.396Z",
+  "updatedAt": "2026-08-31T00:09:19.951Z",
   "items": [
+    {
+      "market": "코스닥",
+      "code": "022220",
+      "name": "티케이지애강",
+      "price": 780,
+      "changePercent": 30
+    },
+    {
+      "market": "코스닥",
+      "code": "223310",
+      "name": "사토시홀딩스",
+      "price": 3640,
+      "changePercent": 30
+    },
     {
       "market": "코스피",
       "code": "001770",
       "name": "SHD",
-      "price": 12350,
-      "changePercent": 30
-    },
-    {
-      "market": "코스닥",
-      "code": "288980",
-      "name": "모아데이타",
-      "price": 312,
-      "changePercent": 30
-    },
-    {
-      "market": "코스닥",
-      "code": "121850",
-      "name": "코이즈",
-      "price": 724,
-      "changePercent": 29.98
-    },
-    {
-      "market": "코스닥",
-      "code": "312610",
-      "name": "에이에프더블류",
-      "price": 386,
-      "changePercent": 29.97
-    },
-    {
-      "market": "코스피",
-      "code": "001210",
-      "name": "금호전기",
-      "price": 10680,
-      "changePercent": 29.93
+      "price": 16050,
+      "changePercent": 29.96
     },
     {
       "market": "코스닥",
       "code": "210120",
       "name": "캔버스엔",
-      "price": 1472,
-      "changePercent": 29.92
+      "price": 1913,
+      "changePercent": 29.96
     },
     {
       "market": "코스닥",
-      "code": "443670",
-      "name": "에스피소프트",
-      "price": 3780,
-      "changePercent": 29.9
+      "code": "054940",
+      "name": "엑사이엔씨",
+      "price": 3900,
+      "changePercent": 18.18
+    },
+    {
+      "market": "코스닥",
+      "code": "286750",
+      "name": "나노실리칸첨단소재",
+      "price": 3300,
+      "changePercent": 15.79
     },
     {
       "market": "코스피",
-      "code": "010640",
-      "name": "진양폴리",
-      "price": 2190,
-      "changePercent": 14.48
+      "code": "019170",
+      "name": "신풍제약",
+      "price": 11670,
+      "changePercent": 15.66
+    },
+    {
+      "market": "코스피",
+      "code": "484870",
+      "name": "엠앤씨솔루션",
+      "price": 17300,
+      "changePercent": 14.49
     }
   ]
 }
