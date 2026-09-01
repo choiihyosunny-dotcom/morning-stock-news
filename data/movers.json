@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-08-31T00:09:19.951Z",
+  "updatedAt": "2026-09-01T00:56:40.107Z",
   "items": [
     {
       "market": "코스닥",
-      "code": "022220",
-      "name": "티케이지애강",
-      "price": 780,
+      "code": "067290",
+      "name": "JW신약",
+      "price": 2990,
       "changePercent": 30
     },
     {
       "market": "코스닥",
-      "code": "223310",
-      "name": "사토시홀딩스",
-      "price": 3640,
-      "changePercent": 30
-    },
-    {
-      "market": "코스피",
-      "code": "001770",
-      "name": "SHD",
-      "price": 16050,
-      "changePercent": 29.96
+      "code": "320000",
+      "name": "한울반도체",
+      "price": 11500,
+      "changePercent": 29.94
     },
     {
       "market": "코스닥",
-      "code": "210120",
-      "name": "캔버스엔",
-      "price": 1913,
-      "changePercent": 29.96
+      "code": "900100",
+      "name": "파이온엑스",
+      "price": 2350,
+      "changePercent": 29.91
     },
     {
       "market": "코스닥",
-      "code": "054940",
-      "name": "엑사이엔씨",
-      "price": 3900,
-      "changePercent": 18.18
+      "code": "198440",
+      "name": "강동씨앤엘",
+      "price": 2255,
+      "changePercent": 29.9
     },
     {
       "market": "코스닥",
-      "code": "286750",
-      "name": "나노실리칸첨단소재",
-      "price": 3300,
-      "changePercent": 15.79
+      "code": "261520",
+      "name": "이지스",
+      "price": 5350,
+      "changePercent": 26.78
     },
     {
       "market": "코스피",
-      "code": "019170",
-      "name": "신풍제약",
-      "price": 11670,
-      "changePercent": 15.66
+      "code": "210980",
+      "name": "SK디앤디",
+      "price": 3520,
+      "changePercent": 25.27
     },
     {
       "market": "코스피",
-      "code": "484870",
-      "name": "엠앤씨솔루션",
-      "price": 17300,
-      "changePercent": 14.49
+      "code": "004310",
+      "name": "현대약품",
+      "price": 7630,
+      "changePercent": 19.59
+    },
+    {
+      "market": "코스피",
+      "code": "010400",
+      "name": "우진아이엔에스",
+      "price": 4815,
+      "changePercent": 15.19
     }
   ]
 }
