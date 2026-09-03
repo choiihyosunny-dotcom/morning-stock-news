@@ -1,88 +1,88 @@
 {
-  "updatedAt": "2026-09-02T23:46:52.920Z",
+  "updatedAt": "2026-09-03T23:44:55.405Z",
   "items": [
     {
-      "title": "[코스피·코스닥 전 거래일(2일) 주요공시]",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EeEUwUEV2ZHhrNUpnb09lU1FucGplQXRlbzVrQ2VoR1BzYUZ6eGtGdFV4UWhoT2NhT3FuQkxqLUhBZVNMN09GcHRBQjJHM0ROZWE1b1JFSVNHVlHSAWBBVV95cUxOMkNOeFdHNFFPbWdyODlTei15eVl0WU9leDRtTVNVMTVseWxWNGJBMW1CX01UWVFfaFZFcERKcXFld0FwVWZObzltRUdtNGZfV3JjR005ZGR6dzNneXlndEU?oc=5",
-      "source": "yna.co.kr",
-      "pubDate": "9.2",
+      "title": "‘이유 없이 뚝’ 코스피…개인·외국인·기관 모두 던져",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JVUNCSEw3eC1BVmlrRmlLMnNwMDFtZ3hLT01Bd3BQSXA0anl1aFV6Q3M2WEkwM2NBZjdiZElubTFUcjJaVl9pNm8wRHU2V0I3YkdmQ3N4UWNzYVdyWUNTYVZXX2c2MVU?oc=5",
+      "source": "한겨레",
+      "pubDate": "9.3",
+      "keywords": [
+        "코스피",
+        "외국인",
+        "이유"
+      ]
+    },
+    {
+      "title": "[코스피·코스닥 전 거래일(3일) 주요공시]",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaS0pvak00YVB4S1NEcE8xZ3dHQlkzV0daZkptYUdDdWJudHhyRXFzY0E2T0hBM0hFbERwaVVpZGFjYjYzaXRIMG1RRU8wUFp6LU93MFdLQko1QlHSAWBBVV95cUxNbWNTYTBpUmNxQm5pWWtmcGVORl92WjBSNGVFTlRFc0lmalVHZ296eFQ0dXA1TXhmS001cWxzRmVxc3dwZWNjVFlWU3NkQ2VST01VcjlNWUxtY2xHNnN2MGM?oc=5",
+      "source": "연합뉴스",
+      "pubDate": "9.3",
       "keywords": []
     },
     {
-      "title": "국채금리·유가 중동 긴장에 국채금리·유가 급등…코스피 4% 급락",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DRml0WkoxNTQ3enJWMVVub21nVTVFdWxERnZzbTJhenI3MW9kMzNmMXUyTERBZXBWbzZtZzFhTWNzN0hNZkJUMWtEdWZOOHp3WTBkX0NJRTBTazJnWlotb2VHM1BsRmM?oc=5",
+      "title": "코스피, 중동 긴장에도 상승…코스닥 800선 하회",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UNUNJaUY2anQ3UXB5ek9ITVJNSUowRWJlaEJfdkZDQV9fRi03bDlxT1lSTWxWWFFvWEdFc1pOeWFrd2NOdXIzOVNDVF9jNmtDTnpUZW5TNlQtX2hNaHJ1cl9JZ2w1SDA?oc=5",
       "source": "연합뉴스TV",
-      "pubDate": "9.2",
+      "pubDate": "9.3",
       "keywords": [
-        "국채금리",
+        "긴장에도",
+        "800선",
+        "코스피"
+      ]
+    },
+    {
+      "title": "중동 긴장에 코스피 장중 '털썩'...코스닥 800선 붕괴",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYQ3NZZmQ4Zm83c2VQTzhEYnExTHNaY3czVjRsZThCeklvcHRBVFkwN2poc0JBeWRlOE1iMnIwZVVBLWZfVWtNVkRPVERBY0JjMUlVeUhvR0k0RHY4dHc?oc=5",
+      "source": "YTN",
+      "pubDate": "9.3",
+      "keywords": [
+        "800선",
         "긴장에",
         "코스피"
       ]
     },
     {
-      "title": "삼성전자·SK하이닉스가 이끈 올해 코스피…코스닥은 소외 심화 [1분 브리프]",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90UWVyV3F0OV9nSGJGRGw4QUQzOW1EZTFnNUd5R0hLT0FBVjUxMWF5aHlZYTB2cHdFUjVsSl9UbWR5dThWZTY2UDluYTI5c2c?oc=5",
+      "title": "[마켓 프리뷰] 코스피 급등락에 투자자 당혹…반도체 관세가 변수",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5UURnbjRGVU1CWUNWeWlaMlY5WnhsTklsYVI2bHhYNzVLTkVtTmtXUzFnXzdRa1ltUVFoY0VaQkQ3UWNyY0dnRkJOYW9Lbmc?oc=5",
       "source": "v.daum.net",
-      "pubDate": "9.2",
+      "pubDate": "9.3",
       "keywords": [
-        "SK하이닉스가",
-        "삼성전자",
-        "코스닥은"
+        "급등락에",
+        "코스피",
+        "투자자"
       ]
     },
     {
-      "title": "[0902마감체크] 코스피, 중동 리스크 고조에 4% 급락… 6500선 후퇴 By 인포스탁데일리",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BMVJHNFgxSzhuMlhGQ3JOWHdUN2laOGh0NVdxSFc0YzJmWWdpNm5lajlhRnRUQnQ3cE9GX0lyd3RRR0pmWGdBMlFuRmh5bWYxQmtCbWNpWkJoQm9Mc3JzYzh3NVpwanVUSDJDbWhGSUc?oc=5",
-      "source": "Investing.com 한국어",
+      "title": "흘러내리는 코스피…’삼전닉스’ 각각 4%대 급락",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnoxdHR3WUpHWFVZd1BjenVMazdmMGw1NElUbTQyU2ZUWm5rTkE1LTJSamU0T0dXNGtOZmotY19RNThycmE3eHFwcWoxc3dCSjRVeXRuay1zT0N1akQtOTlDdjNOTlpuOG9vX3QwUDEzVk1aWFpleXY2cTFraWlVQw?oc=5",
+      "source": "chosun.com",
       "pubDate": "9.2",
       "keywords": [
-        "인포스탁데일리",
-        "6500선",
+        "흘러내리는",
+        "삼전닉스",
         "코스피"
       ]
     },
     {
-      "title": "중동 전운 다시 고조...코스피·코스닥 동반 하락",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvY01pbW45Wl9NOEVhWUxRRjUyZjBzZWZJUUZQaFVaU2RGUXhPakRKT0NoV1BoMW4wODBadHN0ME9KYkx6aG51S0Z1a0FCMXFHLTJKcklTemtZX041OUE?oc=5",
-      "source": "ytn.co.kr",
-      "pubDate": "9.2",
+      "title": "[증시-마감] 코스피, 기관 투매에 출렁였다 0.26% 상승…코스닥은 1.71% 하락",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SN2dhc3pVZ1NvYm5VVENCcVp6RTBiZnRHXzFWbHFmTzdONm04M1FRM0RMSDBRUDVHclNDY0RIMV9idU8xbEpic2QyYVY1SW1XU003VFp4TndaZjgwNmFmclJpOWtFXzk0YWx5aDN2MFA?oc=5",
+      "source": "연합인포맥스",
+      "pubDate": "9.3",
       "keywords": [
-        "코스피",
-        "코스닥",
-        "중동"
+        "0.26%",
+        "1.71%",
+        "출렁였다"
       ]
     },
     {
-      "title": "코스피 4% 급락 뒤 엔비디아 3%↑…외국인 ‘현·선물 4조 매도’가 첫 시험대",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yU2UtM0dXRUtzZjc4RUJIUUh4UTJUQlZZbmdnSFBPU3NyU3MyZzU0TnY3ZUVFWmR1djk0c1NtQXB5bXZYQmlONWpUczFIS3RjQXV0U00wanhSRGdYR1c1T21YN0tHNEo2?oc=5",
-      "source": "녹색경제신문",
-      "pubDate": "9.2",
+      "title": "[0903마감체크] 코스피, 변동성 끝 강보합 마감…코스닥은 하락 By 인포스탁데일리",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhSENUOGJocnhld1JfbXNjcFZDR28xT1dfT0Rsd3pwejJTaTdETTIwWFJ4bUFnVlpXellaWHpjTDQxSlNLb3psSTVOazFmOGNCOC1XR3hRMV9BNDF4ZV84U2RNMWkxNV9aNVNrRGthQWE?oc=5",
+      "source": "kr.investing.com",
+      "pubDate": "9.3",
       "keywords": [
-        "엔비디아",
-        "코스피",
-        "외국인"
-      ]
-    },
-    {
-      "title": "치솟는 국채금리에 증시 '휘청'‥코스피 4% 급락",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaZ2tEMEJXeDd3V1ZTR0N0TW1mQXViQVAyTUcyMWNhNjAtT1otV1RNTHpocHNoM05TOE1rR2tOSUowZXhpWEhwSnh0a19qTzNXLXlIeGpfTy02WDdnMlRwYl9aejNob01IVEt0bVdqcllMWjdJZjJ2RdIBeEFVX3lxTFB0X3JkYXZBRnNCRWJVcWIxQzVHU3M2RDl5LTE5eW5Wdi0xOXFLOFhtd2g0VWRPbnV1TWJYWFdJU3phZ0JoOXlodXJ3TEFQNkUyeGtQdVhEMjZXRGtuNVprS183QmVXU0RoRjVPT0c3eHI2MWVEN0YycQ?oc=5",
-      "source": "MBC 뉴스",
-      "pubDate": "9.2",
-      "keywords": [
-        "휘청‥코스피",
-        "국채금리에",
-        "치솟는"
-      ]
-    },
-    {
-      "title": "[리벨리온 IPO] 코스피 꿈꾸는 오너 박성현…코스닥 오라는 거래소",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05c016a0pZRURoSlZxWEpFMDd2TVE5RWlNZ0JnT1BmTTRPb2JlUFBPNkxkbW1RSGM3ZllrcHR0WDFCcnozSnM3SjEwVThMRHM?oc=5",
-      "source": "딜사이트",
-      "pubDate": "9.2",
-      "keywords": [
-        "코스피",
-        "꿈꾸는",
-        "박성현"
+        "인포스탁데일리",
+        "코스닥은",
+        "코스피"
       ]
     }
   ]
