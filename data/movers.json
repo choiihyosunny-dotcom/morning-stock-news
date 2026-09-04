@@ -1,4 +1,61 @@
 {
-  "updatedAt": "2026-09-03T23:44:55.405Z",
-  "items": []
+  "updatedAt": "2026-09-04T23:38:18.047Z",
+  "items": [
+    {
+      "market": "코스닥",
+      "code": "386380",
+      "name": "스카이랩스",
+      "price": 23500,
+      "changePercent": 135
+    },
+    {
+      "market": "코스닥",
+      "code": "048770",
+      "name": "TPC로보틱스",
+      "price": 3965,
+      "changePercent": 30
+    },
+    {
+      "market": "코스닥",
+      "code": "418620",
+      "name": "E8",
+      "price": 572,
+      "changePercent": 30
+    },
+    {
+      "market": "코스닥",
+      "code": "101000",
+      "name": "KS인더스트리",
+      "price": 1094,
+      "changePercent": 29.93
+    },
+    {
+      "market": "코스닥",
+      "code": "030530",
+      "name": "원익홀딩스",
+      "price": 22500,
+      "changePercent": 29.91
+    },
+    {
+      "market": "코스피",
+      "code": "004415",
+      "name": "서울식품우",
+      "price": 5480,
+      "changePercent": 29.86
+    },
+    {
+      "market": "코스피",
+      "code": "020120",
+      "name": "키다리스튜디오",
+      "price": 7200,
+      "changePercent": 16.5
+    },
+    {
+      "market": "코스피",
+      "code": "267250",
+      "name": "HD현대",
+      "price": 240500,
+      "changePercent": 12.65
+    }
+  ]
 }
