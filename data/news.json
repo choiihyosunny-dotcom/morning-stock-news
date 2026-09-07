@@ -1,84 +1,88 @@
 {
-  "updatedAt": "2026-09-06T23:24:31.645Z",
+  "updatedAt": "2026-09-07T23:54:34.326Z",
   "items": [
     {
-      "title": "[코스피·코스닥 전 거래일(4일) 주요공시]",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fVmx3UUtQSlBHZTV0enB2cjZvOXc1Rm8zMnM1TVB6X2FfQ0pidHZhZGVLTFV0UWxSX2lrempmQUFMV0ZOTWh1Mzc4bEJrQ1NMUFllU3ZEZkxhdnNQbndrVNIBYEFVX3lxTE1fVmx3UUtQSlBHZTV0enB2cjZvOXc1Rm8zMnM1TVB6X2FfQ0pidHZhZGVLTFV0UWxSX2lrempmQUFMV0ZOTWh1Mzc4bEJrQ1NMUFllU3ZEZkxhdnNQbndrVA?oc=5",
-      "source": "yna.co.kr",
-      "pubDate": "9.6",
-      "keywords": []
+      "title": "[마켓뷰] '7천피' 탈환 vs 차익실현…코스피 상승세 이어가나",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FbV9NYUhESjBXMDRYWi1sN1k2bTFpRE14UU5RSWZwcHQ2RFo0TlF5YnYxSlhoZUJjWFQ4ekdTaDNkcDJWUmFUT20zaVF1TTgzRWt3Zk1XSWFic2PSAWBBVV95cUxPUVkzOTRZaU5LTVZTN1dEOWpadnZ2ZmRBei1RNUVoWS1NS3BhOFQyMXpnTU5NVmJZSHRBcXVfenFVSHdiblVpdTh0cFllS0pWbGZfdVMycktnN3poSTNqWU0?oc=5",
+      "source": "연합뉴스",
+      "pubDate": "9.7",
+      "keywords": [
+        "차익실현",
+        "이어가나",
+        "7천피"
+      ]
     },
     {
-      "title": "[마켓 프리뷰] 외인·기관 복귀에 국내 증시 상승…美 금리 방향 촉각",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wdDk3YVd2RnZKbXpxdVlWV3Yzck9VdDRXTFhlYVVSaWZ2THJmbW85blVsc2tYUFExWWVQT1laRWwzTkxIQkItVzVEOEFwRVk?oc=5",
+      "title": "거래대금 62% 증발한 코스닥…전문가들이 꼽은 ‘긴급 처방’ [성장판 닫힌 코스닥]",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZZVA3MFZhTzk3alhlRHBMbXhEbXoxS1d4REpZdUR5VXUwR05pSzZOSldPN3VBS3NRamNvVm5PRDVDUDFxNFBzbURENEstSmRkQTBsOEV3?oc=5",
+      "source": "중앙일보",
+      "pubDate": "9.7",
+      "keywords": [
+        "전문가들이",
+        "거래대금",
+        "62%"
+      ]
+    },
+    {
+      "title": "오픈AI발 훈풍에…코스피, 4.61% 급등",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PVXpVZ29NZ1VsZUxFanNlTEt5Tm55a0pZUjJfSlNSSWRfZFMzdzBiUzRIaldyOERRRjlXQ0JnUlFqUzNYWHVQWlZiOERsc2t4ZUhmbnZpSk5DdG9Fd1JWZ2Z4NlRvdzQ?oc=5",
+      "source": "연합뉴스TV",
+      "pubDate": "9.7",
+      "keywords": [
+        "오픈AI발",
+        "4.61%",
+        "훈풍에"
+      ]
+    },
+    {
+      "title": "반도체주 강세에 코스피 4.6% 급등…7천 선 턱밑",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Lb3dyNXdnNHhER1hMM01MWExCLVFZU3NKRFg5U3Nic09XdUh4V3lJTXdrVFhHY04tc1o5NnVtYzJVX1ZWUWc1ajhxaFlzeGc?oc=5",
       "source": "v.daum.net",
-      "pubDate": "9.6",
+      "pubDate": "9.7",
       "keywords": [
-        "복귀에",
-        "외인",
-        "기관"
+        "반도체주",
+        "4.6%",
+        "강세에"
       ]
     },
     {
-      "title": "[코스피·코스닥 전 거래일(4일) 주요공시]",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVOFlDWXJVSWJidndFMGxQWkVJM2ctNmVyR1ZrenR4ZmNVZEw1N0pmM19xVWQ1aUVpVzAyN2lKaGR2cXBaVFlVTzFtWmdxcGJxNVE?oc=5",
+      "title": "\"코스피 7000 돌파 저항 많을것…4분기께 전고점 회복 시도\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XSldUSllwUHozUlIwY0NhSjlUclhaOGRtc25pbEhWc1FEekJzZWJiUGZHN2ktMEJieGREUW1BWHdrN24ybWxsSEtoYXB1N2dmUkY2dnYwR09kdw?oc=5",
+      "source": "한국경제",
+      "pubDate": "9.7",
+      "keywords": [
+        "7000",
+        "4분기께",
+        "코스피"
+      ]
+    },
+    {
+      "title": "[코스피·코스닥 전 거래일(7일) 주요공시]",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aQUhoeFpZVlR2T09fMGNPMFVlaEt6QlpZZWF1THZTaHgtLTViQnJPQlU4NTJlLVI1cmNnQU85QTQ5SHZtQlNRdFhCMFdqMG4wY1E?oc=5",
       "source": "매일경제 마켓",
-      "pubDate": "9.6",
+      "pubDate": "9.7",
       "keywords": []
     },
     {
-      "title": "'롤러코스피' 끝났나…코스피 '공포지수' 40선 아래로 [1분 브리프]",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwNk5ueWlZSEZObzhlTnVGNURmREpja2RYUTM1czRIQVRPTHBXc0czd3Bad011TGZrRlRORkN2eko3Mng1RHFtM1puSzcxVGQzSDVDVk9QZnRySW5PVFR2Rw?oc=5",
-      "source": "아시아경제",
-      "pubDate": "9.6",
+      "title": "반도체주 강세에 코스피 4.6% 급등…7천 선 턱밑",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43Vlh3ZS1BT2x1Unphc3BGRVh3Q1lIaTdUZzVxWmZ4d214QVhyc20xNndYUzJacE9CWHRyS2p5dGFjS3REd0N5bEh3al9WNENacGwzNlFfV3lTY0k?oc=5",
+      "source": "news.kbs.co.kr",
+      "pubDate": "9.7",
       "keywords": [
-        "롤러코스피",
-        "공포지수",
-        "끝났나"
+        "반도체주",
+        "4.6%",
+        "강세에"
       ]
     },
     {
-      "title": "6680선 회복 코스피…美 고용발 금리 부담 다시 변수",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44ckwyQ1Aza19jMW5JeFd6OG1GOU43TE1ubmxTQWZJelpnci16Y2psaXdWNG5CUVBIVG03ay1Tcnh3Q2xEQVZwakI2WmZBZkJ0bDFiUkRCMnN0V2pGX25Sdm5IOXRqNWd1?oc=5",
-      "source": "ebn.co.kr",
-      "pubDate": "9.6",
+      "title": "\"코스피 수익 기준으로 역사점 저점 지나고 있어, 연말 전 9300 뚫을 것\"",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSkJIQ2x4ZzJsZG4xXzBtWmJBS1pGMEZVVmFaTGZPdnk5WVVGd3JHVTFIdDN2NU9qRUMwTUlCNmc4aXQtU1U5bnJadElMNDJtdWwyWmMzMUdkZE5IWXF3eHZJa0R0aHpGZzRaSGhJbDJvQ0hvLW1meWNBdzdjU3FiZQ?oc=5",
+      "source": "조선일보",
+      "pubDate": "9.7",
       "keywords": [
-        "6680선",
-        "코스피",
-        "고용발"
-      ]
-    },
-    {
-      "title": "상장 제약·바이오사 2Q 평균 매출 코스피 2116억원, 코스닥 557억원",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhRkQ2Rm9tdE5ZRlpaVkZzS3NWVTZEVk5jQzg2V2xQdEJ5RnJUTFZMbXprZlBuQWtLYmdtOVZ0Y2czRTJjdHN1ZUl1Rjl5R2Noazk3Wm5yVnhsdDd3emZSazk4blpwZw?oc=5",
-      "source": "약업신문",
-      "pubDate": "9.6",
-      "keywords": [
-        "2116억원",
-        "557억원",
-        "바이오사"
-      ]
-    },
-    {
-      "title": "“6500 박스피 재미없네”…최고치 대비 60% 쪼그라든 거래대금 - 조선비즈",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZnpBaVJYTTZMemJheTdSYzFWNk9CVXNKenoxa05CQjZSNkRrVVFWXzk1M1pIOTkwZmROcUp3N290bUphTmd6VjAxWXNiUzNHMTlXSzU4OXJPSkFPVUxmdWVSbGgwZ0NqUGNIdHlSaUgtMlR5cDRBZkh5M3RNbzdRLUQyTW5oNWRo0gGcAUFVX3lxTE5ocFBLRDJiWDJDTVV5dmpEbngwa3Y4bnR3Q2NTRUVxWTZCY3hVVmFtVjVvMlJ0SFd4dGlGMXctUGMtNGZZLTFVazVRTUNMSzBSTGdhNHBBY0ZxdkZGck9NaTJCRnEzdThuUkdJZVpnZ0l2eDlidGIwTk9DN3hWMkgwQmFOOTJfa2dfanQ5WURJZk5OZkR6VjQtXzgyNw?oc=5",
-      "source": "Chosunbiz",
-      "pubDate": "9.6",
-      "keywords": [
-        "6500",
-        "재미없네",
-        "쪼그라든"
-      ]
-    },
-    {
-      "title": "코스닥 기술특례 300사 시대…혁신 키웠지만 높아진 '생존 문턱'",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wblAtb0pCQ2NDWUdyRUhnNjg3TWJsVGZfQ1kyS1JCaEh6eUZYTVBWM09hVWdDMTFSbUc0OUtxZVV3cC1VSEtLN25RSTVaYWlMRWVBZmk0MGUxcWNwZXc?oc=5",
-      "source": "뉴스투데이",
-      "pubDate": "9.6",
-      "keywords": [
-        "기술특례",
-        "300사",
-        "키웠지만"
+        "기준으로",
+        "9300",
+        "코스피"
       ]
     }
   ]
