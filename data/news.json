@@ -1,92 +1,88 @@
 {
-  "updatedAt": "2026-09-15T00:10:25.258Z",
+  "updatedAt": "2026-09-15T23:54:24.800Z",
   "items": [
     {
-      "title": "코스피, 0.38% 하락 출발…코스닥 약보합",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00ZnFId1B2VkZhNUR1b0FjVU5SWHFsR2UwaGpYSjlISjd2a3VfcUQ5LWlkTGh3cFBaSjB1Ry1MMjdLaVd6bkV4Rm9tZ3VjRzJBdWQyWF9xdUZRUXJ1d2g1a3RFUXRzWk0?oc=5",
+      "title": "[마켓 프리뷰] 금리·유가 우려에 나흘째 밀린 코스피…코스닥은 반등",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40cVJKTTMzcklRT3lZX1VybFkzNFRYLTFlWmRjbnM3OG1WR1RTak83U2I2RWJnS3d6dnlSTnVtZVFhMGFfampkMWJpZ29Ienc?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "9.15",
+      "keywords": [
+        "코스닥은",
+        "우려에",
+        "나흘째"
+      ]
+    },
+    {
+      "title": "[코스피·코스닥 전 거래일(15일) 주요공시]",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54eXpubUFDREZhc1dIZHluZkE0VFYxS0N6RUlNeTcxYUNYQ0ZZcE1qVkc1S2d2bXlPdEdZd1J6SGRKS3NhQ1FJSm1WQkpvRmRlV2ZNWDVBZDFGUFHSAWBBVV95cUxOb1ZKX3o3RWNFc3ZwRTY0bzh3Y1NOcms5dmZyN08wTXBYbERhbGZsUmpUaFYxSTE1WENXajBuWFl0dkNUXzMxQkU1LS1mZWZJRnJmREctOXB2NnZRMGdkblc?oc=5",
+      "source": "연합뉴스",
+      "pubDate": "9.15",
+      "keywords": []
+    },
+    {
+      "title": "겹악재에 밀린 코스피…6,600선 마감",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YMEYwcmQwYXpFWHV1VTlJaW0tODM3UG5XV0tVcURkUm1BeUdFVXBiOXdiWUVVMGFOVmtVTEN0cWRTOEF2ZDdXYWpZcnJBNVdQWEdsVkhDTVF0Y3FBcHVOMFZDRnhuTTg?oc=5",
       "source": "연합뉴스TV",
       "pubDate": "9.15",
       "keywords": [
-        "0.38%",
-        "코스피",
-        "코스닥"
-      ]
-    },
-    {
-      "title": "코스피, 외국인 3.2조 '팔자'에 6600선…삼전·하이닉스 급락",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrRkxoeDRSUy1HTjVZeHIyamFkUnNOc3RDMDlVOTBDcUlBMU1CTnVYRk5PM09xS2FnTGZsYWVKdFRwWldDSlRPSnJqWHRHUFRMWEhkRm15VnMtdw?oc=5",
-      "source": "한국경제",
-      "pubDate": "9.14",
-      "keywords": [
-        "6600선",
-        "3.2조",
-        "하이닉스"
-      ]
-    },
-    {
-      "title": "[마켓뷰] 금리·유가 급등에 AI속도조절론…코스피 하락 지속되나",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94WXhGUkt0Si1telVwT2ZiLWM5OW1hZUlIMjFUcmtCSUxEZ1VzUllURVFzUklHckRTZUl2YXhfb1Z4QmJCaWZXZkRwY3pxY1BjQWg5Y3lVLUMwMXPSAWBBVV95cUxOMmk3VWFJN1p3cHpvZDVReHVEb25zSjJEamNUSGZoSjdGcGFwd3cwLUx0SEZxT0h3MjJYM3JGYXZ2Y3lXUlBTUFliVkswODhvRnBKZWhlR0pGNVl0N3h0b0I?oc=5",
-      "source": "yna.co.kr",
-      "pubDate": "9.14",
-      "keywords": [
-        "AI속도조절론",
-        "지속되나",
-        "급등에"
-      ]
-    },
-    {
-      "title": "\"미 금리인상 확률 87%\"...코스피 6600선 '털썩'·삼전닉스 '급락'",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00M1NPRjlhZnI1QXNQU3FObWw1TWkwcGpmYVZLTGxocUdaT0ttZTRZWXlXZ2xXMVhmWGNzWWF2eVVXaEt3WGdIaXJSSUdFaXhUdUw0SkdxT1h5MzZXOHc?oc=5",
-      "source": "YTN",
-      "pubDate": "9.14",
-      "keywords": [
-        "6600선",
-        "금리인상",
-        "삼전닉스"
-      ]
-    },
-    {
-      "title": "[마감] 코스피, AI 속도조절론에 3.26% 급락…6600대로 후퇴 By 알파경제 alphabiz",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82LVM4blZUUThfQ0tzc29uSXI1bzdCN2ZZUTRSYl9lRF9VZ2N1UGdwSlk3b0RGdUtyazAyWVBlUm80WXczTGdoRFJLcWM1VjdqVlFIRW04TGFxaTNmalR4Y0x5bW1yTldRU0U1b0xMdlI?oc=5",
-      "source": "Investing.com 한국어",
-      "pubDate": "9.14",
-      "keywords": [
-        "alphabiz",
-        "속도조절론에",
-        "6600대로"
-      ]
-    },
-    {
-      "title": "‘6천피’에 갇힌 코스피, 코스닥 2거래 연속 하락…강원 상장사 주가 출렁",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jX08yTFl2b18zRWhBTm4xVDBfUy1tajdBNW84NUh4SHhLbTctb3VhUzVVVUg1TmJ4aVFKQjNVMWZQMW0taWxJYU1naG1UQkpJbFBRTmJzbWJpN1U?oc=5",
-      "source": "강원일보",
-      "pubDate": "9.14",
-      "keywords": [
-        "6천피에",
-        "코스피",
-        "코스닥"
-      ]
-    },
-    {
-      "title": "[AI MY 증시전망] 美 반도체 쇼크 덮친 코스피…\"하락 출발 전망\"",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uSkFGUTF0aTFnVkRjdGNSbmhTdzFNbmQ5Z3FtYTFCb3h6ajkxdEQ0aFJhOXFpREk4dkdlUHhabnNURTFxSWJobGZmRno3d1NiR2I1RjlRLWxHN2d5?oc=5",
-      "source": "뉴스핌",
-      "pubDate": "9.14",
-      "keywords": [
-        "반도체",
-        "코스피",
-        "쇼크"
-      ]
-    },
-    {
-      "title": "AI 속도 조절론·유가급등에 코스피 급락",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81ZXhTYUU0aFRHNHJ2N1dtdTRldnhoSm5UUFBWNENrM3lmcXFVVkZab0Y4NXl5b0RNZm02VnhnaTJTbVpOanhlM2ZjSC1YdjNlY1FweWkzWS1nRzQ?oc=5",
-      "source": "KBS 뉴스",
-      "pubDate": "9.14",
-      "keywords": [
-        "유가급등에",
-        "조절론",
+        "겹악재에",
+        "600선",
         "코스피"
+      ]
+    },
+    {
+      "title": "코스피 나흘째 하락...원·달러 환율 1,359원까지 상승",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WeHJXMWFDUFVodWZqNlpZZm9GRTByT1g4eTFIZkNCX28yYmpqLUc2WmpLQzRZM2pHdU1GLVFNUDg5d3FlTy0yV1ByN3VCelFTZ0QtQXljTmdLdEQ1d3c?oc=5",
+      "source": "YTN",
+      "pubDate": "9.15",
+      "keywords": [
+        "359원까지",
+        "코스피",
+        "나흘째"
+      ]
+    },
+    {
+      "title": "[AI MY 증시전망] 美 국채금리 5%…코스피 하락 출발 전망",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aRXczektJOWRLYUhRXzZCZDZIRXVIRDF0cm80RFlTS3hWTVFCNEVPWFNIYkxlRE0xLUFhUDZhZ2RPdHhrWHNoNVZKbXNYZFNSUzhyTzU4cDBxTi05?oc=5",
+      "source": "뉴스핌",
+      "pubDate": "9.15",
+      "keywords": [
+        "국채금리",
+        "코스피",
+        "5%"
+      ]
+    },
+    {
+      "title": "한 달 사이 270조 증발한 국내증시···금리인상 가능성에 경계감 고조 By 투데이코리아",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1USVRRb2R2NjQ0Ni1NWmtsMGFEcjRHNWRHa0NoODlPd0Rqei1rcFhrNTRxMWZUUURsWC12R29zUXZNWV9wNVNkenN3bHZaejJrbGhUdk0tTlY3LVNfeEFua0NpQWluY3JOLWdaN2tweEk?oc=5",
+      "source": "Investing.com 한국어",
+      "pubDate": "9.15",
+      "keywords": [
+        "투데이코리아",
+        "270조",
+        "국내증시"
+      ]
+    },
+    {
+      "title": "코스피, 4거래일 연속 하락…코스닥은 사흘 만에 반등",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DNXJjTF90dW5ZZXcxV2Vyck43YWxxM2dIOGJUaTVKOFlHYnJhNlpnM3ptWUpaVG5IMnJKNlhPSGNQSTg0VVIzTzR3aHhrb3hCQXc?oc=5",
+      "source": "더나은미래",
+      "pubDate": "9.15",
+      "keywords": [
+        "4거래일",
+        "코스닥은",
+        "코스피"
+      ]
+    },
+    {
+      "title": "코스피 6,600선에서 마감‥5% 돌파 미 국채금리·금리 인상 압박에 하락",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RRjZDNV91YURaRkNCVlVLWk5MVVp4RHc3Mm1DcTdMeFR1ZHNOYldqdElsaEk1TUo3NFVDVEVONHd2UHkxNkpyWHlTOVByR3FOd2NDSU9EMXFmbVJGM2sybTkyZlJuZ1hydkd0SUpIekktZ1h60gF0QVVfeXFMTTVmNEl3bnp0cUpYVDdWQ1pQSGoxb25obEpYYlR1ek1lOXNzV1pRR1hhZkI1MENXRUUzOXFndURXY2kxLUNaSDVoMGVQbjdDejZMb05xbHhVeHZob2pXREJnNnM1TGVlMGV3WkZ3UkFWcGpZYTQ?oc=5",
+      "source": "MBC 뉴스",
+      "pubDate": "9.15",
+      "keywords": [
+        "600선에서",
+        "마감‥5%",
+        "국채금리"
       ]
     }
   ]
