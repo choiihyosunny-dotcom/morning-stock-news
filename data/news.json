@@ -1,86 +1,92 @@
 {
-  "updatedAt": "2026-09-17T23:51:03.321Z",
+  "updatedAt": "2026-09-18T23:48:54.185Z",
   "items": [
     {
-      "title": "삼성전자",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjlGZlg1SVBWbGtVdjZvZGRNRVNDQkNNSkZNYVVIcXdkTUx5ejZOOEVDbV9YYUdRLXJka2Q2R2hoSm9TcWhPMTBkdjVDMVRCZHEwVEJ6a1JtLVNTbjBsZi1QTWY5TDIxQnpCZVBoazFQUjY2YVJYRUFVNTdKSk9pYnN6VVpBRUtVbmFINU1zb1RMOHp2a3FJ?oc=5",
-      "source": "매일경제 마켓",
-      "pubDate": "9.17",
-      "keywords": [
-        "삼성전자"
-      ]
-    },
-    {
-      "title": "[글로벌증시] 뉴욕증시 반등 훈풍…오늘 코스피 영향은?",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WcEtOelZoLXQ4TzFTZTVodXdGVlY1cThXMXZkSmlEaWZyUnlJSU45WkJINWtib29CMEtOLTh1TmI0QW5oTDNiZl94Z3lQeENUX2EtSGQyNkxYa1B3WU40QVJVTTlzX3M?oc=5",
-      "source": "연합뉴스TV",
-      "pubDate": "9.17",
-      "keywords": [
-        "뉴욕증시",
-        "코스피",
-        "영향은"
-      ]
-    },
-    {
-      "title": "외국인, 지난달 코스피 1조9000억원 순매수...올해 처음 국내 주식 ‘사자’",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORjI0cUh2eUN2NTBnMTlpSFNkZUgwSE52QXRYVFRicmtabldMdGRmRi13N3g4RVlncHFMQWRPNlg2VVVLTXJTV3ZYbWFjcGNVal9NVE00VXVDVmpDdi12RmRwclFWOU1sMVc2QUszSHVoUUtCanVNMEIzYmRTZngzM3RQd25nWEU5eHZZ?oc=5",
-      "source": "조선일보",
-      "pubDate": "9.17",
-      "keywords": [
-        "1조9000억원",
-        "외국인",
-        "지난달"
-      ]
-    },
-    {
-      "title": "[코스피·코스닥 전 거래일(17일) 주요공시]",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmTG5QYnBNM19IR2xTeFZiT25HOVNYOHBaZ0FPdjhQbC1uSHRCSzZuamw3RExEbEdlZ2FXSkV2clRBcnVWc1ZXMU5ERGtwVWZSYjlCUTRRenk4aUHSAWBBVV95cUxNaS10TTE4ZkU1TktjYVktRGtuWWlKVHdKclpJRmI4Z2RuLVdrcmtsWXN4SlJkZVRrd2JPQ056Um1xcjI1Tl9UdE9Ra2FsRFJBbTRGbHl4MF8tSVBEMEdmMVk?oc=5",
-      "source": "연합뉴스",
-      "pubDate": "9.17",
-      "keywords": []
-    },
-    {
-      "title": "외국인, 지난달 국내주식 3천억 순매수…8개월 만에 '사자' 전환",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BaDJHWkVqcDdMRVkxX2FNdnRwc0Q5NTdMSlJ3OWlLQTQ1Y2VRUVAwMW80N3l1aldzOW9lWmZ6TzJfRXRLbFI5aG5uOVVMZjN5RUJYdmxWaEMydlBIbEZUbmpScy1XRFdHOEhrOFlXR00?oc=5",
-      "source": "연합인포맥스",
-      "pubDate": "9.17",
-      "keywords": [
-        "국내주식",
-        "외국인",
-        "지난달"
-      ]
-    },
-    {
-      "title": "미 금리 상승에 환율 13.6원 ↑...코스피 약보합 마감",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkVU9jSEJyWF9xdmctQUZhdlRNZ0Z3bW1Ya0I0OVFKNEdIQndKME42QllIdmktR1VCVmJpMnZwU1ZYdFdBRmtWcnU0M2ZrcWpnLXloeWplQXRVTUVNN1E?oc=5",
-      "source": "YTN",
-      "pubDate": "9.17",
-      "keywords": [
-        "13.6원",
-        "상승에",
-        "코스피"
-      ]
-    },
-    {
-      "title": "[어제장 오늘장] 미국발 악재에도 코스피 버텼다…외국인 이탈이 관건",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HeThqdU1wS3ZlNlZMWEcwOU9aRTFnQW1XMlpQb1lDNTJpU25wMm84X2R0RlZXQnd4SDZ3MU1LMHdlbXhwYUgwSjAxbVh0VTg?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "9.17",
-      "keywords": [
-        "악재에도",
-        "미국발",
-        "코스피"
-      ]
-    },
-    {
-      "title": "코스피 전망 '1만2600→8400' 확 낮춘 삼성증권…\"조정땐 매수\"",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uQkZJMTZ4Y2RSVTFJbVpORzQyLU9qVDVKR05kT3pkSWJGLU51anF5ek9GTVRCdUJqdEtFelF0ZElOeFhZbDJPNllhTnd0WkdBYXlvZW53b254Zw?oc=5",
+      "title": "미·일 긴축에도 7천피 넘보는 코스피…\"2022년과는 다르다\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HSHJrMmp4bTRxZHVYakkyMlc5VlhOUlVoVERoUjZWUnNWVWhmakZBRXBKcTJXbzR4cDZNbkFXUjVyM0FmWHFmd0M5YV8xWTk3NXZFUEdEUlNqQQ?oc=5",
       "source": "한국경제",
-      "pubDate": "9.17",
+      "pubDate": "9.18",
       "keywords": [
-        "1만2600→8400",
-        "삼성증권",
+        "2022년과는",
+        "긴축에도",
+        "7천피"
+      ]
+    },
+    {
+      "title": "“9천 넘었던 코스피 내년엔 5200 아래로 빠져” 서강대 교수가 KBS서 한 말",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxZUVNdC03VFJHWGNjcHhELURydEx1ejRhX1RtMUphakllaW1jZlViRlRNNUtvVnFDbWxkby1DVmxsRGhyOTBtMlZvWVhRekc1?oc=5",
+      "source": "문화일보",
+      "pubDate": "9.18",
+      "keywords": [
+        "5200",
+        "KBS서",
+        "넘었던"
+      ]
+    },
+    {
+      "title": "글로벌 긴축에도 오른 코스피…삼전·닉스 강세",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TY3BseTRTVTRCTTg4WWczMV9rWTlYYVJrSjhIcUdhQW41TE9mY1ZYa3dtVzc4d1ZEVGZ3M2RaQlQ4dXh2d3d6LUZFREFocV85b3BiSjBxdUEzLU5XZUQzcmgtM2lQUWs?oc=5",
+      "source": "연합뉴스TV",
+      "pubDate": "9.18",
+      "keywords": [
+        "긴축에도",
+        "글로벌",
         "코스피"
+      ]
+    },
+    {
+      "title": "외국인, 8거래일만에 '사자'…코스피, 2.66% 상승 마감(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JSjlNMzRsU2o2ZTktaS1OQU9xa2d5bGd1M1g2bVc3NF8zeG5MWFN3YWhST2N5V1dtZTlqaDQ5VHZWdTJiME85NzBIT1dNV09WM3Z1cU15WDNSNEc5SXBEYtIBYEFVX3lxTE9JSjlNMzRsU2o2ZTktaS1OQU9xa2d5bGd1M1g2bVc3NF8zeG5MWFN3YWhST2N5V1dtZTlqaDQ5VHZWdTJiME85NzBIT1dNV09WM3Z1cU15WDNSNEc5SXBEYg?oc=5",
+      "source": "연합뉴스",
+      "pubDate": "9.18",
+      "keywords": [
+        "8거래일만에",
+        "2.66%",
+        "외국인"
+      ]
+    },
+    {
+      "title": "[주간증시전망] 코스피, FOMC·AI 우려 소화…추석 전 수급 변수",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HXzFQNzR2azQwS1BJUTFQVHhnb0Iyci1VeEowVzdwVjFfZkwzcFJPV05UWm5rUXh2ckVKSW4tV2RHeTNXaWpzZndNYmt5UGc?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "9.18",
+      "keywords": [
+        "FOMC",
+        "코스피",
+        "AI"
+      ]
+    },
+    {
+      "title": "[속보] 외국인·기관 순매수...코스피, 2.66% 강세 마감",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53UkxzallmTHIxZkE4bkdXb1F0bGFrWkdHaHhLNW5fcnZHYWlVV0V3eG84SVR2N0pSMlR2N0ZoQnY2MDRjQ09rejNyMko0cHVPZzhpbG05cVdJb0o1YkE4UUExTVc4Q1BFTFduU3VGVQ?oc=5",
+      "source": "YTN",
+      "pubDate": "9.18",
+      "keywords": [
+        "2.66%",
+        "외국인",
+        "순매수"
+      ]
+    },
+    {
+      "title": "“7천피 밑도는데, 무조건 더 오른다”…횡보하는 코스피에 레버리지 베팅",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12VW0yLU9IN0h6ZGpxbEljVV8ySVpqMXdKajRUaXF2T19wWjY3MUNVZldScDRMcFZtcWxKYXhHS2JEZTdOQWZRaURaakVoekJxTUE?oc=5",
+      "source": "매일경제",
+      "pubDate": "9.18",
+      "keywords": [
+        "밑도는데",
+        "횡보하는",
+        "코스피에"
+      ]
+    },
+    {
+      "title": "\"불확실성 해소\" 오히려 좋다?…금리 올렸는데 코스피 ‘쑥’",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HMUxtNG1HcmZ6b1RWcGRmYzRCZE14YjliUjRSLVp2QnA4ZTl3OHhCNHRRYVBLbkprY1VTQ3NNVjlST3JKTEZnUTNOVDBvWDlsNEJJbg?oc=5",
+      "source": "JTBC",
+      "pubDate": "9.18",
+      "keywords": [
+        "불확실성",
+        "올렸는데",
+        "오히려"
       ]
     }
   ]
