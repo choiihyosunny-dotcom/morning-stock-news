@@ -1,36 +1,70 @@
 {
-  "updatedAt": "2026-09-19T23:50:27.592Z",
+  "updatedAt": "2026-09-20T23:47:15.610Z",
   "items": [
     {
-      "title": "삼성전기(009150)",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSWduMW1DZ3I5SUprSUlqWVlucHM5NEprYW93TWhZLWV1S0ZvOGliM2dxdDlZb0pnNTJLOC1YbEsteXExekxMc0FaQWRnYkhMZUM5cF9UM3lJLVBCNlBXaWFqOXRrZHY5V1FrdFdyTzJGUnB0UTZZcUZ1TnNUdEhzZEFGQWVsLWE1bGVQVjIyWGZLNHVtNE5v?oc=5",
-      "source": "매일경제 마켓",
-      "pubDate": "9.19",
+      "title": "연휴 전에 살까? 팔까? 7000선 앞둔 코스피 어디로",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WajVWNjdwdlU3VjYxMEFnMDdZVWFoMVdLMUR4cHc4Z251cTRMOXhCOE9vU2VPRkNUZFM5X2dMajItb2pkTG5RYlNyd2t2dHI5b25TSXlSQWVwZ9IBX0FVX3lxTE91Y1hzSGZBdk9wZkpMUnFoUlJxc3R0LXFGSDc2Ml9RaDliZC1BcEtBNmRfa1Z3TGY5amVWNTNBanJqbUZqSEIzZmpwbzBqLVA3TnA2SHpTM29XekVHWlRV?oc=5",
+      "source": "경향신문",
+      "pubDate": "9.20",
       "keywords": [
-        "009150",
-        "삼성전기"
+        "7000선",
+        "코스피",
+        "어디로"
       ]
     },
     {
-      "title": "(주간증시전망)FOMC 넘긴 코스피…다음 고비는 유가·연준",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fYWcybWQxRjhMdTJXRGNlWDFXSkVjTE01TmVTMzZmQ1dSbDc1dnJPY1JhdjdkZEVhNTF4NVBIYkZMTzRPc2ZZNDc5TWtYcjJjSjY2Qy16RnpvcTJsQjZ5eQ?oc=5",
-      "source": "뉴스토마토",
-      "pubDate": "9.19",
+      "title": "미중회담 빅이벤트 낀 추석 앞, '사흘 승부' 코스피 긴장감 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lVHowMjhhazNjOW9qT2FBT1N3c3hUcVY3RlJFMnAtZEhCODQyX2xPX2RreURhb2Vnc0lEV0FBbkxycWxEd2lsZWNrQUtSR2NnWVYxYXZhMUFuTmx0czNCSjQ4c0FsY2lR0gFuQVVfeXFMTkJlTG1fR0pFNlo5UVl1aFBvby1ZVmdiWXRJOUx0a2dRU2t3TnJPcHcwbFRJamFRVkswVFZ3ZDRoMUpvRVFqRDVjTWhlTzVCNllSWHd0eFlOR09uOXBjZEdQTnNwYTN3RW5WY0hNbkE?oc=5",
+      "source": "mt.co.kr",
+      "pubDate": "9.20",
       "keywords": [
-        "주간증시전망",
-        "FOMC",
+        "머니투데이",
+        "미중회담",
+        "빅이벤트"
+      ]
+    },
+    {
+      "title": "추석 뒤 코스닥, 20년간 코스피 이긴 건 5번…올해는 다를까 - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMVBoXzRBZHRKNXNSeHZqRDVWU1VzRnB5ZFhBeWhxU2hmeU9Wb3NlQTRjTlJscEpSN3JHOTBqMzhkTmo1OEVkdzlwT2JHMm5qWXVBbVFKV1J3eVFaMExNUm9ZSGJ5RW1WbXI5TDFaOUthZzU4c2kyaDl0dmF4T3NUYm1yUjRndThL0gGcAUFVX3lxTE5EN1JzTFlhcVd1VjNpTnB2Z21lZHdsLXRaM3QzZm0wUjI2OHlnWjF2N2NrVmxaSlpSZ1lhNlRfOGt6YVI3TWNPcTBOdjU4cmNtZXVnZ21KNUdVZjNVWDBFSExXZEJRSGRDQWNYYy1IVGV2MEdObThZLVlaZXl2X3V1Y1JSMkk0YWphZHZOZFRRcW5nc2RSczVicWtOTA?oc=5",
+      "source": "Chosunbiz",
+      "pubDate": "9.20",
+      "keywords": [
+        "20년간",
+        "조선비즈",
+        "코스닥"
+      ]
+    },
+    {
+      "title": "[마켓뷰] 코스피, 추석연휴 전후 '전강후약' 반복되나",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KbnlJcUYyTmpjeEs1MXA3RmFvYVlhSXBfcjZHdklsZnh3bXZLV3R3RW1UZ2gxdlBmTUpJU3FMb3dSNGZYc0ZuczRPWDZYUnM?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "9.20",
+      "keywords": [
+        "추석연휴",
+        "전강후약",
+        "반복되나"
+      ]
+    },
+    {
+      "title": "[AI MY 증시전망] 코스피, 반도체 강세에 상승 시도…7000선 재진입 '주목'",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uUzItYXc2TGdpU0tHcmNMcDVvWmVrVWtVdHRxaXRLckhtVG9oR0hVR21zLVVVWTRxU1VYOEhTMzRoMjJUT0ZxdWhMTFpGOHNvenhzckNUNTlIa0xD?oc=5",
+      "source": "뉴스핌",
+      "pubDate": "9.20",
+      "keywords": [
+        "7000선",
+        "코스피",
+        "반도체"
+      ]
+    },
+    {
+      "title": "미중 정상회담·추석 앞둔 코스피…상승세 이어갈까",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hWHF3UlR6TXNKdF94aEp1aDR2R3lNR2lZVXNPX0NTSDV6ZlBfYnoxRjNMT2JYWVJVdWhxamkwYmlMYkpzQklNeF9ITTNsQlRBN2RQTGlCZ1lxSEFVbXBpNEk4X2o?oc=5",
+      "source": "MTN 머니투데이방송",
+      "pubDate": "9.20",
+      "keywords": [
+        "정상회담",
+        "이어갈까",
         "코스피"
-      ]
-    },
-    {
-      "title": "미 기준금리 인상에 한은 추가 인상 불가피…코스피 어디로 [증시레이더]",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZWEUwcG9WN2NJQTdxNkFNbW1tR3ZqYjI5NVJwWjZmQVhrSmU1WXRsZ3Y2bHdoWk50SWNucHM3d2MyOVlETjNYWG1lRmpmazhmYzE4WjBXbTJlVXhrRWhKbTRnTGY?oc=5",
-      "source": "디지털데일리",
-      "pubDate": "9.19",
-      "keywords": [
-        "기준금리",
-        "인상에",
-        "불가피"
       ]
     },
     {
@@ -45,47 +79,14 @@
       ]
     },
     {
-      "title": "'돌아온 외국인' 코스피 7000선 재도전…추석이 걸림돌?",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2akt3VGhxdEhvaGhzcVpJNHZkNlJ2OTkweFAxdWx0RWpfVjBtTS1CUXQ1NkYyd3Qxa0RMSXVhTXFPN1V0Q2o2OXZSQ2h5UXUwMnV5M2IwRDZubVp0Ujlj0gFkQVVfeXFMUF9UZEFmR3NfM2JQQ2t6aG1TQ1I1WklBWnQ3VnVxT2NLNE83ZFZJRzBQWXg5OEhwT3A5aVZJRkNVdWRVQU1pUV9KMlpic2VvUTVBZ2t4S20wSmJVTk1valB1MWFRaw?oc=5",
-      "source": "뉴스1",
-      "pubDate": "9.19",
+      "title": "반도체 훈풍 탄 코스피…추석 전후 ‘전약후강’ 재현할까",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NLTVyWTJYbmo2R3JTcW1kSi1iRkJ5VUw4dmphZFA0S3J1NW9teWdIUGFxWDJseWU1TnEwMEhKSk55d0h4Qk9RTFFKUHd0em5JdDNVZGd6QkpOZw?oc=5",
+      "source": "경북매일",
+      "pubDate": "9.20",
       "keywords": [
-        "7000선",
-        "돌아온",
-        "외국인"
-      ]
-    },
-    {
-      "title": "[마켓인사이트] 미중회담 빅이벤트·추석연휴…韓증시 어디로",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kYmJPR0dwVzF6NG1Uc1dmczhDZkpqVWFPb0tQVk5vd2Rmc05SUlFJdnhkb1liVm8xbGlKZEhQZU0zRmFwMVJhaXRQU1RraVp4ejRIX0hzN0RuU0HSAWBBVV95cUxObkZtUENxcldRdzBVSS1XTkk4R3A3YjNiUlBoZFI1OTJnSEVqd2tBQmFsUlF4d1lHdnl3bFJoMllUSjI5WXItb3BqTVpqaEM0WmVROW5OYUlMdGUtVUdzN2Q?oc=5",
-      "source": "연합뉴스",
-      "pubDate": "9.19",
-      "keywords": [
-        "미중회담",
-        "빅이벤트",
-        "추석연휴"
-      ]
-    },
-    {
-      "title": "[공모주달력]네오사피엔스·와이즈플래닛 추석 직전 코스닥 입성",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GT3ZCb3IzMWx0NlVRMmpsYjU1cU9heklXNlAxSU9Na1E3ak1waXZvbUE5OE9uRnl6UFZwZjE0QXV5bXMzU3d4SGZPNnczNEE?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "9.19",
-      "keywords": [
-        "네오사피엔스",
-        "와이즈플래닛",
-        "코스닥"
-      ]
-    },
-    {
-      "title": "추석 앞둔 코스피 방향성 탐색… ‘고금리·미중 회담’ 변수 [주간증시전망]",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uQV9WRVljYmpxQWstTXRGRDY2VHdrYVpOWDEyV0FhYVRtTzJ1X0JMRjJEeVI2aGRVeFdlNkV6bXdzd3hxNzJpazBLUGZjeFpCMEdkZ2dqWWZvdl81QlRxX25VUmhWa05vVTVJR0psanDSAXRBVV95cUxPdFZqOVFZLUptb1N3TXVJTkc2czA3Vlk4SkJzOFg5dUUwWUhHN3JpT2dFa29kWl9hZTFsSGVnNDY0V0RCMkh2a3loVEhWRWJKeDRoLWJDY3FCVlFjVG4wWXV5bFNsSWxNOV82TDJDaFZ1NzNYNQ?oc=5",
-      "source": "IT조선",
-      "pubDate": "9.19",
-      "keywords": [
-        "코스피",
-        "방향성",
-        "고금리"
+        "전약후강",
+        "재현할까",
+        "반도체"
       ]
     }
   ]
