@@ -1,93 +1,89 @@
 {
-  "updatedAt": "2026-09-20T23:47:15.610Z",
+  "updatedAt": "2026-09-22T00:30:47.854Z",
   "items": [
     {
-      "title": "연휴 전에 살까? 팔까? 7000선 앞둔 코스피 어디로",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WajVWNjdwdlU3VjYxMEFnMDdZVWFoMVdLMUR4cHc4Z251cTRMOXhCOE9vU2VPRkNUZFM5X2dMajItb2pkTG5RYlNyd2t2dHI5b25TSXlSQWVwZ9IBX0FVX3lxTE91Y1hzSGZBdk9wZkpMUnFoUlJxc3R0LXFGSDc2Ml9RaDliZC1BcEtBNmRfa1Z3TGY5amVWNTNBanJqbUZqSEIzZmpwbzBqLVA3TnA2SHpTM29XekVHWlRV?oc=5",
-      "source": "경향신문",
-      "pubDate": "9.20",
+      "title": "[속보] 코스피 2%대 상승…7,160선 출발",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55bEt2UEo2b0hIYzVFcVhjaTBkQUp6NGhoSXdodGNGNkQzUUJNdDVXNG13X0RkcENBcXhCSGloTUJyY2JiN19wRl9fWjhQblpKT2t6N0ZsX0xMRUFVUXNES1ZyMlFuYTg?oc=5",
+      "source": "연합뉴스TV",
+      "pubDate": "9.22",
+      "keywords": [
+        "160선",
+        "코스피",
+        "2%대"
+      ]
+    },
+    {
+      "title": "코스피, 열흘 만에 7천선 회복…삼전닉스 ‘자사주 매입’은 끝물",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oVmxfS21iNWJTZS0wdkRBUjRLMUNFUGZDTEdrZ3JYM0FTVlN5aUg2SjBuR2hNOVE0MUI1TkphQ202VmRxc3hOdWM3U0dKMkdYd2J3WHlHZFhSVjVfQ2xVRHc4YU1LTGc?oc=5",
+      "source": "한겨레",
+      "pubDate": "9.21",
+      "keywords": [
+        "삼전닉스",
+        "코스피",
+        "7천선"
+      ]
+    },
+    {
+      "title": "코스피, 2.20% 오른 7,161.61 출발…코스닥도 1.18%↑",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBORzdKR3k4elZfRndkNElyV1E0dGRKR3Z5cTJkSFpsOHAtd3ZGVk9HYlBSTzhWQkNRbzJsaG5oamlHd21neGR1WnZwOTZiZkI0MXNPeVpjQ0N2OEM0cG5qQ3dCRHh2XzdJQksyVXF3ZnXSAXRBVV95cUxPVFRnbkloSGZuc0xRYWFsbFBjTnlrLW45SW9KS05YckdsMXhxWkZzblFCMlEwWTFVa2ZpMjVQdHJUZjFCNVB2NTZtdzNsWWM4ejRuYk42SVdva2tqbzk1SHJtNjMtS29xcnMwMjByVGNXOXlJUg?oc=5",
+      "source": "연합인포맥스",
+      "pubDate": "9.22",
+      "keywords": [
+        "161.61",
+        "2.20%",
+        "1.18%"
+      ]
+    },
+    {
+      "title": "코스피 7000선 복귀, 반도체가 들어올렸다 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iVUZkTFc1Z1ZnQXYycVRCd012UFZRMjEtOUxVZjVVTTdDOEtpcGFaZEU0b0o3bjdpY3luZkRjUUE2eHJNUElWOHR3QWEtN1J5LUF6UkhmVEoxWjNqcEFmTkp0a0M4RGtB0gFuQVVfeXFMUC1zd3JlMWdqdnd0d0RjOE1fVzczR2x4VmYzd3k2ck9yX3dfaW82SHgxanY3QnJ0Q1VCOGVfS0lEQWcxaTNwakZtNVcteGlZSk9YakxSZ2lwUGp4VUk0MXo2U3FVbXJPMGhackRiY3c?oc=5",
+      "source": "머니투데이",
+      "pubDate": "9.21",
       "keywords": [
         "7000선",
-        "코스피",
-        "어디로"
+        "들어올렸다",
+        "머니투데이"
       ]
     },
     {
-      "title": "미중회담 빅이벤트 낀 추석 앞, '사흘 승부' 코스피 긴장감 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lVHowMjhhazNjOW9qT2FBT1N3c3hUcVY3RlJFMnAtZEhCODQyX2xPX2RreURhb2Vnc0lEV0FBbkxycWxEd2lsZWNrQUtSR2NnWVYxYXZhMUFuTmx0czNCSjQ4c0FsY2lR0gFuQVVfeXFMTkJlTG1fR0pFNlo5UVl1aFBvby1ZVmdiWXRJOUx0a2dRU2t3TnJPcHcwbFRJamFRVkswVFZ3ZDRoMUpvRVFqRDVjTWhlTzVCNllSWHd0eFlOR09uOXBjZEdQTnNwYTN3RW5WY0hNbkE?oc=5",
-      "source": "mt.co.kr",
-      "pubDate": "9.20",
+      "title": "연휴 앞둔 코스피, 종가 7천 선 회복...오늘 증시는?",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ULXlvdlUyYjJ0N21tQW5QYV9DTEI5UGU5bEw5ZlpjM1BVbVJzcWRFSmlRQ2hmcVRMZ3FWYUdXZF9kcm5GVHJjRXIwVzN4OFQxSm5OVHc0dDJRWklubHc?oc=5",
+      "source": "YTN",
+      "pubDate": "9.22",
       "keywords": [
-        "머니투데이",
-        "미중회담",
-        "빅이벤트"
+        "코스피",
+        "증시는",
+        "연휴"
       ]
     },
     {
-      "title": "추석 뒤 코스닥, 20년간 코스피 이긴 건 5번…올해는 다를까 - 조선비즈",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMVBoXzRBZHRKNXNSeHZqRDVWU1VzRnB5ZFhBeWhxU2hmeU9Wb3NlQTRjTlJscEpSN3JHOTBqMzhkTmo1OEVkdzlwT2JHMm5qWXVBbVFKV1J3eVFaMExNUm9ZSGJ5RW1WbXI5TDFaOUthZzU4c2kyaDl0dmF4T3NUYm1yUjRndThL0gGcAUFVX3lxTE5EN1JzTFlhcVd1VjNpTnB2Z21lZHdsLXRaM3QzZm0wUjI2OHlnWjF2N2NrVmxaSlpSZ1lhNlRfOGt6YVI3TWNPcTBOdjU4cmNtZXVnZ21KNUdVZjNVWDBFSExXZEJRSGRDQWNYYy1IVGV2MEdObThZLVlaZXl2X3V1Y1JSMkk0YWphZHZOZFRRcW5nc2RSczVicWtOTA?oc=5",
+      "title": "[투자노트] ‘동반 긴축’ 넘긴 코스피… 추석 연휴 전 변동성은 ‘비중 확대’ 기회 - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdTE1M09IRS0xMUkzNDNWNE55UG05cmVsVE1vb2JFdUp6RjNIWUtINWp3R0pCbnF3dmZOdUl4amJMMU9yQkliZU5aWFpzZnlIZ0paRDdEbm9fU3hfcFFTTjg3UFdxSzZocTlMN1FwVTlpcS1fV0kwWGljdXlORWxSNVpGbXVZbU520gGcAUFVX3lxTE9rZjFOZWVxamlZdU9iS19lUFRYZk5GMmM1d0RDbWJUSGtNOFN5ekp6cXZneks1RlZWQTVpMUpzVHViLUI5NTVtMjRLd0J5U0FOVjV2MklnbUxPWUw1TXZmbHBGM05FSEtOZldKdjJkaWlYXzlqUlNPOFI0dk1EVHpFdElvY0VCSEx3TW02S1dod0FRbXlBc2ZYNXgtNw?oc=5",
       "source": "Chosunbiz",
-      "pubDate": "9.20",
+      "pubDate": "9.21",
       "keywords": [
-        "20년간",
+        "변동성은",
         "조선비즈",
-        "코스닥"
-      ]
-    },
-    {
-      "title": "[마켓뷰] 코스피, 추석연휴 전후 '전강후약' 반복되나",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KbnlJcUYyTmpjeEs1MXA3RmFvYVlhSXBfcjZHdklsZnh3bXZLV3R3RW1UZ2gxdlBmTUpJU3FMb3dSNGZYc0ZuczRPWDZYUnM?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "9.20",
-      "keywords": [
-        "추석연휴",
-        "전강후약",
-        "반복되나"
-      ]
-    },
-    {
-      "title": "[AI MY 증시전망] 코스피, 반도체 강세에 상승 시도…7000선 재진입 '주목'",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uUzItYXc2TGdpU0tHcmNMcDVvWmVrVWtVdHRxaXRLckhtVG9oR0hVR21zLVVVWTRxU1VYOEhTMzRoMjJUT0ZxdWhMTFpGOHNvenhzckNUNTlIa0xD?oc=5",
-      "source": "뉴스핌",
-      "pubDate": "9.20",
-      "keywords": [
-        "7000선",
-        "코스피",
-        "반도체"
-      ]
-    },
-    {
-      "title": "미중 정상회담·추석 앞둔 코스피…상승세 이어갈까",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hWHF3UlR6TXNKdF94aEp1aDR2R3lNR2lZVXNPX0NTSDV6ZlBfYnoxRjNMT2JYWVJVdWhxamkwYmlMYkpzQklNeF9ITTNsQlRBN2RQTGlCZ1lxSEFVbXBpNEk4X2o?oc=5",
-      "source": "MTN 머니투데이방송",
-      "pubDate": "9.20",
-      "keywords": [
-        "정상회담",
-        "이어갈까",
         "코스피"
       ]
     },
     {
-      "title": "미·일 긴축에도 7천피 넘보는 코스피…\"2022년과는 다르다\"",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HSHJrMmp4bTRxZHVYakkyMlc5VlhOUlVoVERoUjZWUnNWVWhmakZBRXBKcTJXbzR4cDZNbkFXUjVyM0FmWHFmd0M5YV8xWTk3NXZFUEdEUlNqQQ?oc=5",
-      "source": "한국경제",
-      "pubDate": "9.18",
+      "title": "[마켓 프리뷰] 추석 앞두고 관망심리 이겨낸 코스피…'7천피' 재탈환",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByM0hid1FHWVk3Y3ZWNi1JZVUzMV9oS185a0FGZ3ZtMEVOSUxtNWRKdWxQM2pBNW1EcWxHeTdJMlp3OE9lUEJELWtPT3BWNG8?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "9.21",
       "keywords": [
-        "2022년과는",
-        "긴축에도",
-        "7천피"
+        "관망심리",
+        "앞두고",
+        "이겨낸"
       ]
     },
     {
-      "title": "반도체 훈풍 탄 코스피…추석 전후 ‘전약후강’ 재현할까",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NLTVyWTJYbmo2R3JTcW1kSi1iRkJ5VUw4dmphZFA0S3J1NW9teWdIUGFxWDJseWU1TnEwMEhKSk55d0h4Qk9RTFFKUHd0em5JdDNVZGd6QkpOZw?oc=5",
-      "source": "경북매일",
-      "pubDate": "9.20",
-      "keywords": [
-        "전약후강",
-        "재현할까",
-        "반도체"
-      ]
+      "title": "[코스피·코스닥 전 거래일(21일) 주요공시]",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SYWhxNjJjd2p6NXdycm4xSEFzaXp1c1huXzJZUXBhY2MycTgzREdFSGhhc2d3NjdMRUpaejdQODJEM3p0S082SlFlLVl4M0ppT3c?oc=5",
+      "source": "매일경제 마켓",
+      "pubDate": "9.21",
+      "keywords": []
     }
   ]
 }
