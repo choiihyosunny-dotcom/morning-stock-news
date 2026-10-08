@@ -1,15 +1,81 @@
 {
-  "updatedAt": "2026-10-07T01:10:37.600Z",
+  "updatedAt": "2026-10-08T01:30:47.631Z",
   "items": [
     {
-      "title": "코스피, 1.11% 내린 6,864.25 출발…코스닥도 소폭 하락",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VSlBMc1ZzNHJUeGpUTmJqWm5ZdHhFZ3diSUdCVlBybUdENXJyWS1PcDVVQ2dKLThpc0kxWWY0WmZnQXZ3cWFPQ1paNlpac2NtV0xjdDV0VlNIcV8zQ3J4UnUxT2s1VGM?oc=5",
+      "title": "[속보] 코스피 0.07% 오른 6,808.68 개장",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjNUQ3eXhEbG1ZRU9JUm5XNWZlRnBMYWoxRm16VGZ1NkFwdzVyeDlDX3FKUTZIa1ZCTEQtSHA1SzVWUFpuVTU4WGltRUJZejlZX0RiNkFwMDVSOHZ5TExvcHVqZTBDV1U?oc=5",
       "source": "연합뉴스TV",
+      "pubDate": "10.8",
+      "keywords": [
+        "808.68",
+        "0.07%",
+        "코스피"
+      ]
+    },
+    {
+      "title": "삼성전자 실적 발표에도 코스피·코스닥 혼조세",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5SEhZdVZTMTVwZllVV25LMXBiUkdLdDJhaExKWmxPZTFpbDY4UjVBRjU0WEJ0Yzc4blJ6Z3VzeXExV0JkZ05tZFBTSUs1UUI0VkhuSTdXeV9TdHI0M3c?oc=5",
+      "source": "YTN",
+      "pubDate": "10.8",
+      "keywords": [
+        "삼성전자",
+        "발표에도",
+        "코스피"
+      ]
+    },
+    {
+      "title": "코스피, 삼전 역대급 실적에도 약보합…상승출발 후 하락 전환",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yaHVqNEVDRzQ2a1d1Zk5fTHdaZ1JROXA1N2gwakpNZkhta0x5MU1kcUlHcFkzNVdEVnFndl9oTGlnVFhHdk5kY2VnYTNubXI2QWg2V29PbVlfX3Nsd0h6T1ZhYlZKR0NlZHFtVHpaeU_SAXRBVV95cUxPS0NiZjYxNWFEZ003WnJGMVctUGd5OWhMdU9iVFRDVjdGZFR5YkRfYUE4VWpqQ3lpZkI5VlBlWmN0MnlRamdiTVlxNDYtOWZxaHJxdmZidmlyRWJfOEVKaWU1dDNCRTc3MVU0OGUtb2pOT1R1Wg?oc=5",
+      "source": "연합인포맥스",
+      "pubDate": "10.8",
+      "keywords": [
+        "실적에도",
+        "상승출발",
+        "코스피"
+      ]
+    },
+    {
+      "title": "코스피, 삼성전자 호실적에도 6700선 후퇴",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13NTJQcnp3TTJjYkdhbjVQRWxFX0YxRnVtSWxrREpDbG02Y0N1dXNJRWNPMVdQb2sxOTlFRkdNUlFLX3FvUE5GQy0tUWdUWWFKN2VXSTRuN2VhQkh6YlltQg?oc=5",
+      "source": "뉴스토마토",
+      "pubDate": "10.8",
+      "keywords": [
+        "호실적에도",
+        "6700선",
+        "삼성전자"
+      ]
+    },
+    {
+      "title": "미 국채금리 오르자 코스피 하락‥6,700선까지 밀려",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CVU9ZcUt2a0FNbnA2ajhwWFMwd3hlTDNQWVdIYS1FWFRKMzN0eGNiUFVveHVNOFNuTlBodVdwRDlhaVdxR2kwUTlWSE8ycjA2d09fVHlDLW9OdHJOTlUyR18tZTNXSmlVQlNCaVI2c3N0RWpD0gF0QVVfeXFMUHFCejVzUkNFMnVQSGZwRW1NMnpIc01URHVYaGxRY3lNeGZ2T3Bra294azQ1aWdPN21EV1B6dWJwdmlESFZmcXRGWDFNdHZpcWRZT3BIX0YzMzhiWFJPekpPQ2xSRTk2UjBmbkVKM3pxYWZmTkQ?oc=5",
+      "source": "MBC 뉴스",
+      "pubDate": "10.8",
+      "keywords": [
+        "700선까지",
+        "국채금리",
+        "하락‥6"
+      ]
+    },
+    {
+      "title": "코스피 제약업종 약세장 속 한미약품 버팀목",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nbVlJQ0ZjWlAtZzNJQ3Q5eHdvUVZwZFV5UnVuYmpNcG1BSFhVOEk4WkN4ODUxbWd1c2k5LW5oSjlsbGF1TlFiUW9xMFNySjlrTkM0SThHOWxiMjRNZkxjc2tNRjA1TXdkUmc?oc=5",
+      "source": "의학신문",
       "pubDate": "10.7",
       "keywords": [
-        "864.25",
-        "1.11%",
-        "코스닥도"
+        "제약업종",
+        "한미약품",
+        "코스피"
+      ]
+    },
+    {
+      "title": "코스피, 삼전 ‘영역대급 실적’에도 하락 전환 6700선…코스닥 1%대↓",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oWVEtSEhiZnhUYkNHZ2V3MEpCM0JBQmZ4NWthS3c3UHl2RVJGQnlBbkFhcTBPdEl2aDM3QkJBbUlIdmxRTWVCSW1IQmxPNlZKYTVveGNwaVhYV1R5Y2lpVkZwRDJMVzMybTl2RW5xT0FBZlk?oc=5",
+      "source": "대한경제",
+      "pubDate": "10.8",
+      "keywords": [
+        "6700선",
+        "영역대급",
+        "실적에도"
       ]
     },
     {
@@ -21,72 +87,6 @@
         "7000에서",
         "최고치인데",
         "미끄러지나"
-      ]
-    },
-    {
-      "title": "코스피, 미 증시 훈풍에도 하락 출발…외인·기관 동반 매도",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qS3pRQVVQUDI0LUtkeVVoUlVQckRidVluRks5ZURpanZJTGF6R20wdG41OEIwTjFINXN1OVVNZ05MRkZ3ekRFa2NNNzZTRldQN253QTBVckg1NmRCNXFZRXhzSHhDRkxxLWs4eDQyVHA?oc=5",
-      "source": "연합인포맥스",
-      "pubDate": "10.7",
-      "keywords": [
-        "훈풍에도",
-        "코스피",
-        "증시"
-      ]
-    },
-    {
-      "title": "7천 밑으로 내려간 코스피...오늘 증시는?",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vaEZKS1JjZ215RGdCeTRtMFp5ZE1BekoxZ01DVDN5NmQyYy1ucXJHaHBwcVFQTlN4UWtKZGhoeWJsdENyNFYyLUFhamkzekhEcHBrbFVEeUJtdGhxUGc?oc=5",
-      "source": "YTN",
-      "pubDate": "10.7",
-      "keywords": [
-        "밑으로",
-        "내려간",
-        "코스피"
-      ]
-    },
-    {
-      "title": "뉴욕증시 훈풍에도… 코스피·코스닥 외국인·기관 ‘동반 매도’에 약세 출발",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSRDM1cG9WakN4a1pMUHNwYlVZZDN2ajNiYVdjWjVFZEVlWXdUdjhDQm5wX0xXZ2xmZjg4SFM1WW1PRlpsRlRwUF9Nd2tpeFk?oc=5",
-      "source": "Daum",
-      "pubDate": "10.7",
-      "keywords": [
-        "뉴욕증시",
-        "훈풍에도",
-        "코스피"
-      ]
-    },
-    {
-      "title": "삼성전자 실적 발표 앞두고 경계심리…코스피, 1%대 하락 출발",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQZm9CMUpoQVRiak9vWEgwWV9wc0xKN01IMmw4ZmVjVXhSdkY4cHNFX0QxODdXRGdMNnpJdHhKYUpEWEU3d2trTVB1SXdZUjBjOF9hb2lmVmtJQQ?oc=5",
-      "source": "한국경제",
-      "pubDate": "10.7",
-      "keywords": [
-        "삼성전자",
-        "경계심리",
-        "앞두고"
-      ]
-    },
-    {
-      "title": "코스피 6,970.16 코스닥 906.56",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYbVh5cVFtR0VKVmFPaC1GM0ZzVXZGQnBRNkNrTWZuOFlHd21JeXJLODJ2X2pkb08ybTVoSEMxTGwyRG9zQUE5X2tSTnA3Q20yYV9qVWxnQURwMEE?oc=5",
-      "source": "KBS 뉴스",
-      "pubDate": "10.7",
-      "keywords": [
-        "970.16",
-        "906.56",
-        "코스피"
-      ]
-    },
-    {
-      "title": "코스피, 1%대 하락 출발…코스닥도 약보합",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10WlVTWGMwYTRYZEs2Sl9SeHJPOUZfVkFCUGVRWXZtT2pMWFJWSlNfbFVna2Nfem5ZYkRTbzRnSDZOVGZSRVJ5RV9jMVFSTE1ieUk4c0pGNEFSTTDSAWBBVV95cUxQRDhLSmd6ZllrM01FUjZEUWxFbEQwM0dfbHNTRHFxU0dESS10dnNBTGlvakJDX1cwMklTRmxBVkZyNUZmT3hNcTlONWpocHNHRzE4UXBKUmFQblJXSzJRX3o?oc=5",
-      "source": "연합뉴스",
-      "pubDate": "10.7",
-      "keywords": [
-        "코스닥도",
-        "코스피",
-        "1%대"
       ]
     }
   ]
