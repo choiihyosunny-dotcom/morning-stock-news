@@ -1,87 +1,83 @@
 {
-  "updatedAt": "2026-10-13T02:48:18.408Z",
+  "updatedAt": "2026-10-14T00:48:52.815Z",
   "items": [
     {
-      "title": "코스피, 장중 5%대 급락…매도 사이드카 발동",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX1ZrR21rNE9XV3BrWmd5Z19hMUIyNlNiT3lxbFFFN21LOWxfb1dyNmpaOEROeXdiOTl5YW8zM0dqU2tmcFJLdGJtNzRJeVJ2MURlQlFVbUVtYWJwalo5MzhjaFFTb2tyM0VNSmtObFE0RzhGeGFXNDlLM2ZzdzNzRkVZR2s1XzBQVnNF?oc=5",
-      "source": "조선일보",
+      "title": "코스피 6000선 무너져…‘폭락의 달’ 7월 수준 복귀",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BNnhVVnpucGtmT1A4NnlOMlU1Q0pKLW5faXNJUUppNHlLU2N2MDVnbWdSQkVZcEN3Q1QtS1RxcGdvSm5aSC1QOHR2WDRlOG9KeWlkZG4zY2NqZ0FDUHZYM3liWE5JMVk?oc=5",
+      "source": "한겨레",
       "pubDate": "10.13",
       "keywords": [
-        "사이드카",
+        "6000선",
         "코스피",
-        "5%대"
+        "무너져"
       ]
     },
     {
-      "title": "코스피, 매도 사이드카 발동…6,000선 위협",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93WUFUWEZsaVpnZTJNZ3JQdDJFY21EV1RTM0VKUXFMZVlEZHNUUExzLVhRR0NNTjdmWE1TTHhmdndyenpPX3hfUG1CMVQ5SUhOR2JBZE1KSC1OUDJGU0FSSG9NWmIzTEk?oc=5",
-      "source": "연합뉴스TV",
+      "title": "'장중 7% 급락' 코스피, 6천 회복하며 마감‥삼성전자 7%↓·SK하이닉스 10%↓",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sVndVemNfRk1HNTJjMmdsaEdEQWI4TUtUdmZzSGVmcGppWURybFloTFJMRXlFelRXME9vbzRfX2JsdkpiSjVrRWtrTnI3T2tQcjJaa0lObklFc0J4bXY5Rl9LR2RCb0V0ZGdqSEw2ZlE5M2dy0gF0QVVfeXFMTnpucFZ5c3lHeWlROUQ3WFlNQWtPczdaZnhNRzUwbDJFZnlwS0ZDdEFVX1BUV0JjeTg0M3hwczJXWUJTNUVueU9EcHNzQ0RKWFNTTlpsWFpzRi0wWmM5bXdBaG1MV1cyQWlHcHQ0dU1TMEhaWDQ?oc=5",
+      "source": "MBC 뉴스",
       "pubDate": "10.13",
       "keywords": [
-        "사이드카",
-        "000선",
+        "마감‥삼성전자",
+        "SK하이닉스",
+        "회복하며"
+      ]
+    },
+    {
+      "title": "코스피, 0.44% 오른 6,062.08 출발…코스닥은 0.14%↓",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yZC1YdXdiQkVUTGhQcUNqZ1NDQzlVZ3c1cDI3c3EwcWJpTFBUaFU4ejd4N0hWWjlZbGtFRS1PN0Fzb2YyVmxRZmtaY25UU1E4SU5lYUZpZlhYVTZFTlY3Yjd4QjI5c2s?oc=5",
+      "source": "연합뉴스TV",
+      "pubDate": "10.14",
+      "keywords": [
+        "062.08",
+        "0.44%",
+        "0.14%"
+      ]
+    },
+    {
+      "title": "\"코스피 닷새간 13.8% 급락 이례적…추격 매도보다 중기 회복에 무게\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QbjF0Nzd6eGkwYlhxWDJYR1VqNk5KX2hERGpJbXFVcTFiYXA3dTl4aGV6bWZhSWFsMkkxLUx6N3dZbXRmSjJjMGJPdDhxM09wNDhYVmgtMWgtWi0zTUtQOC1ib2ZmZEhGVEtyR001VjQ?oc=5",
+      "source": "연합인포맥스",
+      "pubDate": "10.13",
+      "keywords": [
+        "13.8%",
+        "매도보다",
         "코스피"
       ]
     },
     {
-      "title": "코스피·코스닥, 연이틀 급락세…장초반 3~4%대 하락",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11M3ZkV3lBdENrOVlXRXhjdkRjZHp0djZtV3BJYkZ6c3ZHZWpUcjN3eWVMcUlfZFhyM3J5NXJvdHNTaF93Y0l4WU1sbFN1TlcwejZRZE5DSW5XWW1tOF9Xc9IBYEFVX3lxTE11M3ZkV3lBdENrOVlXRXhjdkRjZHp0djZtV3BJYkZ6c3ZHZWpUcjN3eWVMcUlfZFhyM3J5NXJvdHNTaF93Y0l4WU1sbFN1TlcwejZRZE5DSW5XWW1tOF9Xcw?oc=5",
+      "title": "장중 6천 선 아래로 밀린 코스피…2달여 전으로 후퇴",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02RlJUelZndkV1U0lTWnNINlA0akZiSDBnbGVIdWFHX2RDMXlCdHJPT2l0cms0N3VBVEg1SDc4R0dnTTYtSmp2cElxNkNDWmRBWWVQVmw2ell3bkU?oc=5",
+      "source": "KBS 뉴스",
+      "pubDate": "10.13",
+      "keywords": [
+        "아래로",
+        "코스피",
+        "2달여"
+      ]
+    },
+    {
+      "title": "[코스피·코스닥 전 거래일(13일) 주요공시]",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GWmdaTHQ1X21hamJWRlNWNk12aHktWGtvN3pfYUNnRWY2YklheHh3dzdtUFAzTjhMQUhtN2dDU21XaGk2Z2VROWp5YmNCekNKRmV4cFhWUTNnVGxFdDZqONIBYEFVX3lxTE1GWmdaTHQ1X21hamJWRlNWNk12aHktWGtvN3pfYUNnRWY2YklheHh3dzdtUFAzTjhMQUhtN2dDU21XaGk2Z2VROWp5YmNCekNKRmV4cFhWUTNnVGxFdDZqOA?oc=5",
       "source": "연합뉴스",
       "pubDate": "10.13",
-      "keywords": [
-        "3~4%대",
-        "코스피",
-        "코스닥"
-      ]
+      "keywords": []
     },
     {
-      "title": "코스피 4%대 급락…두 달여 만에 매도 사이드카 발동",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIUnBmeWtOczdzNDVraGdlMFdLWkpkSzVERE9McWp6bzBRaEtIeVhWRjgxQy1NTWVGQzJVMVV0UFo0OHFrbUZmeTNpeTVmSkQ4a0hfbTM4MDdtdWRlNU1va0tVRl9zcjlCbW5NclU4TGw?oc=5",
-      "source": "연합인포맥스",
+      "title": "코스피, 장중 6000선 붕괴...삼성전자 7%, SK하이닉스 9% 폭락",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX1ZrR21rNE9XV3BrWmd5Z19hMUIyNlNiT3lxbFFFN21LOWxfb1dyNmpaOEROeXdiOTl5YW8zM0dqU2tmcFJLdGJtNzRJeVJ2MURlQlFVbUVtYWJwalo5MzhjaFFTb2tyM0VNSmtObFE0RzhGeGFXNDlLM2ZzdzNzRkVZR2s1XzBQVnNF?oc=5",
+      "source": "조선일보",
       "pubDate": "10.13",
       "keywords": [
-        "사이드카",
-        "코스피",
-        "4%대"
+        "SK하이닉스",
+        "6000선",
+        "삼성전자"
       ]
     },
     {
-      "title": "[속보] 코스피, 6%대 급락에 6,000선 아래로",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mS3FnSVpVLS10N3ZKb2NLZFBzcWNYaTB0cTNybUxiVW5KeHRickpYbF9vZzd2WEpBRmRDYzhBcnVuN0tqQ1FNTUJ4a2FPNzVWVUVjekdNaHM2Z1d1U3FLUmRRUUdlNmVPQy1hMFhpT2FYRlRD0gF0QVVfeXFMT0p3NU5DZzFVS042TEZRcFp0SGNYdlVXMW9MdUNSdFVnZkFjaThHbkFSblpVWlVpYW5kay05bVlNcEgwWHhVWFlDZkVOaEVrZGd4VTR5R2VvTGdkYzg5ODcxV0JBYUpVdVg0VXl1dnc1SGZRUk0?oc=5",
-      "source": "MBC 뉴스",
-      "pubDate": "10.13",
-      "keywords": [
-        "000선",
-        "코스피",
-        "6%대"
-      ]
-    },
-    {
-      "title": "코스피, 두 달만에 매도 사이드카 발동...장중 4%대 급락",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLMEFrNjRPcGI0cTdTWmRKWGNRQ05WMEs3YWpaaUoxcGN0alNjNXpYUXlBamc0amtKeUk4YnZwNTlwLUY4YWt4YmJXblBPUWFBdzdGbE5GNDhhMVJO?oc=5",
-      "source": "티제이비",
-      "pubDate": "10.13",
-      "keywords": [
-        "사이드카",
-        "코스피",
-        "달만에"
-      ]
-    },
-    {
-      "title": "흘러내리는 코스피, 6100선 붕괴…코스닥도 3%대 급락",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LQ0oyM1JrLTlGOS1xdDkwN2Y4M2lUSm1DUFFGRDA5YUoyNUNWRzdhZjV5MUlCT3FvbHZwRExNMUxkN3BwTjdnOFR4OHpFNnpqTlJqdg?oc=5",
-      "source": "JTBC",
-      "pubDate": "10.13",
-      "keywords": [
-        "흘러내리는",
-        "6100선",
-        "코스닥도"
-      ]
-    },
-    {
-      "title": "[속보]코스피 장중 6000선 붕괴…6%대 급락",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05VUFoNXZJekotaHkxS3U0Q2hrbFhXXzQ0WS1hUDN3RW50NXNfblZ1Z3FjYTVnTDY4WUx6cVM0eTc4RHZFNkpBNUx2UnJGTjdnb0ZmQko3anZsZ9IBX0FVX3lxTE9mSlZJMHlybzNmNUV4RjhtalBJOURnZ3MtOVdrbEZYUWtnMm54bmZ3S181RGcyRkNDRDdlVEJnUFlWamNnbms4V01ld1N6RmV4WG04ekdidnYwOGxyYkNF?oc=5",
-      "source": "경향신문",
+      "title": "[심층분석] 코스피 6%대 급락… 6000선 붕괴된 3가지 이유",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12TXNNX1RtV1JLMmdCcEdlcUUwYVlPdGxpM0pLSWJkQm9qSHBXVy1nNzB1LXh3M2NrdkdySklHTDk0ZHhHY3B2cGYxR0xET3VlVll5V2IzOGExUQ?oc=5",
+      "source": "한국경제",
       "pubDate": "10.13",
       "keywords": [
         "6000선",
