@@ -1,88 +1,92 @@
 {
-  "updatedAt": "2026-10-15T00:15:15.781Z",
+  "updatedAt": "2026-10-16T00:00:21.602Z",
   "items": [
     {
-      "title": "코스피, 5.59% 급락 출발…코스닥도 4.79%↓",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xRkpvU3NjNUV4MzVZdzVsTzNuZ0RlRmpKZVFyTnZyUEZaQzUtN3V2clA3b3EyaWZhTGZxQXJOeDdib1ozV1FxUG1ybjJBLU95VXd2SGhEcUtzeEpkaDFCNXRySXJRMTg?oc=5",
+      "title": "코스피 8% 넘게 떨어져 서킷 브레이커…‘7월 폭락장’ 이후 처음",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mZlRCTlllLTZnVDZHWF9HMHc5T2M2S05la1B6d1ZXbkpSamF3V3F2bjJzU3RnZlZPcVREMmFlRm0yTnJJUWFuQTR5bEhzX1pOVEdJZ1VpdEJXSmh0bFowcmNCallUY2s?oc=5",
+      "source": "한겨레",
+      "pubDate": "10.15",
+      "keywords": [
+        "브레이커",
+        "코스피",
+        "떨어져"
+      ]
+    },
+    {
+      "title": "“국민연금 240조 증발, 고갈 10년 빨라진다”?…코스피 폭락 후 퍼진 글 사실일까",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OcW4teEY0b1B2QmVXVlZRTVJjWk9aU0JGT3ktcGpTUUVDUlV4UzR2bjFQV3poQW00bmRlZHZrTV9zazVvazdOSUJYckxZMzlaNkFycVR1OG5XME5MM0E?oc=5",
+      "source": "주간경향",
+      "pubDate": "10.15",
+      "keywords": [
+        "국민연금",
+        "240조",
+        "빨라진다"
+      ]
+    },
+    {
+      "title": "’검은 목요일’ 코스피·코스닥 7%대 동반 폭락…’AI 수익성’ 의문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42SjJ6dm1rLXBhRmJsSEEwN1ZHbEtTM19xR1lWaTdsYjZQbmlWOGY2cFhaX0toMlRiVXdQT041blJ5N0FZOVRZYTdGOFdNaVlRZVBYMm5BOGZQZHFOS2VUdTZVSlc3TGM?oc=5",
       "source": "연합뉴스TV",
       "pubDate": "10.15",
       "keywords": [
-        "5.59%",
-        "4.79%",
-        "코스닥도"
-      ]
-    },
-    {
-      "title": "끝없는 코스피 탈출 행렬…200조원 팔아치운 외국인 어디로",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lM0VDTHRqaEJGeWRDSElURE1HcEVnUG4wclhDQzFVTjBadGRlamJRWmVQdm1QVkJjcGJFY3dUTENnR205TlhyM3c5VkRiRjFfMmVHM1VSak9Gdw?oc=5",
-      "source": "한국경제",
-      "pubDate": "10.14",
-      "keywords": [
-        "200조원",
-        "팔아치운",
-        "끝없는"
-      ]
-    },
-    {
-      "title": "코스피, 하락 전환해 6000선 붕괴…23만전자·140만닉스 - 조선비즈",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOEdvU3d0VFZCOGRkRlJnZkFxLUl6Nk5MNVNUbTZvbGJYSEx4R25oNlBTYnNxZTFfV1lnMmdtU2NOanFZaWtwU21PQU1TMnVSSlU5aTZVNWxxdzRBQ0ZSekRzRGRSQ0l6UzFlY2ZJSFJSX19pd0dQNVNvenQ3TFJkcEVVYUFhamNJ0gGcAUFVX3lxTE9nSk8wZzZMa0h4c1ExRTRDRzJHRC04azlXcjdQTVMzcFYwckZVT21uVkN2N0lUQW0xYkNlT1VSQ2Jvak8xSHRsYjRFWHc3a1JuWElfSUFrQ1hzNjlWeUR3bUpuS0tmSlN0eklLQ1VzU25tZU1SOGtXbXJpWjNSWmlCOS1QWDVsWEx5SktNWWFQMlByY083enM4LWRDQw?oc=5",
-      "source": "Chosunbiz",
-      "pubDate": "10.14",
-      "keywords": [
-        "140만닉스",
-        "6000선",
-        "23만전자"
-      ]
-    },
-    {
-      "title": "6천 뚫린 코스피에 사모펀드 셈법 갈렸다…'현금 확보'vs'반도체 줍자'",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15NVRxdTdqdURiMFAxVy1FZnNaeW9uZTBreWpzSEk1WHZmaFdRalVxalFRRFhLVUdKYVJSdjZSaHp2NG9OOUdNS1UyYkZ5cC1oSHZ5cUlXbG8wM0xjZ1F6aEFzSnFnanhWM0h5TjdMRm4?oc=5",
-      "source": "연합인포맥스",
-      "pubDate": "10.14",
-      "keywords": [
-        "확보vs반도체",
-        "코스피에",
-        "사모펀드"
-      ]
-    },
-    {
-      "title": "[코스피·코스닥 전 거래일(14일) 주요공시]",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53bHd0UFd1bGFfOVVRYmFUdGFhSkVZci1xeG8yeUdYVlo0bWdyV2pWMUJZc3UxUnhHUDJCQjNvbWpvUTVrN1ZwYmtxRDg1WVUzMDBxYWdYUlcyRmvSAWBBVV95cUxNSUV3eGg5cFJWQW1fM3VPc0xoV2cwWXVsUTlLaWQ1TjcxUkJQX2ZoQ050bVJmZXI1amhnSUR0V1pKU003QmgxZEh2SHo5T3J1akRzMDFFRU5TVzA2U1ZJbEI?oc=5",
-      "source": "연합뉴스",
-      "pubDate": "10.14",
-      "keywords": []
-    },
-    {
-      "title": "[마감] 코스피, ASML 실적 실망에 0.44% 하락…6000선 턱걸이 By 알파경제 alphabiz",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5odDYzR2FNMTlSN2I3NE5hTDJlbG04QVdraE10ZG02NUFRWEtsM0txRTdaOG5OZklEOTlHTmp0ZkFQSXdDZTNtZ19NSHBpVmtFYm4wYXMwdENWdEFtSVE5amFxR3RienBxVUNuY1ZpMVU?oc=5",
-      "source": "Investing.com 한국어",
-      "pubDate": "10.14",
-      "keywords": [
-        "alphabiz",
-        "0.44%",
-        "6000선"
-      ]
-    },
-    {
-      "title": "코스피 6거래일 연속 내려...'6천 선' 턱걸이",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52REpoMkd4RExzYXRGZUstLU56c2lYd1VkelgwMUpkX1k0VkdhUV9OTDA0cTd0VUFvdUpOSVlHS291Y3BPMDNXZDlyZ1pnRTh3dGtPVlAySmNITzQ1cEE2MVVjY3J4eGljSDl6QnFrMA?oc=5",
-      "source": "YTN",
-      "pubDate": "10.14",
-      "keywords": [
-        "6거래일",
+        "목요일",
         "코스피",
-        "턱걸이"
+        "코스닥"
       ]
     },
     {
-      "title": "[속보] 코스피, 5.6% 급락한 5673 개장…코스닥도 4.8% 내려",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OZ3hwVGNkZWdJZk9lelRVeHNMeXphSUxPWnJiZ3dnaVAxWnlTaFBfZEd5Tlh4RzRyTFlHQ0dVZG90dndRcVhGLTNNSHZncHh0QndLNHNR?oc=5",
-      "source": "중앙일보",
+      "title": "코스피·코스닥 7%대 동반 폭락‥AI 수익성 우려",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XUGczZHpvZ2NSVThTbWtuTzh5bmtsY25oWmIybzRqcVBYTXpnYW1YcVpUT1RyUkJWeFl4MjJMdU9qSXIzUnBvbHlkQ3hKcUZYVHdaT2FEeDAxQVpjRXNWU1YzM3liLTdBZ2Nia2hZY0ZMX1RwZ0R5T0R30gF6QVVfeXFMTWdKS3ZyQ21DdE5KUXVFMWNsbFdPQzJGV29jRTlWS3VqdTF0YkZLMmc0WEVraC1yOUJsS3hTSlgzQmE0QXJzVmx6R08tNU1TRzJ6R0g4Nk5wWksya1YxcTR1SGhtUXc5bVdUMHlSYS0xN1NramxldXFBa0E?oc=5",
+      "source": "MBC 뉴스",
       "pubDate": "10.15",
       "keywords": [
-        "5.6%",
-        "5673",
-        "코스닥도"
+        "폭락‥AI",
+        "코스피",
+        "코스닥"
+      ]
+    },
+    {
+      "title": "코스피·코스닥 동반 서킷브레이커 발동…8% 급락",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYS3hROUpwLWZuY1dCeUN1aUlHQVhQUktXWWVoeEMxTjEyazRhSXhMSmRsZGMxYTVEMGVzdFlfWk9yRVNiNk1sREhBalB4Q2tUbkpSZXhkdXpjMTg?oc=5",
+      "source": "KBS 뉴스",
+      "pubDate": "10.15",
+      "keywords": [
+        "서킷브레이커",
+        "코스피",
+        "코스닥"
+      ]
+    },
+    {
+      "title": "미 물가 충격·AI 수익 우려에…코스피 5500선까지 추락",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NX20wbnVZYjdRZ3prMVhFZVFxWFMwNVFrRUEzejBZa0ZjYTJMTXJQNURBLXNWVm5NNWR6WjVmU3VtWEJxaHlURVZYaFB2cWQzUnU4bw?oc=5",
+      "source": "JTBC",
+      "pubDate": "10.15",
+      "keywords": [
+        "5500선까지",
+        "우려에",
+        "코스피"
+      ]
+    },
+    {
+      "title": "[YTN 실시간뉴스] 코스피·코스닥, 동반 서킷브레이커",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tSXRVMV9qVEhqbjVldmlJZ3JqZ2ZjMjdwU3VrcUhxaWhuX2J3c0xsX0NIU043b1IwM2VaVFUxWFUtbzNIcFJlWTZrUHZZUnN6d0F4bktYT3BSdDlobXc?oc=5",
+      "source": "YTN",
+      "pubDate": "10.15",
+      "keywords": [
+        "서킷브레이커",
+        "코스피",
+        "코스닥"
+      ]
+    },
+    {
+      "title": "반도체 ’빚투’ 10조…코스피 급락에 반대매매 경고등 By EBN",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZSkRZX2tSUTliVzZMQklJVUFrM2phY1prOEZHWVZmczkyM3NlUVJyYktWZFVGZnpMWVc1aHp4TTNkZTRQbmJoYl82UmFEWkJBZjBxLWdaanFHYWoyU25pd045aGxkdVlkT0pPdEF3T2E?oc=5",
+      "source": "Investing.com 한국어",
+      "pubDate": "10.15",
+      "keywords": [
+        "반대매매",
+        "반도체",
+        "10조"
       ]
     }
   ]
