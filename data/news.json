@@ -1,88 +1,92 @@
 {
-  "updatedAt": "2026-11-02T01:11:14.685Z",
+  "updatedAt": "2026-11-03T03:15:28.832Z",
   "items": [
     {
-      "title": "코스피, 1.62% 내린 5,637.77 출발…코스닥, 1.1%↓",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93YjR0YTVoQjg0UERBZXh0bHdkRGJVbHFOS3M3ZGZNNGpEdl9td1hjSlJTajVsTUpoWXY4ZkZjYVRNNXkzVUNGWWpUbjlOSnFDNVdRWkgzMlNLYUQxei1tODBBbkdxY0E?oc=5",
-      "source": "연합뉴스TV",
-      "pubDate": "11.2",
+      "title": "코스피·코스닥 장 초반 약세...장중 2%대 낙폭",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8teG5MZDZpc0RRbzFGQTAxakhsbXB0RUFtZy1NYWdIZ3VFSS1PX1JnSXN0ZGlzMTUzbU4tMVpSSzlUNkExWUVhSDNZNHVvNlB1eGwxVkNLcDJhdnZaeVNsc0V3TzdaaFhyVlFoZ0hlTQ?oc=5",
+      "source": "YTN",
+      "pubDate": "11.3",
       "keywords": [
-        "637.77",
-        "1.62%",
-        "1.1%"
-      ]
-    },
-    {
-      "title": "[코스피·코스닥 전 거래일(30일) 주요공시]",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9McHFmQ3V3c0Rta2VoM1NxY2U0ZWpBWlY2TXJpVUEwNlExMmg0Z0Z1SXo5SEZfR05FbkFDVmRoZGx1NmhsOWQ4QUxsWHkxSkgxUW8wRk50MnFBNjTSAWBBVV95cUxOY0NjdnUyd0pJU21ZSUhRVzF1MVFCaURFanFjLVk5TlJaczg2X3Joa21YYjh2UTFVTjlmUVFYNXRmZlZFa3V4Ym82cFhnanZXbWFOODRpcHQ3ZWNFU1EzN1U?oc=5",
-      "source": "연합뉴스",
-      "pubDate": "11.1",
-      "keywords": []
-    },
-    {
-      "title": "기술주 삭풍에 코스피 1%대 하락 출발…美선물 반등에 낙폭 제한",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VSkN4cVE3Z0FfT28wd2Y3d2VwOHhjaDFYaGdGbXQ4bDlnR3FVYk1BQzIwcWh5MHlMNUU3Qm5YZWFMbG9oUFI1ZTBnRW0wbXhiQzQxMFNGRlR6dEg0cllubl9OMV90YW1WeC1iVW50Vlo?oc=5",
-      "source": "연합인포맥스",
-      "pubDate": "11.2",
-      "keywords": [
-        "기술주",
-        "삭풍에",
-        "코스피"
-      ]
-    },
-    {
-      "title": "코스피 1% 하락하며 5,600선에서 출발‥코스닥 약보합",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DdGZLNHMxbF9yY3gyZ2FlRHBGcFU1ZXhvMjVrSU1DOWIzdUdnTGdnVk1VQUlOUUNFOHRZZUplMkdndWdMYjg1bUlKSy1sa1laWEZVb3R3VFVVbllWN2s4WnhLZjRVSHNFbHBsSGw3NXZ3WWVs0gF0QVVfeXFMTXFxNGFQbUoyalBfaWtCTjJTVHEtMWV1MThwTmpxM3Zqd0pnRm84S0lwNlBSZXhpZ3AtNFl4WFB2ZmhvRUZKWkw0a3k3QjVJV0NvX0ZoTHJxOXptNXpJU0xmaE4xaW5mSlltSi1TRHZBeWlHR18?oc=5",
-      "source": "MBC 뉴스",
-      "pubDate": "11.2",
-      "keywords": [
-        "600선에서",
-        "출발‥코스닥",
-        "하락하며"
-      ]
-    },
-    {
-      "title": "“인텔 28% 폭락 쇼크”…코스피, 또 검은 월요일 될까? [잇슈 머니]",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KVVVIV3dBd0VnaFdBUEl6Y2IxT1hBRVBBdVRtR3p4bzg5alFZM3QxQm1EUm9PbEFKbVFOMnNqZTFFSmc0UFVXSUYtZFpWcWxNWnNhV0tuVlRSUlE?oc=5",
-      "source": "KBS 뉴스",
-      "pubDate": "11.1",
-      "keywords": [
-        "28%",
         "코스피",
-        "월요일"
+        "코스닥",
+        "2%대"
       ]
     },
     {
-      "title": "인텔리빅스, 코스닥 상장 첫날 공모가 대비 244% 급등하며 화려한 입성",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PQUVpeVBQOWRPc29SbGR1dWw0LUdsdWpPdmRIeTZIdHhaYkdlTXRBN1JqOEpleGZIakN5ZDl0UVZHbDVsV2RINlRnYm9VRWNuTDJDa3JmYTVZa1VlNTFDRHl6VEhkaGx6ZWVr?oc=5",
-      "source": "보안뉴스",
+      "title": "코스피, 2.46% 내린 5,715.19에 출발…코스닥, 1.42%↓",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDbkJRQTFrZUk4NWRyd3l0Q3EzdkVLdXpkMXJQcmd6QVBLeV82NzE3MU1EX0ROVlZiaHhGMUtXc2RQRUZtV0Q2Z0p4bDk1RnBGaXJNb0d4clVVMHJpVll1UzY1UWlBeGs?oc=5",
+      "source": "연합뉴스TV",
+      "pubDate": "11.3",
+      "keywords": [
+        "715.19에",
+        "2.46%",
+        "1.42%"
+      ]
+    },
+    {
+      "title": "코스피, 2.46% 하락한 5,715.19 출발…코스닥도 1.42%↓",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91ZW5nS2dNY1ZRZGtGampNdi1IQ1J2U3RfRG00X01lYjJObUU3WGtKUDNvT05zbHllR0dfeVVYekNLTkdjQUpiRmI1LXkzdktCRmJGaVlVQVpBeXQ1VGlJZmN4OG54MlMyLWpQS1lnM3PSAXRBVV95cUxPNnZaNVR5bFI5R1E0ZkgzZWpDR0Q3a2tjN1J4dnQ4R3dpTDE0bEhMMmR5cERJSnhhbmF4UHRNWmhJWlN6QjVhR1FkWVVwUU1NWjJzb0h2RXljdjE1aVZmd0FUb2JlTndWdDZMbkRFM1BPMXdzWA?oc=5",
+      "source": "연합인포맥스",
+      "pubDate": "11.3",
+      "keywords": [
+        "715.19",
+        "2.46%",
+        "1.42%"
+      ]
+    },
+    {
+      "title": "\"코스피 적정 가치는 7200, 공포에 질린 지금이 매수 적기\"",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV2EtaHBhRTVFbGtRQmJCVURUemJXQUZ1ZG5YenJqUFRyVlBGcHBWRTBQYmNWR3QtNFZPWDc2bXpYOEczZXhLMklqWDV2blpRNUZkM0UzY00yakJPNHljWlVMNF93RXVCQW92VHBmX3hkd1FTaUhPUDJfLURfa3NSUw?oc=5",
+      "source": "조선일보",
       "pubDate": "11.2",
       "keywords": [
-        "인텔리빅스",
-        "244%",
-        "급등하며"
+        "7200",
+        "코스피",
+        "가치는"
       ]
     },
     {
-      "title": "코스피 5700 밑으로…개인·외국인 매도세에 하락 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SNm54S2tDTGZwRURVTjVQc0pkZjVQamdfaWFyVWRPN2h2T242b2kzT1dfekRJWE55TURiLTllVy11aDF6Z3FDdWlyM0RQRU1keE1ZcmZLOGNEdFVGdXBBS2ZPeVd3cUFw0gFuQVVfeXFMT0p1dHNreFVENHJmMVdxUHNsTnVzRE5lZk0wdGZiazBUOXdSVHpNUXpCTzZVLVRzb0VRSm5CWTZOYW5UaXBGRzZWOFlleG8wV1dzNUd3YjV3bUZUcmJxYVl2VmlhQjFNYmpzalBScmc?oc=5",
+      "title": "코스피, 장 중 3%대 '뚝'… AI 수익성 우려에 美 기술주 급락 여파 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sZ3VNanNEVS1BZlBEOG0xX3hIUkE0MWc0bFlwSEFZWDAyR1AxMVB0N2xlaEtDeFhGQUg2bU0yTm1XS3VCbTJlbkl2LU1vNVp4ZjVoenVpV2QweHRtZjNwcWZNMF9BNkhE0gFuQVVfeXFMT21lREtUeXlhVzlrbmk1U1Npa0lrQ3o4dUxFSGI0MzQ1OXN3Wlc4RkRQU09JMUFjVElzYzFnSUhhTURUaXNWeFVPNnZuMHdONzE0cXU0eVZ2MzdaWTByNmxGTjFQaHBjNHNFRm8tWnc?oc=5",
       "source": "머니투데이",
-      "pubDate": "11.2",
+      "pubDate": "11.3",
       "keywords": [
         "머니투데이",
-        "5700",
-        "매도세에"
+        "코스피",
+        "3%대"
       ]
     },
     {
-      "title": "AI 투자 회의론에 국내 증시도 약세…코스피 1%대 하락",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3SHJpbzNzM2VOZUotdTJYX1pEbS1BeEFHbnRRbVFUVURBUW5ZbllWM0FyWFBMcTFrTXE1WFVHZ3FuVFFjYkdBbllmd0ozWnlqRTVlSEx1UGFKQzRhNGtUbmVqakFpWDBmN1Jibm16cjF4UQ?oc=5",
-      "source": "인더스트리뉴스",
+      "title": "코스피, 美기술주 급락에 장 초반 3%대 하락…코스닥도 2%대↓(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RZ2R6U3BYSmlCeWhUQlN4MzhRRXFHVXE0UGp2RWpCcU1YVXluR1Q0LXRsQ2NnMXdsVTl3MzJST3IwWlkwdlp5VTJfdlU1cTRTX0JNVE95TnNrNHfSAWBBVV95cUxPM0E5NUdDTTVvSnhFN2lneDVaVDBxMGlBT1RucTNHclMxd1dVT1k1aUZkZ0NldGRiY0d0SWMtQUFlWml3QzhxRmVFblVGS003bVBHbUFqaTlNeVJ0OWt0Z2s?oc=5",
+      "source": "연합뉴스",
+      "pubDate": "11.3",
+      "keywords": [
+        "코스닥도",
+        "코스피",
+        "기술주"
+      ]
+    },
+    {
+      "title": "인텔 실적 평가 달라지자…코스피 2% 반등",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wcUxxM3JwSjU5SHNOLW9IZ2lmdVl5eXoxSlBjeEJKOHNzQjB3SV9ReVNaSl9EbnM5VjlZZTdCcy1IMFhWVkJkODBBdWU4ckZVTWh5MUI4M0FzZw?oc=5",
+      "source": "한국경제",
       "pubDate": "11.2",
       "keywords": [
-        "회의론에",
-        "증시도",
-        "코스피"
+        "달라지자",
+        "코스피",
+        "인텔"
+      ]
+    },
+    {
+      "title": "코스피, 美 AI주 조정에 3%대 하락 출발…반도체株 동반 약세 By EBN",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tNkxnVkJzQVkzck9KNDZUdEJfTjM0aG9hSUF2QTliMUdEN3FLS0xzWTNVU09ndk50a0lBeE1oMl9uREFJYXhrdzZHYmppd3JCNXZNWGN5V0t2UkxQMUtiNVBJdWRpbVZQdzI4d25kb2U?oc=5",
+      "source": "Investing.com 한국어",
+      "pubDate": "11.3",
+      "keywords": [
+        "코스피",
+        "AI주",
+        "조정에"
       ]
     }
   ]
