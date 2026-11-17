@@ -1,91 +1,91 @@
 {
-  "updatedAt": "2026-11-16T01:31:25.546Z",
+  "updatedAt": "2026-11-17T04:16:57.453Z",
   "items": [
     {
-      "title": "코스피, 0.28% 오른 5,305.40에 출발…코스닥, 0.89%↑",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDTEhWdW1OaG9RTHVvcFA2VFpNWXVPM0tOWFF4QVUxRXEzV0N5VjBaa05hNTNDS25lT3pVVVdKM2NwN015dk5HNlhSMDl4ZjF4UWRCOFJEYy1HcWlid294YTJ3cFJ6aGs?oc=5",
-      "source": "연합뉴스TV",
-      "pubDate": "11.16",
+      "title": "엔비디아·AI 규제 투매 여파...코스피, 사흘 째 하락",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBncDNVdWs3NmRDaUs2Y2tBbktwWXhvNjJFUm1hdnVsUDdSejlUUklraFVmS2dLVXlINGF5aVVUNnNCRTNqNUN4U2pmZ3JiTE5BcnRHcWNSeUV4MnVEUVpGdmxNYjhVNFBqUEZrWll5RQ?oc=5",
+      "source": "YTN",
+      "pubDate": "11.17",
       "keywords": [
-        "305.40에",
-        "0.28%",
-        "0.89%"
-      ]
-    },
-    {
-      "title": "방향 잃은 코스피, 개인 홀로 '사자'…5,300선 반짝 회복",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOZ3BULVZYWUQ4clZxZGpNeE9ZZ0x0U1lWZWRiSDlhVEcyZ0cwcmhHTFN3OE9PQU80ci1WSThNMWVibGh3YTRWeG00bXlUR0dxdnI1RGRxVWI5OEhaSGFzM3FyRGxVX2ZMOXdlN2tUb04?oc=5",
-      "source": "연합인포맥스",
-      "pubDate": "11.16",
-      "keywords": [
-        "300선",
+        "엔비디아",
         "코스피",
-        "방향"
+        "AI"
       ]
     },
     {
-      "title": "코스피, 5,300선 회복하며 출발‥장 초반 등락 반복",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52UV9KemR1c2lzMjlsa2JSRDZweEZ2VklUbDE2bHhiZlJrUnpnTUczellPaWlvMzdOQTNQRHlnQXpjaTdxbFpjbnNzdzZLSFpfWG9HeGxIb3R6bUo1M1FfejVBQlRPcUcwZEtjU3dmeXBZRXlE0gF0QVVfeXFMTWlDbmtNOURiUHpaSnZydUxtMmhSVllWVDBpWWJmU2Q4djdKSlpUTEVjbE9vYWp6M0dMWk9hT0Q3aHI2dWZvcWM0SXcyVjlJVy1RZ3NRTUVTODlXTjNTLU5TRENTc2prZWkzZHlPZVgyVE92RHc?oc=5",
-      "source": "MBC 뉴스",
+      "title": "코스피, 나흘 연속 하락…장중 5,000선 다시 무너져",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vbHByTXJGaXVGaGc2ZlBBM1IxVWx5RjFxMHV3MjRzU1phOHpiZWh4a19TbjNVcFdXRWhKTUFDZEk5LUFOT2xrOVJVY0xKWEtMV1ZqazZRLVotY3NoLWZCVm1wNFA3TFk?oc=5",
+      "source": "연합뉴스TV",
+      "pubDate": "11.17",
+      "keywords": [
+        "000선",
+        "코스피",
+        "무너져"
+      ]
+    },
+    {
+      "title": "젠슨황·앤트로픽·금리…'삼중고'에 짓눌린 코스피",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43bUJfQlVmMFNBZ3Q2ZjNXVTU3VEVEVGttTndMbmJvdUM4S2pya3cweEhzTDVSeUFkNGdUTERLcUJOVFZwbFdkSG85QUV5b21fakhaNHFldmF3XzTSAWBBVV95cUxNTEt3V09XSGN5WmFIYUlaOFdGV0p1RS1hYWhBY1VLSmhSV3dFN3VhNERkZjVNVFI5allRcTJwRHJ3cDNfMGV5dGlLdUExX3oxQkdGNG0tbGRDeThUdXRsWUE?oc=5",
+      "source": "연합뉴스",
+      "pubDate": "11.17",
+      "keywords": [
+        "앤트로픽",
+        "삼중고에",
+        "젠슨황"
+      ]
+    },
+    {
+      "title": "‘美 AI주 급락 여파’ 코스피, 2%대 하락 출발…장중 ‘5천피’ 붕괴",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xblZ6ZWFvaDdTMVZRMkt6OWpKSXE1dHRFcUdFSGVDZW9kWnB0YjN5RTJzX00tbkU0d3k1SkxERUdkRDM4RUljUFlHNVhXcjJ2MDVOTXprZlJMbTA?oc=5",
+      "source": "강원일보",
+      "pubDate": "11.17",
+      "keywords": [
+        "AI주",
+        "코스피",
+        "2%대"
+      ]
+    },
+    {
+      "title": "\"코스피 8300 간다더니\"…증권가 전망에 개미들 '부글부글' [분석+]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCVW5VazlkSUVSUEppYXdGbks3Nnl2NG5wVnZScElRX0tTc0wxdmlMT2NYSXkzWnNTUHZRcXFhZTYtdVdZNjFWZnNFQWF4aXg3YWc2bmVmRWdDQQ?oc=5",
+      "source": "한국경제",
       "pubDate": "11.16",
       "keywords": [
-        "300선",
-        "회복하며",
-        "출발‥장"
+        "8300",
+        "간다더니",
+        "부글부글"
       ]
     },
     {
-      "title": "[단독] 코스피 3분의1이 대주주지분 과반·저PBR",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ORzY0a3VCNFcxVVJOYzN5X2YyejhydWt4VEVITXZES1NTem5Yak9VYUVXVTJXSjRZYWI4WW50Q3hPT2pqd0U1dndlMUhRcXlab2c?oc=5",
-      "source": "매일경제",
-      "pubDate": "11.15",
+      "title": "[속보]코스피 1.8% 급락에 5000선 위태",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Bb0hOUlk3dU1fY0NXeFh5ZjJuRzZjR2k2WnEyM0pkNzM1VnBkYThYa2lDc19VMi1Vc0hxMC1PLXJBcHFEWWlpZU9LSjRqRWo5bDJOOUxySXNmZ9IBX0FVX3lxTE5DZ0NuUlE2QkVYTjZoaENldENWUXVRUzRMS0NFbDA2UHNobHdVWXh0aExZVFV4SDZLSUR3UW1oQzJpVEUyQndvN1BXQk5GeDhFckpLVGV1Q1NuLWtaUjF3?oc=5",
+      "source": "경향신문",
+      "pubDate": "11.17",
       "keywords": [
-        "3분의1이",
-        "대주주지분",
-        "저PBR"
-      ]
-    },
-    {
-      "title": "[e마켓오프닝] 美 반도체지수 3.4% 급락···코스피 외국인 매매 향방은",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkMVRfaXBZZmRqZEoyeHpHUzRnVVB0NUstQllWWEFfQlFkYktQeVZ0cG1NbzdfQlpVQ2ZKMkV6ekR0ZGVienZfRHpmY3pMMWkyWEh2OHhnMHhQWGduZENXcGJuSm1CX19vLUJYeGZWQ1h5QQ?oc=5",
-      "source": "시사저널e",
-      "pubDate": "11.16",
-      "keywords": [
-        "반도체지수",
-        "3.4%",
+        "5000선",
+        "1.8%",
         "코스피"
       ]
     },
     {
-      "title": "코스피, 젠슨황 파장속 보합권 등락…코스닥 1%대↓(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMVZLN0NXZk1GdWxxMFRydG95SlNkZ2xiZmFnNXdnaVEwSW1SZzlFZEhqdVhheWR0RHFUZWdFYThGWmtqaFRWNEx4ZVBmTEpjODQwSkxYeW5RWTJWaGpxU0ZJcG9vSHp5c0hnRnExTzZ1ZXRXVEFNZmlZU2VYaVREZ1h1SUoxWnV2RkE?oc=5",
-      "source": "연합뉴스",
-      "pubDate": "11.16",
+      "title": "[속보] 코스피 장 초반 2%대 하락‥5천 선 아래로",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nMkFUUkIxdU1YZ2ZsQWZSWkZ4X2RvSmVGV0hFNF96MGkyQWJ5WEJaTDg2Z3d2ZGp6YWNOQ2I0c0k0QV9YWTQ3QkExM3FhQjktVnJZa0lYSVltdVlja3h2MHp3bUZjZ3l6Yjd1QU5ReTFOVWN00gF0QVVfeXFMTzI4OC1UNDhHQmppMHJCZ2VmZmVLSmN1SWJULWRuZWp3dEFCM2VPWnF5d0hFcG1lWTlWVGx5bnQzVUR2YXJaQXdFWkpLSEhLRzE4ZDlxZG9weDFnR2t1bGVJMmpibWxLUFFIdkFEZWZ6YlNiLTY?oc=5",
+      "source": "MBC 뉴스",
+      "pubDate": "11.17",
       "keywords": [
+        "하락‥5천",
         "코스피",
-        "젠슨황",
-        "파장속"
+        "2%대"
       ]
     },
     {
-      "title": "코스피·코스닥 동반 상승 출발...장중 하락세 전환",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NcTl1S3FlNFFpa2VhYkVYOTdReU1JNk1oWlhzSkxORUktMmVsMDI5V09TVzE5bWRjQWl0OWgtRG0zLVlmVWhmRnNPaWkzWTVZZ2FHMjFUZ2FaQ2NJVlE?oc=5",
-      "source": "YTN",
-      "pubDate": "11.16",
+      "title": "엔비디아 우려에 코스피 장중 5,000 하회…외국인 순매도(상보)",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Ed1BMOFlJTWtVSFVZWVVsZUFpZ3V6UXVTMDdwNXQtMzItQ1Q3RU1Id29JZkF3VXVadWtxa1djSW53RUZzX1lNQlI5N1JVSHlNUUxmWmJBVjg4Qm5VVnN1YUh2VnhqSjRsTGEycVZsbkk?oc=5",
+      "source": "연합인포맥스",
+      "pubDate": "11.17",
       "keywords": [
-        "코스피",
-        "코스닥",
-        "하락세"
-      ]
-    },
-    {
-      "title": "코스피 5300선 등락…엔비디아 실적 앞두고 관망세",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uTG1fZllkdTBqbldHalIxbW0wLWt2eVJDRjE5VlppTWkzcW05ZTJQSG5FYnYxYVpFVXNFY25od19Qd2pxc1l5SDF0RjI?oc=5",
-      "source": "전자신문",
-      "pubDate": "11.16",
-      "keywords": [
-        "5300선",
         "엔비디아",
+        "우려에",
         "코스피"
       ]
     }
