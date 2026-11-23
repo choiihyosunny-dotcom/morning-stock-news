@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-22T01:51:34.381Z",
+  "updatedAt": "2026-11-23T02:07:51.223Z",
   "indices": [
     {
       "name": "코스피",
-      "value": 4869.96,
-      "change": -267.93,
-      "changePercent": -5.21
+      "value": 4683.72,
+      "change": -186.24,
+      "changePercent": -3.82
     },
     {
       "name": "코스닥",
-      "value": 645.68,
-      "change": -39.13,
-      "changePercent": -5.71
+      "value": 629.64,
+      "change": -16.04,
+      "changePercent": -2.48
     }
   ]
 }
